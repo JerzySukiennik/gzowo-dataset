@@ -1,0 +1,164 @@
+[
+ {
+  "id": "koparka",
+  "name": "Koparka",
+  "ours": true,
+  "facts": [
+   "Koparka na kółkach, własna.",
+   "Pomaga na działce. Pracuje nią głównie Waldek.",
+   "W grze Rysia stoi przy wiacie, a \"łyżka bierze pół metra naraz\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "gra-narew"
+  ]
+ },
+ {
+  "id": "tesla",
+  "name": "Tesla",
+  "ours": true,
+  "facts": [
+   "Rodzinne auto elektryczne. Tesla to ulubiona marka Jurka (za minimalizm).",
+   "W grze Rysia można nią jeździć po posesji, światła zapalają się o zmroku."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "notatki",
+   "gra-narew"
+  ]
+ },
+ {
+  "id": "motorowka",
+  "name": "Motorówka",
+  "ours": true,
+  "facts": [
+   "Szara łódź motorowa. \"Rysio łapie wiatr na motorówce\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ]
+ },
+ {
+  "id": "kajaki",
+  "name": "Kajaki",
+  "ours": true,
+  "facts": [
+   "Leżą na brzegu Narwi. Na pikselowej mapie gzowo.fun są dwa: pomarańczowy i turkusowy."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "gzowo.fun",
+   "gra-narew"
+  ]
+ },
+ {
+  "id": "sup",
+  "name": "Deska SUP",
+  "ours": true,
+  "facts": [
+   "\"Rysio na SUPie świetnie się bawi!\""
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ]
+ },
+ {
+  "id": "dron",
+  "name": "Dron DJI Avata",
+  "ours": true,
+  "facts": [
+   "Pilotuje tata. Zdjęcie \"Dron w chmurach. Lecąca AVATA\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ]
+ },
+ {
+  "id": "rakiety",
+  "name": "Rakiety modelarskie",
+  "ours": true,
+  "facts": [
+   "Flota Gzowo Space Program, patrz dział Rakiety."
+  ],
+  "source": [
+   "gzowo.fun"
+  ]
+ },
+ {
+  "id": "pianino",
+  "name": "Pianino cyfrowe",
+  "ours": true,
+  "facts": [
+   "Stoi w domu. Jurek gra na zaawansowanym poziomie."
+  ],
+  "source": [
+   "notatki"
+  ]
+ },
+ {
+  "id": "stol",
+  "name": "Duży stół na limonkowych kozłach",
+  "ours": true,
+  "facts": [
+   "Blat ze sklejki. Miejsce porannych śniadań."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "notatki"
+  ]
+ },
+ {
+  "id": "fotel",
+  "name": "Pasiasty fotel pod wiatą",
+  "ours": true,
+  "facts": [
+   "Mieści tatę i trójkę dzieci naraz (\"Wspólny czas na fotelu\")."
+  ],
+  "source": [
+   "galeria",
+   "obserwacja"
+  ]
+ },
+ {
+  "id": "futro",
+  "name": "Białe futro i buty z krokodyla",
+  "ours": true,
+  "facts": [
+   "Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."
+  ],
+  "source": [
+   "notatki",
+   "galeria",
+   "wniosek"
+  ]
+ },
+ {
+  "id": "skuter",
+  "name": "Żółty skuter wodny",
+  "ours": false,
+  "facts": [
+   "Widać go na zdjęciach plaży, ale NIE jest Sukienników.",
+   "W grze Rysia można nim pływać i robić fale."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "obserwacja",
+   "gra-narew"
+  ]
+ },
+ {
+  "id": "polo",
+  "name": "Czerwone VW Polo",
+  "ours": false,
+  "facts": [
+   "Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "obserwacja"
+  ]
+ }
+]

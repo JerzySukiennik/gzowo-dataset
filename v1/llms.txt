@@ -1,0 +1,43 @@
+# Gzowo Dataset
+
+> Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
+
+Język: polski. Wersja 1.0 z 2026-11-10. Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany.
+
+## Najpierw to
+- [Cały tekst datasetu](https://dataset.gzowo.fun/gzowo-dataset.md): wszystko w jednym pliku Markdown, czytaj w całości
+- [Opis każdego zdjęcia i filmu](https://dataset.gzowo.fun/data/media.json): kto, gdzie, kiedy, co widać, adresy plików
+- [Wszystko w jednym JSON](https://dataset.gzowo.fun/data/all.json)
+- [Repozytorium do sklonowania](https://github.com/JerzySukiennik/gzowo-dataset): `git clone` daje teksty, dane i media lokalnie
+
+## Dane
+- [Miejsce, Narew, teren, współrzędne](https://dataset.gzowo.fun/data/place.json)
+- [Oś czasu](https://dataset.gzowo.fun/data/history.json)
+- [Ludzie](https://dataset.gzowo.fun/data/people.json)
+- [Zwierzęta](https://dataset.gzowo.fun/data/animals.json)
+- [Miejsca na działce i w okolicy](https://dataset.gzowo.fun/data/spots.json)
+- [Sprzęt i rzeczy](https://dataset.gzowo.fun/data/objects.json)
+- [Rytuały](https://dataset.gzowo.fun/data/rituals.json)
+- [Powiedzonka](https://dataset.gzowo.fun/data/sayings.json)
+- [Słownik](https://dataset.gzowo.fun/data/vocabulary.json)
+- [Historie i wspomnienia](https://dataset.gzowo.fun/data/stories.json)
+- [Rakiety](https://dataset.gzowo.fun/data/rockets.json)
+- [Marki, logo, kolory](https://dataset.gzowo.fun/data/brands.json)
+- [Gry osadzone w Gzowie](https://dataset.gzowo.fun/data/games-in-gzowo.json)
+- [Postacie zmyślone z gier](https://dataset.gzowo.fun/data/fictional.json)
+- [Propozycje pod grę (nie fakty)](https://dataset.gzowo.fun/data/game-kit.json)
+- [Czego jeszcze nie wiemy](https://dataset.gzowo.fun/data/open-questions.json)
+- [Lista projektów Gzowo Labs](https://dataset.gzowo.fun/data/gzowo-labs-projects.json)
+- [Źródła i poziomy pewności](https://dataset.gzowo.fun/data/meta.json)
+
+## Media
+- [Logo Gzowo Labs, SVG poziome](https://dataset.gzowo.fun/media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg)
+- [Logo Gzowo Labs, sam znak SVG](https://dataset.gzowo.fun/media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg)
+- [Zdjęcie lotnicze działki](https://dataset.gzowo.fun/media/geo/ortofoto-dzialka-zblizenie.jpg)
+- [Ortofotomapa 1 x 1 km](https://dataset.gzowo.fun/media/geo/ortofoto-1km.jpg)
+- [Pikselowa mapa działki z gzowo.fun](https://dataset.gzowo.fun/media/mapa-pikselowa/_cala-mapa.webp)
+- [Postacie low-poly](https://dataset.gzowo.fun/media/postacie/osrodek-daje/characters-front.png)
+- Zdjęcia: `https://dataset.gzowo.fun/media/photos/<grupa>/<plik>.jpg`, filmy: `https://dataset.gzowo.fun/media/wideo/<id>.mp4`, kadry: `https://dataset.gzowo.fun/media/klatki/<id>/`. Pełna lista w media.json.
+
+## Strona dla ludzi
+- [Strona główna](https://dataset.gzowo.fun/)

@@ -1,0 +1,197 @@
+[
+ {
+  "id": "jurek",
+  "name": "Jurek Sukiennik",
+  "full_name": "Jerzy Sukiennik",
+  "group": "rodzina",
+  "role": "Starszy syn. Autor tego datasetu, twórca Gzowo Labs, konstruktor rakiet.",
+  "facts": [
+   "Rocznik 2012, mieszka w Warszawie, w roku szkolnym 2026/27 chodzi do 8 klasy.",
+   "Pasje: rakiety modelarskie, druk 3D, AI i własne modele, gry przeglądarkowe, design, pianino i fortepian (poziom zaawansowany), Michael Jackson.",
+   "Minimalista. Ulubiona marka aut to Tesla.",
+   "Dawny nick w internecie: KALAKASANYT (Kalakasan yt).",
+   "W Gzowo Space Program ma tytuł CEO.",
+   "Na stronie gzowo.fun przedstawia się hasłem: \"I build things that fly. And a few that don't crash.\""
+  ],
+  "looks": "Ok. 173 cm, szczupły, jasna skóra, oczy zielono-piwne, włosy średni brąz, potargane. Typowy strój: czarna bluza z kapturem Nike x RTFKT (żółty znaczek), czarne dresy, zielone Crocsy. Na starszych zdjęciach z działki: czerwona kurtka i żółta albo zielona czapka.",
+  "in_games": "W grze Ośrodek Daje to on jest sprawcą dziur w ziemi (eksperyment GSP), chodzi z telefonem w ręku. Na gzowo.fun jest pikselowym i trójwymiarowym awatarem, który wiosłuje kajakiem, łowi ryby i jeździ na łyżwach po zamarzniętej Narwi.",
+  "source": [
+   "notatki",
+   "jurek-2026-11-10",
+   "gzowo.fun",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "rysio",
+  "name": "Rysio Sukiennik",
+  "full_name": "Ryszard Sukiennik",
+  "aliases": [
+   "Ryś",
+   "Rysio"
+  ],
+  "group": "rodzina",
+  "role": "Młodszy brat Jurka.",
+  "facts": [
+   "Autor gry 'NAREW, posesja nad jeziorem', w której chodzi się po działce.",
+   "Na zdjęciach: pływa na desce SUP w kapoku, łapie wiatr na motorówce, pozuje w okrągłych okularach (\"Rysio lubi Old School\"), zimą trzyma wielką taflę lodu (\"Zimowy obiad Rysia\") i staje w pozie Supermana w świetle reflektora (\"Strike a pose!\").",
+   "Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia)."
+  ],
+  "looks": "Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.",
+  "in_games": "W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.",
+  "source": [
+   "notatki",
+   "galeria",
+   "gzowo.fun",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "jan",
+  "name": "Jan Sukiennik",
+  "aliases": [
+   "Tata",
+   "KS",
+   "Kierownik Ośrodka"
+  ],
+  "group": "rodzina",
+  "role": "Tata. Zabawowo i śmiesznie: KS, czyli Kierownik Ośrodka (bo działka to dawny ośrodek).",
+  "facts": [
+   "Jego złota myśl i zasada nr 1: \"Ośrodek daje, Ośrodek daje\" (od \"Bóg daje, Bóg zabiera\").",
+   "Jak mówi i jaki jest (wg Jurka): siup do przodu, nie uważa, wyluzowany, kocha lustra, wizjoner, prosty, elegancki.",
+   "Pilotuje drona DJI Avata (zdjęcie \"Pilot Jan\": stoi nad Narwią z kontrolerem w rękach).",
+   "Maluje światłem przy ognisku (zdjęcie \"Malowanie Światłem\").",
+   "W GSP ma tytuł Founding Partner. Jego rakieta to zielony 'Architektoniczny wieżowiec'.",
+   "Czyta dzieciom książki na działce (\"Letnia lektura\"), konsultował budowę tarasu.",
+   "Prowadzi firmę R&D Studio (rd.studio).",
+   "To dla niego powstała Galeria Gzowo (Dzień Ojca 2026)."
+  ],
+  "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
+  "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
+  "source": [
+   "jurek-2026-11-10",
+   "notatki",
+   "galeria",
+   "gra-narew",
+   "gzowo.fun"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "waldek",
+  "name": "Waldek",
+  "full_name": "Waldemar Otton",
+  "group": "przyjaciele",
+  "role": "Pracownik i pomocnik w Gzowie, ale też bardzo przyjaciel.",
+  "facts": [
+   "To głównie on pracuje koparką i kopie na działce.",
+   "Ma swój dom w okolicy (miejsce \"dom Waldka\").",
+   "Dropsik był bardziej jego psem niż Sukienników.",
+   "W Galerii ma własny pokój \"Ottonowie. Wierni członkowie Gzowa\" z portretem z żoną Bożeną, zatytułowanym \"Dziadkowie\"."
+  ],
+  "in_games": "W grze Rysia Waldek przyjeżdża konno, kiedy wpisze się poprawny kod na ścianie (\"Waldek jeździ tu konno, odkąd pamiętam\"), jest też \"zakład z Waldkiem\" o kopanie.",
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "gra-narew"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "bozena",
+  "name": "Bożena Otton",
+  "group": "przyjaciele",
+  "role": "Żona Waldka. Razem z nim na portrecie \"Dziadkowie\" w cieniu drzew.",
+  "facts": [],
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "ciszewscy",
+  "name": "Ciszewscy",
+  "group": "przyjaciele",
+  "role": "Zaprzyjaźniona rodzina, stali goście Gzowa: Bartek, Ola Kluzek \"Clu\", Ignacy i Helena.",
+  "facts": [
+   "W Galerii mają pokój \"Ciszewscy x Sukiennicy\" z hasłem \"Herbata nie wyklucza kawy\".",
+   "Ola \"Clu\" odpoczywa w hamaku wśród sosen.",
+   "Ignacy i Helena to dzieci (wniosek ze zdjęć): \"Modlitwa przy drzewie\", wspólne czytanie z Janem, Jurkiem i Rysiem.",
+   "Ignacy z Rysiem przedzierali się przez trawy do stacji Moya (\"Ciężka droga do stacji Moya\").",
+   "Helena chodziła zimą po zamarzniętej Narwi."
+  ],
+  "in_games": "W grze Rysia po czterech minutach wjeżdżają autem przez bramę, parkują przed domem, wysiada czworo i od tej pory chodzą po posesji.",
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "gra-narew",
+   "wniosek"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "czuprynscy",
+  "name": "Czupryńscy",
+  "group": "przyjaciele",
+  "role": "Znajomi rodziny. Właściciele kota Beethovena.",
+  "facts": [
+   "Zdjęcie \"Razem o zachodzie\": przytuleni nad wodą w złotym świetle."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "janek-kunstler",
+  "name": "Janek Kunstler",
+  "group": "przyjaciele",
+  "role": "Kolega Jurka. Był w Gzowie podczas wielkiej burzy z gradem.",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "arek",
+  "name": "Arek",
+  "group": "okolica",
+  "role": "Śp. \"Gzowiański somsiad\", wędkarz znad Narwi. Imię niepewne (Jurek: \"chyba Arek\").",
+  "facts": [
+   "Zdjęcie \"Letni odpoczynek\" z Janem na brzegu: \"Piwko, Narew, wspólny czas. Czego by tu chcieć więcej!\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "id": "benny",
+  "name": "Benny",
+  "group": "okolica",
+  "role": "Lokalna postać, lubiana przez rodzinę.",
+  "facts": [
+   "Znany z tego, że często chodzi z puszką piwa, nawet w deszczu."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "moya-ekipa",
+  "name": "Ekipa stacji Moya",
+  "group": "okolica",
+  "role": "Bardzo miłe panie, które pracują na stacji Moya, i pan, który często tam przychodzi.",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ }
+]

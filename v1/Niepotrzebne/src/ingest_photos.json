@@ -1,0 +1,1814 @@
+{
+ "gallery": [
+  {
+   "file": "media/photos/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 209006,
+   "id": "galeria/IMG-20251019-WA0000",
+   "source_name": "IMG-20251019-WA0000",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Architektoniczny wieżowiec",
+   "caption": "Rakieta z architektoniczną budową oraz wyglądem",
+   "who": "Rakieta Taty",
+   "where": "Gzowo 34, Polska",
+   "date": "2025-10-19"
+  },
+  {
+   "file": "media/photos/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 401238,
+   "id": "galeria/IMG-20251019-WA0001",
+   "source_name": "IMG-20251019-WA0001",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Architektoniczny wieżowiec gotów do startu",
+   "caption": "Gotów do startu w 100%. Idealna okładka dla nowego albumu Beatlesów",
+   "who": "Rakieta Taty",
+   "where": "Okolice GSP Launch Site",
+   "date": "2025-10-19"
+  },
+  {
+   "file": "media/photos/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 544079,
+   "id": "galeria/IMG-20251019-WA0003",
+   "source_name": "IMG-20251019-WA0003",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Architektoniczny wieżowiec gotów do startu V2",
+   "caption": "Gotów do startu w 100%",
+   "who": "Jerzy Sukiennik oraz Rakieta Taty",
+   "where": "Okolice GSP Launch Site",
+   "date": "2025-10-19"
+  },
+  {
+   "file": "media/photos/galeria/IMG-20251126-WA00021_render-rakiety-the-orange-beauty-w-blenderze.jpg",
+   "w": 1600,
+   "h": 744,
+   "bytes": 19846,
+   "id": "galeria/IMG-20251126-WA00021",
+   "source_name": "IMG-20251126-WA0002(1)",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Render rakiety \"The Orange Beauty\" w Blenderze",
+   "caption": "Pomarańczowa piękność",
+   "who": "Rakieta Jurka",
+   "where": "Blender",
+   "date": "2025-11-26"
+  },
+  {
+   "file": "media/photos/galeria/IMG-20251129-WA0001_the-orange-beauty-w-pelnej-okazalosci.jpg",
+   "w": 1600,
+   "h": 1319,
+   "bytes": 59285,
+   "id": "galeria/IMG-20251129-WA0001",
+   "source_name": "IMG-20251129-WA0001",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "\"The Orange Beauty\" w pełnej okazałości",
+   "caption": "Zdjęcie 0,5x rakiety \"The Orange Beauty\"",
+   "who": "Rakieta Jurka",
+   "where": "GSP Launch Site",
+   "date": "2025-11-29"
+  },
+  {
+   "file": "media/photos/galeria/IMG_3054_rakieta-gzofajfus-classic-mk-iv-po-wielkim-sukce.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 671926,
+   "id": "galeria/IMG_3054",
+   "source_name": "IMG_3054",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Rakieta Gzofajfus Classic Mk IV po wielkim sukcesie",
+   "caption": "Rakieta Gzofajfus Classic Mk IV po wielkim sukcesie leży na ziemi.",
+   "who": "Rakieta Jurka",
+   "where": "GSP Launch Site",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_4297_pilot-jan.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 319354,
+   "id": "galeria/IMG_4297",
+   "source_name": "IMG_4297",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Pilot Jan",
+   "caption": "Z kontrolerem w ręce w naturze",
+   "who": "Jan Sukiennik (tata)",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_4299_dron-w-chmurach.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 201985,
+   "id": "galeria/IMG_4299",
+   "source_name": "IMG_4299",
+   "rooms": [
+    "aerospace"
+   ],
+   "title": "Dron w chmurach",
+   "caption": "Lecąca AVATA",
+   "who": "DJI Avata",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2872_beethoven-jurek.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 424948,
+   "id": "galeria/IMG_2872",
+   "source_name": "IMG_2872",
+   "rooms": [
+    "aminals"
+   ],
+   "title": "Beethoven&Jurek",
+   "caption": "Beethoven nie boi się Jurka (podejrzane)",
+   "who": "Kot Beethoven oraz Jerzy Sukiennik",
+   "where": "Plaża Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_3748_jurek-z-dropsikiem.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 512383,
+   "id": "galeria/IMG_3748",
+   "source_name": "IMG_3748",
+   "rooms": [
+    "aminals",
+    "the-early-days"
+   ],
+   "title": "Jurek z Dropsikiem",
+   "caption": "Letnie przytulanie psa",
+   "who": "Śp. Dropsik oraz Jerzy Sukiennik",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_4288_kontemplujacy-beethoven.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 234323,
+   "id": "galeria/IMG_4288",
+   "source_name": "IMG_4288",
+   "rooms": [
+    "aminals",
+    "sunset"
+   ],
+   "title": "Kontemplujący Beethoven",
+   "caption": "Beethoven wita słońce",
+   "who": "Kot Beethoven",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_1997_rysio-na-desce-sup.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 264511,
+   "id": "galeria/IMG_1997",
+   "source_name": "IMG_1997",
+   "rooms": [
+    "black-n-white",
+    "narew"
+   ],
+   "title": "Rysio Na desce SUP",
+   "caption": "Rysio na SUPie świetnie się bawi!",
+   "who": "Ryszard Sukiennik",
+   "where": "Narew - Gzowo, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2487_rysio-lubi-old-school.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 298463,
+   "id": "galeria/IMG_2487",
+   "source_name": "IMG_2487",
+   "rooms": [
+    "black-n-white",
+    "the-early-days"
+   ],
+   "title": "Rysio lubi Old School",
+   "caption": "Rysio w okularach",
+   "who": "Ryszard Sukiennik",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2850_nad-woda.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 414623,
+   "id": "galeria/IMG_2850",
+   "source_name": "IMG_2850",
+   "rooms": [
+    "black-n-white",
+    "narew",
+    "the-early-days"
+   ],
+   "title": "Nad wodą",
+   "caption": "Kopanie w piasku i łabędź na jeziorze.",
+   "who": "Ryszard, Jerzy oraz Jan",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_1458_clu-na-hamaku.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 496670,
+   "id": "galeria/IMG_1458",
+   "source_name": "IMG_1458",
+   "rooms": [
+    "ciszewscy"
+   ],
+   "title": "Clu na hamaku",
+   "caption": "Odpoczynek wśród sosen.",
+   "who": "Ola Kluzek",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_3765_modlitwa-przy-drzewie.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 567778,
+   "id": "galeria/IMG_3765",
+   "source_name": "IMG_3765",
+   "rooms": [
+    "ciszewscy"
+   ],
+   "title": "Modlitwa przy drzewie",
+   "caption": "",
+   "who": "Ignacy oraz Helena",
+   "where": "Gzowo, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_3771_letnia-lektura.jpg",
+   "w": 1600,
+   "h": 1200,
+   "bytes": 478203,
+   "id": "galeria/IMG_3771",
+   "source_name": "IMG_3771",
+   "rooms": [
+    "ciszewscy",
+    "the-early-days"
+   ],
+   "title": "Letnia lektura",
+   "caption": "Wspólne letnie czytanie",
+   "who": "Jerzy, Ignacy, Ryszard oraz Jan",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_4503_ciezka-droga-do-stacji-moya.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 517863,
+   "id": "galeria/IMG_4503",
+   "source_name": "IMG_4503",
+   "rooms": [
+    "ciszewscy"
+   ],
+   "title": "Ciężka droga do stacji Moya",
+   "caption": "Przedzieranie się przez trawy",
+   "who": "Ryszard oraz Ignacy",
+   "where": "Okolice stacji Moya w Gzowie",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_8205_wspolny-czas.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 517937,
+   "id": "galeria/IMG_8205",
+   "source_name": "IMG_8205",
+   "rooms": [
+    "ciszewscy",
+    "the-early-days"
+   ],
+   "title": "Wspólny czas",
+   "caption": "Wspólny czas na fotelu",
+   "who": "Jerzy, Ryszard, Ignacy oraz Jan",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_8213_zimowe-chodzenie-po-lodzie.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 314684,
+   "id": "galeria/IMG_8213",
+   "source_name": "IMG_8213",
+   "rooms": [
+    "ciszewscy",
+    "zima"
+   ],
+   "title": "Zimowe chodzenie po lodzie",
+   "caption": "Zimowy spacer po zamarzniętej Narwi",
+   "who": "Helena",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_3663_malowanie-swiatlem.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 214771,
+   "id": "galeria/IMG_3663",
+   "source_name": "IMG_3663",
+   "rooms": [
+    "fire"
+   ],
+   "title": "Malowanie Światłem",
+   "caption": "Malowanie Światłem przy ognisku",
+   "who": "Jan Sukiennik (tata)",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_8933_luna.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 115101,
+   "id": "galeria/IMG_8933",
+   "source_name": "IMG_8933",
+   "rooms": [
+    "midnight"
+   ],
+   "title": "Luna",
+   "caption": "Cicha noc i samotny księżyc.",
+   "who": "Luna",
+   "where": "Okolice Gzowa",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2110_motorowka-rysio.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 202678,
+   "id": "galeria/IMG_2110",
+   "source_name": "IMG_2110",
+   "rooms": [
+    "narew"
+   ],
+   "title": "Motorówka&Rysio",
+   "caption": "Rysio łapie wiatr na motorówce",
+   "who": "Ryszard Sukiennik",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2387_letni-odpoczynek.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 509616,
+   "id": "galeria/IMG_2387",
+   "source_name": "IMG_2387",
+   "rooms": [
+    "narew",
+    "the-early-days"
+   ],
+   "title": "Letni odpoczynek",
+   "caption": "Piwko, Narew, wspólny czas - Czego by tu chcieć więcej!",
+   "who": "Jan Sukiennik oraz śp. Gzowiański somsiad",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_7545_razem-o-zachodzie.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 187514,
+   "id": "galeria/IMG_7545",
+   "source_name": "IMG_7545",
+   "rooms": [
+    "sunset"
+   ],
+   "title": "Razem o zachodzie",
+   "caption": "Przytuleni nad wodą w złotym świetle.",
+   "who": "Czupryńscy",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_9197_slonce-nad-polem.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 85799,
+   "id": "galeria/IMG_9197",
+   "source_name": "IMG_9197",
+   "rooms": [
+    "sunset"
+   ],
+   "title": "Słońce nad polem",
+   "caption": "Jurek doświadcza zachodu słońca",
+   "who": "Jerzy Sukiennik",
+   "where": "Okolice domu Waldka",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_2802_krowi-chlopiec.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 366539,
+   "id": "galeria/IMG_2802",
+   "source_name": "IMG_2802",
+   "rooms": [
+    "the-early-days"
+   ],
+   "title": "Krowi chłopiec",
+   "caption": "Wspólny odpoczynek na podwórku (Alligator included)",
+   "who": "Jerzy, Ryszard oraz Jan",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_7131_czytanie-w-domu.jpg",
+   "w": 1600,
+   "h": 1200,
+   "bytes": 391970,
+   "id": "galeria/IMG_7131",
+   "source_name": "IMG_7131",
+   "rooms": [
+    "the-early-days"
+   ],
+   "title": "Czytanie w Domu",
+   "caption": "Leniwy dzień na kanapie",
+   "who": "Jerzy Sukiennik oraz Ryszard Sukiennik",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_9191_praca-nad-tarasem.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 680587,
+   "id": "galeria/IMG_9191",
+   "source_name": "IMG_9191",
+   "rooms": [
+    "the-early-days"
+   ],
+   "title": "Praca nad tarasem",
+   "caption": "Konsultacja tarasu",
+   "who": "Jan Sukiennik oraz Pracownik",
+   "where": "Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_7546_dziadkowie.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 393634,
+   "id": "galeria/IMG_7546",
+   "source_name": "IMG_7546",
+   "rooms": [
+    "waldek"
+   ],
+   "title": "Dziadkowie",
+   "caption": "Portret w cieniu drzew.",
+   "who": "Waldemar oraz Bożena Ottonowie",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_8221_klucz-ptakow.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 62563,
+   "id": "galeria/IMG_8221",
+   "source_name": "IMG_8221",
+   "rooms": [
+    "wiosna"
+   ],
+   "title": "Klucz Ptaków",
+   "caption": "Ptaki wracające na wiosennym niebie.",
+   "who": "Ptaki!",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_6684_zimowy-obiad-jurka.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 367200,
+   "id": "galeria/IMG_6684",
+   "source_name": "IMG_6684",
+   "rooms": [
+    "zima"
+   ],
+   "title": "Zimowy Obiad Jurka",
+   "caption": "Mmm, yummy!",
+   "who": "Jerzy Sukiennik",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_6746_zimowy-obiad-rysia.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 663264,
+   "id": "galeria/IMG_6746",
+   "source_name": "IMG_6746",
+   "rooms": [
+    "zima"
+   ],
+   "title": "Zimowy Obiad Rysia",
+   "caption": "Mmm, yummy!",
+   "who": "Ryszard Sukiennik",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  },
+  {
+   "file": "media/photos/galeria/IMG_8094_strike-a-pose.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 218746,
+   "id": "galeria/IMG_8094",
+   "source_name": "IMG_8094",
+   "rooms": [
+    "zima"
+   ],
+   "title": "Strike a pose!",
+   "caption": "Mały Superman w świetle reflektorów!",
+   "who": "Ryszard Sukiennik",
+   "where": "Narew - Gzowo 34, Polska",
+   "date": ""
+  }
+ ],
+ "beach": [
+  {
+   "file": "media/photos/plaza/IMG_1139.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 731000,
+   "id": "plaza/IMG_1139",
+   "source_name": "IMG_1139",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1140.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 673484,
+   "id": "plaza/IMG_1140",
+   "source_name": "IMG_1140",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1141.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 785834,
+   "id": "plaza/IMG_1141",
+   "source_name": "IMG_1141",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1142.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 704119,
+   "id": "plaza/IMG_1142",
+   "source_name": "IMG_1142",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1143.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 739200,
+   "id": "plaza/IMG_1143",
+   "source_name": "IMG_1143",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1144.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 678164,
+   "id": "plaza/IMG_1144",
+   "source_name": "IMG_1144",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1145.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 625814,
+   "id": "plaza/IMG_1145",
+   "source_name": "IMG_1145",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1146.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 527359,
+   "id": "plaza/IMG_1146",
+   "source_name": "IMG_1146",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1147.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 364857,
+   "id": "plaza/IMG_1147",
+   "source_name": "IMG_1147",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1148.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 429855,
+   "id": "plaza/IMG_1148",
+   "source_name": "IMG_1148",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1149.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 708985,
+   "id": "plaza/IMG_1149",
+   "source_name": "IMG_1149",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1150.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 739300,
+   "id": "plaza/IMG_1150",
+   "source_name": "IMG_1150",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1151.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 686161,
+   "id": "plaza/IMG_1151",
+   "source_name": "IMG_1151",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1152.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 660965,
+   "id": "plaza/IMG_1152",
+   "source_name": "IMG_1152",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1153.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 703440,
+   "id": "plaza/IMG_1153",
+   "source_name": "IMG_1153",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1154.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 740840,
+   "id": "plaza/IMG_1154",
+   "source_name": "IMG_1154",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1155.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 675506,
+   "id": "plaza/IMG_1155",
+   "source_name": "IMG_1155",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1156.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 729035,
+   "id": "plaza/IMG_1156",
+   "source_name": "IMG_1156",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1157.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 781802,
+   "id": "plaza/IMG_1157",
+   "source_name": "IMG_1157",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1158.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 545802,
+   "id": "plaza/IMG_1158",
+   "source_name": "IMG_1158",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1159.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 522781,
+   "id": "plaza/IMG_1159",
+   "source_name": "IMG_1159",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1160.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 622059,
+   "id": "plaza/IMG_1160",
+   "source_name": "IMG_1160",
+   "date": "2026-08-08"
+  },
+  {
+   "file": "media/photos/plaza/IMG_1161.jpg",
+   "w": 1200,
+   "h": 1600,
+   "bytes": 546982,
+   "id": "plaza/IMG_1161",
+   "source_name": "IMG_1161",
+   "date": "2026-08-08"
+  }
+ ],
+ "rockets": [
+  {
+   "file": "media/photos/rakiety/IMG-20251102-WA0000.jpg",
+   "w": 482,
+   "h": 1044,
+   "bytes": 64404,
+   "id": "rakiety/IMG-20251102-WA0000",
+   "source_name": "IMG-20251102-WA0000",
+   "date": "2025-11-02"
+  },
+  {
+   "file": "media/photos/rakiety/IMG-20251019-WA0002.jpg",
+   "w": 1168,
+   "h": 720,
+   "bytes": 48213,
+   "id": "rakiety/IMG-20251019-WA0002",
+   "source_name": "IMG-20251019-WA0002",
+   "date": "2025-10-19"
+  },
+  {
+   "file": "media/photos/rakiety/IMG-20251018-WA0001.jpg",
+   "w": 1129,
+   "h": 1600,
+   "bytes": 251545,
+   "id": "rakiety/IMG-20251018-WA0001",
+   "source_name": "IMG-20251018-WA0001",
+   "date": "2025-10-18"
+  },
+  {
+   "file": "media/photos/rakiety/IMG-20251019-WA0004.jpg",
+   "w": 1600,
+   "h": 1200,
+   "bytes": 194761,
+   "id": "rakiety/IMG-20251019-WA0004",
+   "source_name": "IMG-20251019-WA0004",
+   "date": "2025-10-19"
+  }
+ ],
+ "brand": {
+  "gzowo-labs": [
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-napis-biale.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-napis-ciemne-tlo.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-napis-czarne.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-napis-kolor.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-biale.svg",
+    "bytes": 16260
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-ciemne-tlo.svg",
+    "bytes": 16260
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-czarne.svg",
+    "bytes": 16260
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-kolor.svg",
+    "bytes": 16247
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-biale.svg",
+    "bytes": 6058
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-ciemne-tlo.svg",
+    "bytes": 6058
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-czarne.svg",
+    "bytes": 6058
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-kolor.svg",
+    "bytes": 6058
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-biale.svg",
+    "bytes": 15620
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-ciemne-tlo.svg",
+    "bytes": 15620
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-czarne.svg",
+    "bytes": 15620
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg",
+    "bytes": 15620
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-biale.svg",
+    "bytes": 1561
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-ciemne-tlo.svg",
+    "bytes": 1561
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-czarne.svg",
+    "bytes": 1561
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg",
+    "bytes": 1561
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-biale.svg",
+    "bytes": 1431
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-ciemne-tlo.svg",
+    "bytes": 1431
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-czarne.svg",
+    "bytes": 1431
+   },
+   {
+    "file": "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-kolor.svg",
+    "bytes": 1431
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-napis-biale.png",
+    "bytes": 35408
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-napis-ciemne-tlo.png",
+    "bytes": 35408
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-napis-czarne.png",
+    "bytes": 40076
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-napis-kolor.png",
+    "bytes": 40076
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-pionowe-biale.png",
+    "bytes": 77848
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-pionowe-ciemne-tlo.png",
+    "bytes": 81715
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-pionowe-czarne.png",
+    "bytes": 88020
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-pionowe-kolor.png",
+    "bytes": 90250
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-biale.png",
+    "bytes": 35549
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-ciemne-tlo.png",
+    "bytes": 37623
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-czarne.png",
+    "bytes": 40464
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-kolor.png",
+    "bytes": 42055
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-biale.png",
+    "bytes": 45846
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-ciemne-tlo.png",
+    "bytes": 47953
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-czarne.png",
+    "bytes": 51944
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-poziome-kolor.png",
+    "bytes": 53574
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-biale.png",
+    "bytes": 19594
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-ciemne-tlo.png",
+    "bytes": 23016
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-czarne.png",
+    "bytes": 23148
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-kolor.png",
+    "bytes": 25507
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-biale.png",
+    "bytes": 18734
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-ciemne-tlo.png",
+    "bytes": 22045
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-czarne.png",
+    "bytes": 22245
+   },
+   {
+    "file": "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-kolor.png",
+    "bytes": 24399
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/apple-touch-icon.png",
+    "bytes": 3244
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon-16.png",
+    "bytes": 467
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon-192.png",
+    "bytes": 3580
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon-32.png",
+    "bytes": 764
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon-48.png",
+    "bytes": 1005
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon-512.png",
+    "bytes": 10757
+   },
+   {
+    "file": "media/brand/gzowo-labs/favicon/favicon.svg",
+    "bytes": 1409
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-korpus-biala.png",
+    "bytes": 58060
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-korpus-biala.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-korpus-czarna.png",
+    "bytes": 67828
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-korpus-czarna.svg",
+    "bytes": 4245
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-statecznik-biala.png",
+    "bytes": 40708
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-statecznik-biala.svg",
+    "bytes": 1586
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-statecznik-czarna.png",
+    "bytes": 48058
+   },
+   {
+    "file": "media/brand/gzowo-labs/naklejki/naklejka-statecznik-czarna.svg",
+    "bytes": 1595
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-ciemny.png",
+    "bytes": 21366
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-ciemny.svg",
+    "bytes": 1683
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-jasny.png",
+    "bytes": 21619
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-jasny.svg",
+    "bytes": 1683
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-pomaranczowy.png",
+    "bytes": 19204
+   },
+   {
+    "file": "media/brand/gzowo-labs/awatar/awatar-pomaranczowy.svg",
+    "bytes": 1683
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-poziome-ciemne.jpg",
+    "bytes": 39804
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-poziome-ciemne.mp4",
+    "bytes": 108976
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-poziome-jasne.jpg",
+    "bytes": 39396
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-poziome-jasne.mp4",
+    "bytes": 108560
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-rolka-ciemne.jpg",
+    "bytes": 37675
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-rolka-ciemne.mp4",
+    "bytes": 112619
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-rolka-jasne.jpg",
+    "bytes": 37302
+   },
+   {
+    "file": "media/brand/gzowo-labs/filmy/logo-rolka-jasne.mp4",
+    "bytes": 111408
+   },
+   {
+    "file": "media/brand/gzowo-labs/strona/gzowo-labs-fire.gif",
+    "bytes": 83629
+   },
+   {
+    "file": "media/brand/gzowo-labs/strona/og.png",
+    "bytes": 303092
+   },
+   {
+    "file": "media/brand/gzowo-labs/strona/favicon.svg",
+    "bytes": 367
+   }
+  ],
+  "gsp": [
+   {
+    "file": "media/brand/gsp/gsp-logo.png",
+    "bytes": 94863
+   },
+   {
+    "file": "media/brand/gsp/gif/smpte/GSP_sig_smpte_dark.gif",
+    "bytes": 45712
+   },
+   {
+    "file": "media/brand/gsp/gif/reveal/GSP_sig_reveal_dark.gif",
+    "bytes": 157846
+   },
+   {
+    "file": "media/brand/gsp/gif/reveal/GSP_sig_reveal_light.gif",
+    "bytes": 154817
+   },
+   {
+    "file": "media/brand/gsp/gif/reveal/GSP_sig_reveal_trans.gif",
+    "bytes": 101616
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_3s_silent.mp4",
+    "bytes": 41930
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_3s_sound.mp4",
+    "bytes": 101168
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_4s_silent.mp4",
+    "bytes": 50509
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_4s_sound.mp4",
+    "bytes": 129889
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_3s_silent.mp4",
+    "bytes": 78827
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_3s_sound.mp4",
+    "bytes": 138137
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_4s_silent.mp4",
+    "bytes": 95919
+   },
+   {
+    "file": "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_4s_sound.mp4",
+    "bytes": 175492
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_3s_silent.mp4",
+    "bytes": 81963
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_3s_sound.mp4",
+    "bytes": 144885
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_4s_silent.mp4",
+    "bytes": 101312
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_4s_sound.mp4",
+    "bytes": 178612
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_3s_silent.mp4",
+    "bytes": 174589
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_3s_sound.mp4",
+    "bytes": 237708
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_4s_silent.mp4",
+    "bytes": 206438
+   },
+   {
+    "file": "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_4s_sound.mp4",
+    "bytes": 283414
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_3s_silent.mp4",
+    "bytes": 86112
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_3s_sound.mp4",
+    "bytes": 149399
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_4s_silent.mp4",
+    "bytes": 102907
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_4s_sound.mp4",
+    "bytes": 179985
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_3s_silent.mp4",
+    "bytes": 181555
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_3s_sound.mp4",
+    "bytes": 244687
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_4s_silent.mp4",
+    "bytes": 218775
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_4s_sound.mp4",
+    "bytes": 295751
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_3s_silent.mp4",
+    "bytes": 49931
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_3s_sound.mp4",
+    "bytes": 109308
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_4s_silent.mp4",
+    "bytes": 58345
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_4s_sound.mp4",
+    "bytes": 137737
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_3s_silent.mp4",
+    "bytes": 103065
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_3s_sound.mp4",
+    "bytes": 162261
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_4s_silent.mp4",
+    "bytes": 121283
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_4s_sound.mp4",
+    "bytes": 200582
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_3s_silent.mp4",
+    "bytes": 159921
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_3s_sound.mp4",
+    "bytes": 222511
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_4s_silent.mp4",
+    "bytes": 183682
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_4s_sound.mp4",
+    "bytes": 260062
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_3s_silent.mp4",
+    "bytes": 263816
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_3s_sound.mp4",
+    "bytes": 325772
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_4s_silent.mp4",
+    "bytes": 331616
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_4s_sound.mp4",
+    "bytes": 408797
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_3s_silent.mp4",
+    "bytes": 99758
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_3s_sound.mp4",
+    "bytes": 159147
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_4s_silent.mp4",
+    "bytes": 127563
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_4s_sound.mp4",
+    "bytes": 207059
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_3s_silent.mp4",
+    "bytes": 163234
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_3s_sound.mp4",
+    "bytes": 222657
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_4s_silent.mp4",
+    "bytes": 240577
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_4s_sound.mp4",
+    "bytes": 319476
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_3s_silent.mp4",
+    "bytes": 84236
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_3s_sound.mp4",
+    "bytes": 147523
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_4s_silent.mp4",
+    "bytes": 101689
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_4s_sound.mp4",
+    "bytes": 178765
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_3s_silent.mp4",
+    "bytes": 178270
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_3s_sound.mp4",
+    "bytes": 241279
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_4s_silent.mp4",
+    "bytes": 215394
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_4s_sound.mp4",
+    "bytes": 292676
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_3s_silent.mp4",
+    "bytes": 46932
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_3s_sound.mp4",
+    "bytes": 106170
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_4s_silent.mp4",
+    "bytes": 54916
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_4s_sound.mp4",
+    "bytes": 134297
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_3s_silent.mp4",
+    "bytes": 98039
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_3s_sound.mp4",
+    "bytes": 157253
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_4s_silent.mp4",
+    "bytes": 114454
+   },
+   {
+    "file": "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_4s_sound.mp4",
+    "bytes": 194039
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_3s_silent.mp4",
+    "bytes": 1215929
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_3s_sound.mp4",
+    "bytes": 1266226
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_4s_silent.mp4",
+    "bytes": 1588977
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_4s_sound.mp4",
+    "bytes": 1656167
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_3s_silent.mp4",
+    "bytes": 1470587
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_3s_sound.mp4",
+    "bytes": 1520799
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_4s_silent.mp4",
+    "bytes": 1917952
+   },
+   {
+    "file": "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_4s_sound.mp4",
+    "bytes": 1985421
+   },
+   {
+    "file": "media/brand/gsp/pfp/smpte/GSP_pfp_smpte_dark.png",
+    "bytes": 17383
+   },
+   {
+    "file": "media/brand/gsp/pfp/swiateczny/GSP_pfp_swiateczny_dark.png",
+    "bytes": 349762
+   },
+   {
+    "file": "media/brand/gsp/pfp/swiateczny/GSP_pfp_swiateczny_trans.png",
+    "bytes": 40733
+   },
+   {
+    "file": "media/brand/gsp/pfp/nebula/GSP_pfp_nebula_dark.png",
+    "bytes": 37263
+   },
+   {
+    "file": "media/brand/gsp/pfp/nebula/GSP_pfp_nebula_trans.png",
+    "bytes": 42648
+   },
+   {
+    "file": "media/brand/gsp/pfp/brand/GSP_pfp_brand_dark.png",
+    "bytes": 15738
+   },
+   {
+    "file": "media/brand/gsp/pfp/brand/GSP_pfp_brand_light.png",
+    "bytes": 15540
+   },
+   {
+    "file": "media/brand/gsp/pfp/brand/GSP_pfp_brand_trans-black.png",
+    "bytes": 14040
+   },
+   {
+    "file": "media/brand/gsp/pfp/brand/GSP_pfp_brand_trans-white.png",
+    "bytes": 14917
+   },
+   {
+    "file": "media/brand/gsp/pfp/ignition/GSP_pfp_ignition_dark.png",
+    "bytes": 20032
+   },
+   {
+    "file": "media/brand/gsp/pfp/ignition/GSP_pfp_ignition_trans.png",
+    "bytes": 22445
+   }
+  ]
+ },
+ "characters": [
+  {
+   "file": "media/postacie/osrodek-daje/portrait-ks.png",
+   "bytes": 266670
+  },
+  {
+   "file": "media/postacie/osrodek-daje/portrait-jurek.png",
+   "bytes": 220491
+  },
+  {
+   "file": "media/postacie/osrodek-daje/portrait-rys.png",
+   "bytes": 234261
+  },
+  {
+   "file": "media/postacie/osrodek-daje/portrait-dropsik.png",
+   "bytes": 184103
+  },
+  {
+   "file": "media/postacie/osrodek-daje/characters-front.png",
+   "bytes": 1819730
+  },
+  {
+   "file": "media/postacie/osrodek-daje/ks-closeup.png",
+   "bytes": 1536436
+  },
+  {
+   "file": "media/postacie/narek/narek_hero.png",
+   "bytes": 1109266
+  }
+ ],
+ "geo": [
+  {
+   "file": "media/geo/ortofoto-1km.jpg",
+   "w": 2000,
+   "h": 2000,
+   "bytes": 689874
+  },
+  {
+   "file": "media/geo/rzezba-terenu-1km.jpg",
+   "w": 900,
+   "h": 900,
+   "bytes": 69169
+  },
+  {
+   "file": "media/geo/pokrycie-terenu-1km.jpg",
+   "w": 1400,
+   "h": 470,
+   "bytes": 123542
+  },
+  {
+   "file": "media/geo/ortofoto-okolica-20km.jpg",
+   "w": 1100,
+   "h": 1100,
+   "bytes": 274060
+  },
+  {
+   "file": "media/geo/ortofoto-dzialka-zblizenie.jpg",
+   "w": 700,
+   "h": 700,
+   "bytes": 94583
+  }
+ ],
+ "map": [
+  {
+   "file": "media/mapa-pikselowa/arcade.webp",
+   "bytes": 46082
+  },
+  {
+   "file": "media/mapa-pikselowa/bench.webp",
+   "bytes": 3708
+  },
+  {
+   "file": "media/mapa-pikselowa/billboard.webp",
+   "bytes": 16564
+  },
+  {
+   "file": "media/mapa-pikselowa/board.webp",
+   "bytes": 4884
+  },
+  {
+   "file": "media/mapa-pikselowa/booth.webp",
+   "bytes": 7432
+  },
+  {
+   "file": "media/mapa-pikselowa/bush.webp",
+   "bytes": 3552
+  },
+  {
+   "file": "media/mapa-pikselowa/claw.webp",
+   "bytes": 11028
+  },
+  {
+   "file": "media/mapa-pikselowa/cloud1.webp",
+   "bytes": 6572
+  },
+  {
+   "file": "media/mapa-pikselowa/cloud2.webp",
+   "bytes": 7878
+  },
+  {
+   "file": "media/mapa-pikselowa/cloud3.webp",
+   "bytes": 8564
+  },
+  {
+   "file": "media/mapa-pikselowa/cloud4.webp",
+   "bytes": 5782
+  },
+  {
+   "file": "media/mapa-pikselowa/dish.webp",
+   "bytes": 8108
+  },
+  {
+   "file": "media/mapa-pikselowa/dock.webp",
+   "bytes": 7314
+  },
+  {
+   "file": "media/mapa-pikselowa/exchange.webp",
+   "bytes": 20694
+  },
+  {
+   "file": "media/mapa-pikselowa/flag.webp",
+   "bytes": 1946
+  },
+  {
+   "file": "media/mapa-pikselowa/gull.webp",
+   "bytes": 4504
+  },
+  {
+   "file": "media/mapa-pikselowa/hangar.webp",
+   "bytes": 20316
+  },
+  {
+   "file": "media/mapa-pikselowa/lab.webp",
+   "bytes": 25826
+  },
+  {
+   "file": "media/mapa-pikselowa/lamp.webp",
+   "bytes": 2156
+  },
+  {
+   "file": "media/mapa-pikselowa/launchpad-empty.webp",
+   "bytes": 33088
+  },
+  {
+   "file": "media/mapa-pikselowa/launchpad.webp",
+   "bytes": 29078
+  },
+  {
+   "file": "media/mapa-pikselowa/mailbox.webp",
+   "bytes": 3132
+  },
+  {
+   "file": "media/mapa-pikselowa/museum.webp",
+   "bytes": 18798
+  },
+  {
+   "file": "media/mapa-pikselowa/pine.webp",
+   "bytes": 7238
+  },
+  {
+   "file": "media/mapa-pikselowa/rocket.webp",
+   "bytes": 23842
+  },
+  {
+   "file": "media/mapa-pikselowa/sailboat.webp",
+   "bytes": 4776
+  },
+  {
+   "file": "media/mapa-pikselowa/signpost.webp",
+   "bytes": 12812
+  },
+  {
+   "file": "media/mapa-pikselowa/starnet.webp",
+   "bytes": 15132
+  },
+  {
+   "file": "media/mapa-pikselowa/store.webp",
+   "bytes": 10796
+  },
+  {
+   "file": "media/mapa-pikselowa/sun.webp",
+   "bytes": 5606
+  },
+  {
+   "file": "media/mapa-pikselowa/tree1.webp",
+   "bytes": 7092
+  },
+  {
+   "file": "media/mapa-pikselowa/tree2.webp",
+   "bytes": 5372
+  },
+  {
+   "file": "media/mapa-pikselowa/tree3.webp",
+   "bytes": 5612
+  },
+  {
+   "file": "media/mapa-pikselowa/water.webp",
+   "bytes": 13172
+  },
+  {
+   "file": "media/mapa-pikselowa/windsock.webp",
+   "bytes": 2128
+  },
+  {
+   "file": "media/mapa-pikselowa/workshop.webp",
+   "bytes": 24748
+  },
+  {
+   "file": "media/mapa-pikselowa/_cala-mapa.webp",
+   "bytes": 142018
+  }
+ ],
+ "gallery_rooms": {
+  "the-early-days": {
+   "title": "The Early Days",
+   "desc": "Gdzie wszystko się zaczęło",
+   "mood": "warm",
+   "heroFile": "media/the-early-days/IMG_8205.jpg"
+  },
+  "ciszewscy": {
+   "title": "Ciszewscy x Sukiennicy",
+   "desc": "Herbata nie wyklucza kawy",
+   "mood": "warm",
+   "heroFile": "media/ciszewscy/IMG_8205.jpg"
+  },
+  "narew": {
+   "title": "Nasza Narew",
+   "desc": "Serce Gzowa - Narew!",
+   "mood": "cool",
+   "heroFile": "media/narew/IMG_2110.jpg"
+  },
+  "zima": {
+   "title": "Zima",
+   "desc": "Mróz, lód i śnieg oraz zimowe przygody!",
+   "mood": "cool",
+   "heroFile": "media/zima/IMG_8213.jpg"
+  },
+  "aminals": {
+   "title": "Aminalsy",
+   "desc": "Nasi mali mieszkańcy Gzowa!",
+   "mood": "green",
+   "heroFile": "media/aminals/IMG_4288.jpg"
+  },
+  "black-n-white": {
+   "title": "Black n' White",
+   "desc": "Kolekcja Gzowiańskich czarno-białych klasyków",
+   "mood": "mono",
+   "heroFile": "media/black-n-white/IMG_2850.jpg"
+  },
+  "sunset": {
+   "title": "Sunsety",
+   "desc": "Złota godzina nad wodą - ciepłe światło na koniec dnia.",
+   "mood": "warm",
+   "heroFile": "media/sunset/IMG_7545.jpg"
+  },
+  "aerospace": {
+   "title": "Gzowo Space Program",
+   "desc": "Drony, rakiety i postęp technologiczny Gzowa",
+   "mood": "sky",
+   "heroFile": "media/aerospace/IMG_4299.jpg"
+  },
+  "fire": {
+   "title": "Fire",
+   "desc": "Ogień + Gzowo to niepokonane combo!",
+   "mood": "red",
+   "heroFile": "media/fire/IMG_3663.jpg"
+  },
+  "midnight": {
+   "title": "Pan Senek musi poczekać",
+   "desc": "Wszystkie ciche Gzowiańskie momenty",
+   "mood": "blue",
+   "heroFile": "media/midnight/IMG_8933.jpg"
+  },
+  "waldek": {
+   "title": "Ottonowie",
+   "desc": "Wierni członkowie Gzowa",
+   "mood": "neutral",
+   "heroFile": "media/waldek/IMG_7546.jpg"
+  },
+  "wiosna": {
+   "title": "Wiosna!",
+   "desc": "Wiosenne!",
+   "mood": "green",
+   "heroFile": "media/wiosna/IMG_8221.jpg"
+  },
+  "heli": {
+   "title": "Heli",
+   "desc": "Wkrótce",
+   "mood": "sky"
+  },
+  "taras": {
+   "title": "Taras",
+   "desc": "Wkrótce",
+   "mood": "green"
+  },
+  "the-new-era": {
+   "title": "The New Era",
+   "desc": "Wkrótce",
+   "mood": "dark"
+  },
+  "kino-lobby": {
+   "title": "Hol",
+   "desc": "Hol kinowy - Polecam popcorn!",
+   "mood": "dark"
+  },
+  "kino": {
+   "title": "Sala A1",
+   "desc": "Gzowo Space Program History — wielki ekran i rakiety w locie. Usiądź (G), kliknij ekran i oglądaj.",
+   "mood": "dark"
+  },
+  "kino-2b": {
+   "title": "Sala 2B",
+   "desc": "The Early Days of Gzowo — usiądź (G), kliknij ekran i oglądaj.",
+   "mood": "dark"
+  },
+  "kino-3c": {
+   "title": "Sala 3C",
+   "desc": "Wkrótce — nowy seans w przygotowaniu. Usiądź (G) i zaczekaj.",
+   "mood": "dark"
+  },
+  "zabi-raj": {
+   "title": "Żabi raj",
+   "desc": "Nasze małe zoo",
+   "mood": "green"
+  }
+ },
+ "gallery_dedication": {
+  "heading": "Dla Taty",
+  "body": "Historia Gzowa zebrana w interaktywną i jedyną w swoim rodzaju formę. Zapraszam do odkrywania i wszystkiego najlepszego!",
+  "button": "Odkryj Gzowo"
+ }
+}

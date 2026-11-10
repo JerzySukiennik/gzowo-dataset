@@ -241,6 +241,7 @@ A(K['note'] + '\n')
 A("**Pola planszy:** " + '; '.join(K['board_spaces']) + '.\n')
 A("**Postacie:** " + '; '.join(K['characters']) + '.\n')
 A("**Przedmioty:** " + ', '.join(K['items']) + '.\n')
+A("**Mechaniki:**\n" + '\n'.join(f"- {e}" for e in K.get('mechanics', [])) + '\n')
 A("**Karty wydarzeń:**\n" + '\n'.join(f"- {e}" for e in K['event_cards']) + '\n')
 A("**Pytania quizowe:**\n" + '\n'.join(f"- {q['q']} → {q['a']}" for q in K['quiz']) + '\n')
 
@@ -345,7 +346,7 @@ S.append(sec('filmy', 'Filmy', '<div class="vg">' + ''.join(f'<article class="c"
 
 S.append(sec('mapy', 'Mapy i dane terenu', '<div class="pg big">' + ''.join(f'<a class="ph" href="{f}" target="_blank" rel="noopener"><img src="{f}" alt="{E(t)}" loading="lazy" width="400" height="400"><span>{E(t)}</span></a>' for f, t in (('media/geo/ortofoto-1km.jpg', 'Ortofotomapa 1 x 1 km'), ('media/geo/rzezba-terenu-1km.jpg', 'Rzeźba terenu, skarpa'), ('media/geo/pokrycie-terenu-1km.jpg', 'Pokrycie terenu'), ('media/geo/ortofoto-okolica-20km.jpg', 'Okolica z góry'))) + '</div><a class="wide" href="media/mapa-pikselowa/_cala-mapa.webp" target="_blank" rel="noopener"><img src="media/mapa-pikselowa/_cala-mapa.webp" alt="Pikselowa mapa działki ze strony gzowo.fun" loading="lazy" width="1600" height="480"></a><p class="s">Pikselowa mapa działki ze strony gzowo.fun. Pojedyncze sprite\'y leżą w media/mapa-pikselowa/.</p><dl>' + ''.join(f'<dt>{E(f["dir"])}/ <span>{f["count"]} plików</span></dt><dd>{E(f["what"])}</dd>' for f in folders) + '</dl>'))
 
-S.append(sec('pod-gre', 'Pod grę', f'<p class="note">{E(K["note"])}</p><h4>Pola planszy</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['board_spaces']) + '</p><h4>Postacie</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['characters']) + '</p><h4>Przedmioty</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['items']) + '</p><h4>Karty wydarzeń</h4>' + ul(K['event_cards']) + '<h4>Pytania quizowe</h4><dl>' + ''.join(f'<dt>{E(q["q"])}</dt><dd>{E(q["a"])}</dd>' for q in K['quiz']) + '</dl>'))
+S.append(sec('pod-gre', 'Pod grę', f'<p class="note">{E(K["note"])}</p><h4>Pola planszy</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['board_spaces']) + '</p><h4>Postacie</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['characters']) + '</p><h4>Przedmioty</h4><p class="chips">' + ''.join(f'<span>{E(x)}</span>' for x in K['items']) + '</p><h4>Mechaniki</h4>' + ul(K.get('mechanics', [])) + '<h4>Karty wydarzeń</h4>' + ul(K['event_cards']) + '<h4>Pytania quizowe</h4><dl>' + ''.join(f'<dt>{E(q["q"])}</dt><dd>{E(q["a"])}</dd>' for q in K['quiz']) + '</dl>'))
 S.append(sec('pytania', 'Czego jeszcze nie wiemy', ul(F.OPEN_QUESTIONS) + '<h4>Źródła</h4><dl>' + ''.join(f'<dt>{E(k)}</dt><dd>{E(v)}</dd>' for k, v in F.SOURCES.items()) + '</dl>'))
 
 CSS = open(os.path.join(ROOT, 'Niepotrzebne/src/site.css'), encoding='utf-8').read()

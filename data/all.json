@@ -497,19 +497,6 @@
     "jurek-2026-11-10"
    ],
    "confidence": "pewne"
-  },
-  {
-   "id": "saperzy",
-   "name": "Saperzy",
-   "group": "okolica",
-   "role": "Przyjeżdżają do niewypałów znajdowanych na działce.",
-   "facts": [
-    "Gzowo to tereny powojenne, stąd niewypały w ziemi."
-   ],
-   "source": [
-    "jurek-2026-11-10"
-   ],
-   "confidence": "pewne"
   }
  ],
  "fictional": [
@@ -1350,7 +1337,7 @@
   {
    "id": "niewypaly",
    "title": "Niewypały i saperzy",
-   "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry.",
+   "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci.",
    "source": [
     "jurek-2026-11-10"
    ],
@@ -1749,7 +1736,6 @@
    "Szamborski (przylatuje helikopterem)",
    "Paweł (łysy gość z kanału)",
    "Wójt",
-   "saperzy",
    "Panie ze stacji Moya",
    "Dropsik",
    "Beethoven (głuchy biały kot)",
@@ -1779,6 +1765,9 @@
    "pianino",
    "białe futro",
    "buty z krokodyla"
+  ],
+  "mechanics": [
+   "Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."
   ],
   "event_cards": [
    "Ośrodek daje: dostajesz coś za nic.",

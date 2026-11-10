@@ -159,7 +159,6 @@ PEOPLE = [
     {"id": "szamborski", "name": "Szamborski", "group": "przyjaciele", "role": "Czasem przylatuje do Gzowa helikopterem.", "facts": ["Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "pewne"},
     {"id": "pawel", "name": "Paweł", "group": "okolica", "role": "Łysy gość z kanału obok Kociej Wyspy.", "facts": ["Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "wojt", "name": "Wójt", "group": "okolica", "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.", "facts": [], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
-    {"id": "saperzy", "name": "Saperzy", "group": "okolica", "role": "Przyjeżdżają do niewypałów znajdowanych na działce.", "facts": ["Gzowo to tereny powojenne, stąd niewypały w ziemi."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
 ]
 
 FICTIONAL = [
@@ -279,7 +278,7 @@ STORIES = [
     {"id": "grad", "title": "Burza z gradem", "what": "Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "porwanie-dropsika", "title": "Porwanie Dropsika", "what": "Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "sklad-bomb", "title": "Skład pod skarpą", "what": "Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
-    {"id": "niewypaly", "title": "Niewypały i saperzy", "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "niewypaly", "title": "Niewypały i saperzy", "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "helikopter", "title": "Helikopter nad Gzowem", "what": "Szamborski czasem przylatuje do Gzowa helikopterem.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "wycinka", "title": "Wycinka Majora", "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "osrodek-fso", "title": "Dziesięć domków FSO", "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
@@ -347,8 +346,9 @@ GAMES_IN_GZOWO = [
 GAME_KIT = {
     "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
     "board_spaces": ["Dom (śniadanie przy dużym stole)", "Taras", "Wiata z pasiastym fotelem", "Trzy domki FSO", "Panele słoneczne", "Ognisko", "Hamak w sosnach", "Skarpa i stary skład", "Plaża", "Narew", "Mur z gabionów", "GL Launch Site", "Dom Waldka", "Stacja Moya", "Sklep", "Aleja Lipowa", "Cypel", "Kocia Wyspa", "Kanał", "Lądowisko helikoptera"],
-    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "saperzy", "Panie ze stacji Moya", "Dropsik", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
+    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "Panie ze stacji Moya", "Dropsik", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
     "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "niewypał", "helikopter", "wędka", "drewno z wycinki", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
+    "mechanics": ["Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."],
     "event_cards": [
         "Ośrodek daje: dostajesz coś za nic.",
         "Grad wielkości kostek lodu: wszyscy chowają się pod wiatę.",

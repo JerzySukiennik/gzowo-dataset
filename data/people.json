@@ -244,18 +244,5 @@
    "jurek-2026-11-10"
   ],
   "confidence": "pewne"
- },
- {
-  "id": "saperzy",
-  "name": "Saperzy",
-  "group": "okolica",
-  "role": "Przyjeżdżają do niewypałów znajdowanych na działce.",
-  "facts": [
-   "Gzowo to tereny powojenne, stąd niewypały w ziemi."
-  ],
-  "source": [
-   "jurek-2026-11-10"
-  ],
-  "confidence": "pewne"
  }
 ]

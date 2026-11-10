@@ -36,7 +36,6 @@
   "Szamborski (przylatuje helikopterem)",
   "Paweł (łysy gość z kanału)",
   "Wójt",
-  "saperzy",
   "Panie ze stacji Moya",
   "Dropsik",
   "Beethoven (głuchy biały kot)",
@@ -66,6 +65,9 @@
   "pianino",
   "białe futro",
   "buty z krokodyla"
+ ],
+ "mechanics": [
+  "Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."
  ],
  "event_cards": [
   "Ośrodek daje: dostajesz coś za nic.",

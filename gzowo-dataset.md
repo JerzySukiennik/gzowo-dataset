@@ -145,9 +145,6 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 **Wójt**. Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów. _(źródło: jurek-2026-11-10; pewne)_
 
-**Saperzy**. Przyjeżdżają do niewypałów znajdowanych na działce. _(źródło: jurek-2026-11-10; pewne)_
-- Gzowo to tereny powojenne, stąd niewypały w ziemi.
-
 ### Postacie zmyślone (z gier i projektów)
 
 - **Edward Warchocki** (gra Rysia NAREW): Postać z gry: chodzi w kółko po posesji i zagaduje. Jego kwestie: "dziki znowu zryły łąkę za płotem", "szopy tańczą przy ognisku, sam zobacz", "Waldek jeździ tu konno, odkąd pamiętam", "woda w Narwi dziś czysta, można nalać". Ma też własne rolki na telefonie w grze (@edward.warchocki).
@@ -327,7 +324,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Burza z gradem**: Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler. _(źródło: jurek-2026-11-10; pewne)_
 - **Porwanie Dropsika**: Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił. _(źródło: jurek-2026-11-10; pewne)_
 - **Skład pod skarpą**: Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni. _(źródło: jurek-2026-11-10; niepewne)_
-- **Niewypały i saperzy**: Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry. _(źródło: jurek-2026-11-10; pewne)_
+- **Niewypały i saperzy**: Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci. _(źródło: jurek-2026-11-10; pewne)_
 - **Helikopter nad Gzowem**: Szamborski czasem przylatuje do Gzowa helikopterem. _(źródło: jurek-2026-11-10; pewne)_
 - **Wycinka Majora**: Major, który na co dzień łowi ryby, robi na działce wycinki drzew. _(źródło: jurek-2026-11-10; pewne)_
 - **Dziesięć domków FSO**: Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek. _(źródło: jurek-2026-11-10; pewne)_
@@ -603,9 +600,12 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 
 **Pola planszy:** Dom (śniadanie przy dużym stole); Taras; Wiata z pasiastym fotelem; Trzy domki FSO; Panele słoneczne; Ognisko; Hamak w sosnach; Skarpa i stary skład; Plaża; Narew; Mur z gabionów; GL Launch Site; Dom Waldka; Stacja Moya; Sklep; Aleja Lipowa; Cypel; Kocia Wyspa; Kanał; Lądowisko helikoptera.
 
-**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; saperzy; Panie ze stacji Moya; Dropsik; Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
+**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; Panie ze stacji Moya; Dropsik; Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
 
 **Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, niewypał, helikopter, wędka, drewno z wycinki, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
+
+**Mechaniki:**
+- Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać.
 
 **Karty wydarzeń:**
 - Ośrodek daje: dostajesz coś za nic.

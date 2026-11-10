@@ -160,5 +160,16 @@
    "jurek-2026-11-10",
    "obserwacja"
   ]
+ },
+ {
+  "id": "helikopter",
+  "name": "Helikopter Szamborskiego",
+  "ours": false,
+  "facts": [
+   "Czasem ląduje w Gzowie, przylatuje nim Szamborski."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ]
  }
 ]

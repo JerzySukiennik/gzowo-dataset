@@ -2,7 +2,7 @@
 
 > Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
 
-Wersja 1.0, 2026-11-10. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
+Wersja 1.1, 2026-11-10. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
 
 ## Jak z tego korzystać (dla AI)
 
@@ -49,6 +49,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 - **przed 2021**: Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek. _(źródło: jurek-2026-11-10; pewne)_
 - **nieznane, dawniej**: Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni. _(źródło: jurek-2026-11-10; niepewne)_
+- **po wojnie i do dziś**: To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy. _(źródło: jurek-2026-11-10; pewne)_
 - **2020-11-30**: Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem. _(źródło: obserwacja, jurek-2026-11-10; pewne)_
 - **2021-06**: Od tego miesiąca Sukiennicy mają działkę Gzowo 34. _(źródło: jurek-2026-11-10; pewne)_
 - **po 2021**: Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została. _(źródło: jurek-2026-11-10; pewne)_
@@ -123,6 +124,9 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 **Janek Kunstler**. Kolega Jurka. Był w Gzowie podczas wielkiej burzy z gradem. _(źródło: jurek-2026-11-10; pewne)_
 
+**Szamborski**. Czasem przylatuje do Gzowa helikopterem. _(źródło: jurek-2026-11-10, wniosek; pewne)_
+- Pusty pokój "Heli" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony).
+
 ### Okolica
 
 **Arek**. Śp. "Gzowiański somsiad", wędkarz znad Narwi. Imię niepewne (Jurek: "chyba Arek"). _(źródło: jurek-2026-11-10, galeria; niepewne)_
@@ -132,6 +136,17 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Znany z tego, że często chodzi z puszką piwa, nawet w deszczu.
 
 **Ekipa stacji Moya**. Bardzo miłe panie, które pracują na stacji Moya, i pan, który często tam przychodzi. _(źródło: jurek-2026-11-10; pewne)_
+
+**Major**. Łowi ryby, ale też robi u Sukienników wycinki drzew. _(źródło: jurek-2026-11-10; pewne)_
+- Nie wiadomo, czy Major to ksywka, stopień czy nazwisko.
+
+**Paweł**. Łysy gość z kanału obok Kociej Wyspy. _(źródło: jurek-2026-11-10; pewne)_
+- Jurek opisał go jako "jakiś łysy gość", więcej o nim nie wiadomo.
+
+**Wójt**. Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów. _(źródło: jurek-2026-11-10; pewne)_
+
+**Saperzy**. Przyjeżdżają do niewypałów znajdowanych na działce. _(źródło: jurek-2026-11-10; pewne)_
+- Gzowo to tereny powojenne, stąd niewypały w ziemi.
 
 ### Postacie zmyślone (z gier i projektów)
 
@@ -222,9 +237,21 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 **Skarpa i stary skład**, górna część działki _(źródło: jurek-2026-11-10, geodane; niepewne)_
 - Stroma skarpa nadnarwiańska.
 - Pod ziemią najprawdopodobniej stary skład bomb i broni.
+- W ziemi na działce trafiają się niewypały z czasów wojny.
 
 **Kępa sosen**, środek działki _(źródło: obserwacja; pewne)_
 - Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym.
+
+**Cypel**, nad Narwią przy działce _(źródło: jurek-2026-11-10, wniosek; prawdopodobne)_
+- Jurek wymienił Cypel jako osobne miejsce.
+- Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia).
+
+**Kocia Wyspa**, w okolicy, obok kanału _(źródło: jurek-2026-11-10, wniosek; prawdopodobne)_
+- Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.
+- Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek).
+
+**Kanał**, obok Kociej Wyspy _(źródło: jurek-2026-11-10; pewne)_
+- Stąd jest Paweł.
 
 **GL Launch Site** (GSP Launch Site (stara nazwa)), pola, łąki i szutrowa droga w okolicy Gzowa _(źródło: jurek-2026-11-10, galeria, obserwacja; pewne)_
 - Miejsce startów rakiet. Nazwa GL, bo GSP jest już scalone z Gzowo Labs.
@@ -256,6 +283,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Białe futro i buty z krokodyla** (nasze): Strój KS-a. "Alligator included" w podpisie zdjęcia "Krowi chłopiec" to najpewniej te buty. _(źródło: notatki, galeria, wniosek)_
 - **Żółty skuter wodny** (NIE nasze): Widać go na zdjęciach plaży, ale NIE jest Sukienników. W grze Rysia można nim pływać i robić fale. _(źródło: jurek-2026-11-10, obserwacja, gra-narew)_
 - **Czerwone VW Polo** (NIE nasze): Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników. _(źródło: jurek-2026-11-10, obserwacja)_
+- **Helikopter Szamborskiego** (NIE nasze): Czasem ląduje w Gzowie, przylatuje nim Szamborski. _(źródło: jurek-2026-11-10)_
 
 ## 7. Rytuały
 
@@ -299,6 +327,9 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Burza z gradem**: Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler. _(źródło: jurek-2026-11-10; pewne)_
 - **Porwanie Dropsika**: Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił. _(źródło: jurek-2026-11-10; pewne)_
 - **Skład pod skarpą**: Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni. _(źródło: jurek-2026-11-10; niepewne)_
+- **Niewypały i saperzy**: Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry. _(źródło: jurek-2026-11-10; pewne)_
+- **Helikopter nad Gzowem**: Szamborski czasem przylatuje do Gzowa helikopterem. _(źródło: jurek-2026-11-10; pewne)_
+- **Wycinka Majora**: Major, który na co dzień łowi ryby, robi na działce wycinki drzew. _(źródło: jurek-2026-11-10; pewne)_
 - **Dziesięć domków FSO**: Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek. _(źródło: jurek-2026-11-10; pewne)_
 - **Lot The Orange Beauty**: Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył. _(źródło: gzowo.fun, obserwacja; pewne)_
 - **Pierwszy spadochron**: Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026). _(źródło: gzowo.fun; pewne)_
@@ -570,11 +601,11 @@ Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja mie
 
 To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.
 
-**Pola planszy:** Dom (śniadanie przy dużym stole); Taras; Wiata z pasiastym fotelem; Trzy domki FSO; Panele słoneczne; Ognisko; Hamak w sosnach; Skarpa i stary skład; Plaża; Narew; Mur z gabionów; GL Launch Site; Dom Waldka; Stacja Moya; Sklep; Aleja Lipowa.
+**Pola planszy:** Dom (śniadanie przy dużym stole); Taras; Wiata z pasiastym fotelem; Trzy domki FSO; Panele słoneczne; Ognisko; Hamak w sosnach; Skarpa i stary skład; Plaża; Narew; Mur z gabionów; GL Launch Site; Dom Waldka; Stacja Moya; Sklep; Aleja Lipowa; Cypel; Kocia Wyspa; Kanał; Lądowisko helikoptera.
 
-**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Panie ze stacji Moya; Dropsik; Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
+**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; saperzy; Panie ze stacji Moya; Dropsik; Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
 
-**Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
+**Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, niewypał, helikopter, wędka, drewno z wycinki, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
 
 **Karty wydarzeń:**
 - Ośrodek daje: dostajesz coś za nic.
@@ -582,6 +613,13 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 - Spadochron się nie otworzył: szukasz rakiety w polu.
 - Spadochron otworzył się za pierwszym razem.
 - Dropsik zniknął: wszyscy ruszają na poszukiwania.
+- Niewypał! Pole jest zamknięte, dopóki nie przyjadą saperzy.
+- Saperzy zabierają niewypał: pole znów otwarte.
+- Szamborski ląduje helikopterem: przenosisz się na dowolne pole.
+- Major robi wycinkę: jedno drzewo mniej, drewno na ognisko dla wszystkich.
+- Major złowił rybę: kolacja nad Narwią.
+- Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.
+- Paweł macha z kanału obok Kociej Wyspy.
 - Narew zamarzła: można przejść po lodzie.
 - Zimowy obiad: zjadasz taflę lodu.
 - Ciężka droga do stacji Moya: przedzierasz się przez trawy.
@@ -622,3 +660,7 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 - Kiedy dokładnie był Dropsik i jak go porwano.
 - Kto z Ciszewskich jest kim (Bartek i Ola jako rodzice, Ignacy i Helena jako dzieci to wniosek ze zdjęć).
 - Model Tesli i marka koparki.
+- Gdzie dokładnie są Cypel, kanał i Kocia Wyspa i skąd nazwa Kocia Wyspa.
+- Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).
+- Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.
+- Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa.

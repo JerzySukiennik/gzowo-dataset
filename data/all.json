@@ -1,7 +1,7 @@
 {
  "meta": {
   "name": "Gzowo Dataset",
-  "version": "1.0",
+  "version": "1.1",
   "updated": "2026-11-10",
   "language": "pl",
   "site": "https://dataset.gzowo.fun",
@@ -105,6 +105,14 @@
     "jurek-2026-11-10"
    ],
    "confidence": "niepewne"
+  },
+  {
+   "when": "po wojnie i do dziś",
+   "what": "To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
   },
   {
    "when": "2020-11-30",
@@ -438,6 +446,70 @@
     "jurek-2026-11-10"
    ],
    "confidence": "pewne"
+  },
+  {
+   "id": "major",
+   "name": "Major",
+   "group": "okolica",
+   "role": "Łowi ryby, ale też robi u Sukienników wycinki drzew.",
+   "facts": [
+    "Nie wiadomo, czy Major to ksywka, stopień czy nazwisko."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "szamborski",
+   "name": "Szamborski",
+   "group": "przyjaciele",
+   "role": "Czasem przylatuje do Gzowa helikopterem.",
+   "facts": [
+    "Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "pawel",
+   "name": "Paweł",
+   "group": "okolica",
+   "role": "Łysy gość z kanału obok Kociej Wyspy.",
+   "facts": [
+    "Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wojt",
+   "name": "Wójt",
+   "group": "okolica",
+   "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "saperzy",
+   "name": "Saperzy",
+   "group": "okolica",
+   "role": "Przyjeżdżają do niewypałów znajdowanych na działce.",
+   "facts": [
+    "Gzowo to tereny powojenne, stąd niewypały w ziemi."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
   }
  ],
  "fictional": [
@@ -752,7 +824,8 @@
    "where": "górna część działki",
    "facts": [
     "Stroma skarpa nadnarwiańska.",
-    "Pod ziemią najprawdopodobniej stary skład bomb i broni."
+    "Pod ziemią najprawdopodobniej stary skład bomb i broni.",
+    "W ziemi na działce trafiają się niewypały z czasów wojny."
    ],
    "source": [
     "jurek-2026-11-10",
@@ -769,6 +842,46 @@
    ],
    "source": [
     "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "cypel",
+   "name": "Cypel",
+   "where": "nad Narwią przy działce",
+   "facts": [
+    "Jurek wymienił Cypel jako osobne miejsce.",
+    "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "prawdopodobne"
+  },
+  {
+   "id": "kocia-wyspa",
+   "name": "Kocia Wyspa",
+   "where": "w okolicy, obok kanału",
+   "facts": [
+    "Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.",
+    "Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "prawdopodobne"
+  },
+  {
+   "id": "kanal",
+   "name": "Kanał",
+   "where": "obok Kociej Wyspy",
+   "facts": [
+    "Stąd jest Paweł."
+   ],
+   "source": [
+    "jurek-2026-11-10"
    ],
    "confidence": "pewne"
   },
@@ -992,6 +1105,17 @@
    "source": [
     "jurek-2026-11-10",
     "obserwacja"
+   ]
+  },
+  {
+   "id": "helikopter",
+   "name": "Helikopter Szamborskiego",
+   "ours": false,
+   "facts": [
+    "Czasem ląduje w Gzowie, przylatuje nim Szamborski."
+   ],
+   "source": [
+    "jurek-2026-11-10"
    ]
   }
  ],
@@ -1222,6 +1346,33 @@
     "jurek-2026-11-10"
    ],
    "confidence": "niepewne"
+  },
+  {
+   "id": "niewypaly",
+   "title": "Niewypały i saperzy",
+   "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "helikopter",
+   "title": "Helikopter nad Gzowem",
+   "what": "Szamborski czasem przylatuje do Gzowa helikopterem.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wycinka",
+   "title": "Wycinka Majora",
+   "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
   },
   {
    "id": "osrodek-fso",
@@ -1578,7 +1729,11 @@
    "Dom Waldka",
    "Stacja Moya",
    "Sklep",
-   "Aleja Lipowa"
+   "Aleja Lipowa",
+   "Cypel",
+   "Kocia Wyspa",
+   "Kanał",
+   "Lądowisko helikoptera"
   ],
   "characters": [
    "Jurek (konstruktor rakiet)",
@@ -1590,6 +1745,11 @@
    "Czupryńscy",
    "Janek Kunstler",
    "Benny",
+   "Major (wędkarz i drwal)",
+   "Szamborski (przylatuje helikopterem)",
+   "Paweł (łysy gość z kanału)",
+   "Wójt",
+   "saperzy",
    "Panie ze stacji Moya",
    "Dropsik",
    "Beethoven (głuchy biały kot)",
@@ -1607,6 +1767,10 @@
    "spadochron",
    "AirTag z nosa rakiety",
    "łopata",
+   "niewypał",
+   "helikopter",
+   "wędka",
+   "drewno z wycinki",
    "tafla lodu",
    "lody ze stacji Moya",
    "szyszki (waluta)",
@@ -1622,6 +1786,13 @@
    "Spadochron się nie otworzył: szukasz rakiety w polu.",
    "Spadochron otworzył się za pierwszym razem.",
    "Dropsik zniknął: wszyscy ruszają na poszukiwania.",
+   "Niewypał! Pole jest zamknięte, dopóki nie przyjadą saperzy.",
+   "Saperzy zabierają niewypał: pole znów otwarte.",
+   "Szamborski ląduje helikopterem: przenosisz się na dowolne pole.",
+   "Major robi wycinkę: jedno drzewo mniej, drewno na ognisko dla wszystkich.",
+   "Major złowił rybę: kolacja nad Narwią.",
+   "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
+   "Paweł macha z kanału obok Kociej Wyspy.",
    "Narew zamarzła: można przejść po lodzie.",
    "Zimowy obiad: zjadasz taflę lodu.",
    "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
@@ -1703,7 +1874,11 @@
   "Brak zdjęć koparki, Tesli, tarasu i kajaków. Dom z zewnątrz jest tylko na krótkim filmie.",
   "Kiedy dokładnie był Dropsik i jak go porwano.",
   "Kto z Ciszewskich jest kim (Bartek i Ola jako rodzice, Ignacy i Helena jako dzieci to wniosek ze zdjęć).",
-  "Model Tesli i marka koparki."
+  "Model Tesli i marka koparki.",
+  "Gdzie dokładnie są Cypel, kanał i Kocia Wyspa i skąd nazwa Kocia Wyspa.",
+  "Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).",
+  "Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.",
+  "Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa."
  ],
  "media": {
   "groups": {

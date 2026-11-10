@@ -193,5 +193,69 @@
    "jurek-2026-11-10"
   ],
   "confidence": "pewne"
+ },
+ {
+  "id": "major",
+  "name": "Major",
+  "group": "okolica",
+  "role": "Łowi ryby, ale też robi u Sukienników wycinki drzew.",
+  "facts": [
+   "Nie wiadomo, czy Major to ksywka, stopień czy nazwisko."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "szamborski",
+  "name": "Szamborski",
+  "group": "przyjaciele",
+  "role": "Czasem przylatuje do Gzowa helikopterem.",
+  "facts": [
+   "Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "wniosek"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "pawel",
+  "name": "Paweł",
+  "group": "okolica",
+  "role": "Łysy gość z kanału obok Kociej Wyspy.",
+  "facts": [
+   "Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "wojt",
+  "name": "Wójt",
+  "group": "okolica",
+  "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "saperzy",
+  "name": "Saperzy",
+  "group": "okolica",
+  "role": "Przyjeżdżają do niewypałów znajdowanych na działce.",
+  "facts": [
+   "Gzowo to tereny powojenne, stąd niewypały w ziemi."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
  }
 ]

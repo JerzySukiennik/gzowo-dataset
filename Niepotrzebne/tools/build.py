@@ -287,7 +287,7 @@ TOC = [('start', 'Start'), ('miejsce', 'Miejsce'), ('historia', 'Historia'), ('l
 
 S = []
 S.append(f'''<section id="start"><p class="k">Gzowo 34 · nad Narwią · wersja {E(F.META['version'])} · {E(F.META['updated'])}</p><h1>Gzowo Dataset</h1><p class="lead">{E(F.META['purpose'])}</p>
-<div class="nums"><div><b>{STATS['photos']}</b>zdjęć</div><div><b>{STATS['videos']}</b>filmów</div><div><b>{STATS['people']}</b>osób i rodzin</div><div><b>{STATS['projects']}</b>projektów Gzowo Labs</div></div>
+<div class="nums"><div><b>{STATS['photos']}</b>zdjęć</div><div><b>{STATS['videos']}</b>filmów</div><div><b>{STATS['people']}</b>osób i grup</div><div><b>{STATS['projects']}</b>projektów Gzowo Labs</div></div>
 <div class="ai"><h3>Dla Claude'a</h3><p>Wklej to swojemu Claude'owi, a będzie wiedział wszystko:</p><pre id="prompt">{E(PROMPT)}</pre><button id="copy" type="button">Kopiuj</button>
 <p class="links"><a href="llms.txt">llms.txt</a><a href="gzowo-dataset.md">gzowo-dataset.md</a><a href="data/all.json">all.json</a><a href="data/media.json">media.json</a><a href="{E(F.META['repo'])}">repozytorium</a></p></div>
 <p class="note">{E(F.META['truth_policy'])} Znaczek <span class="b">niepewne</span> oznacza rzeczy, których nikt nie potwierdził na sto procent.</p></section>''')

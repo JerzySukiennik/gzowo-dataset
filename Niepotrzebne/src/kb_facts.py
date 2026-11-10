@@ -2,7 +2,7 @@
 
 META = {
     "name": "Gzowo Dataset",
-    "version": "1.0",
+    "version": "1.1",
     "updated": "2026-11-10",
     "language": "pl",
     "site": "https://dataset.gzowo.fun",
@@ -60,6 +60,7 @@ PLACE = {
 HISTORY = [
     {"when": "przed 2021", "what": "Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "nieznane, dawniej", "what": "Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
+    {"when": "po wojnie i do dziś", "what": "To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "2020-11-30", "what": "Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem.", "source": ["obserwacja", "jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "2021-06", "what": "Od tego miesiąca Sukiennicy mają działkę Gzowo 34.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "po 2021", "what": "Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
@@ -154,6 +155,11 @@ PEOPLE = [
     {"id": "arek", "name": "Arek", "group": "okolica", "role": "Śp. \"Gzowiański somsiad\", wędkarz znad Narwi. Imię niepewne (Jurek: \"chyba Arek\").", "facts": ["Zdjęcie \"Letni odpoczynek\" z Janem na brzegu: \"Piwko, Narew, wspólny czas. Czego by tu chcieć więcej!\"."], "source": ["jurek-2026-11-10", "galeria"], "confidence": "niepewne"},
     {"id": "benny", "name": "Benny", "group": "okolica", "role": "Lokalna postać, lubiana przez rodzinę.", "facts": ["Znany z tego, że często chodzi z puszką piwa, nawet w deszczu."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "moya-ekipa", "name": "Ekipa stacji Moya", "group": "okolica", "role": "Bardzo miłe panie, które pracują na stacji Moya, i pan, który często tam przychodzi.", "facts": [], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "major", "name": "Major", "group": "okolica", "role": "Łowi ryby, ale też robi u Sukienników wycinki drzew.", "facts": ["Nie wiadomo, czy Major to ksywka, stopień czy nazwisko."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "szamborski", "name": "Szamborski", "group": "przyjaciele", "role": "Czasem przylatuje do Gzowa helikopterem.", "facts": ["Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "pewne"},
+    {"id": "pawel", "name": "Paweł", "group": "okolica", "role": "Łysy gość z kanału obok Kociej Wyspy.", "facts": ["Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "wojt", "name": "Wójt", "group": "okolica", "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.", "facts": [], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "saperzy", "name": "Saperzy", "group": "okolica", "role": "Przyjeżdżają do niewypałów znajdowanych na działce.", "facts": ["Gzowo to tereny powojenne, stąd niewypały w ziemi."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
 ]
 
 FICTIONAL = [
@@ -199,8 +205,11 @@ SPOTS = [
     {"id": "plaza", "name": "Plaża", "aliases": ["Plaża Gzowo 34"], "where": "na dole, nad Narwią",
      "facts": ["Trawiasto-piaszczysty stok schodzący do płytkiej wody, trzciny, łódki leżące dnem do góry.", "Dojazd piaszczystą drogą wzdłuż muru z gabionów (kosze z kamieniem).", "Tu się kopie w piasku i woduje SUP-a, kajaki i motorówkę.", "Na zdjęciach z 08.08.2026 cumuje żółty skuter wodny, ale nie jest Sukienników."],
      "source": ["jurek-2026-11-10", "galeria", "obserwacja"], "confidence": "pewne"},
-    {"id": "skarpa", "name": "Skarpa i stary skład", "where": "górna część działki", "facts": ["Stroma skarpa nadnarwiańska.", "Pod ziemią najprawdopodobniej stary skład bomb i broni."], "source": ["jurek-2026-11-10", "geodane"], "confidence": "niepewne"},
+    {"id": "skarpa", "name": "Skarpa i stary skład", "where": "górna część działki", "facts": ["Stroma skarpa nadnarwiańska.", "Pod ziemią najprawdopodobniej stary skład bomb i broni.", "W ziemi na działce trafiają się niewypały z czasów wojny."], "source": ["jurek-2026-11-10", "geodane"], "confidence": "niepewne"},
     {"id": "sosny", "name": "Kępa sosen", "where": "środek działki", "facts": ["Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym."], "source": ["obserwacja"], "confidence": "pewne"},
+    {"id": "cypel", "name": "Cypel", "where": "nad Narwią przy działce", "facts": ["Jurek wymienił Cypel jako osobne miejsce.", "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "prawdopodobne"},
+    {"id": "kocia-wyspa", "name": "Kocia Wyspa", "where": "w okolicy, obok kanału", "facts": ["Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.", "Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "prawdopodobne"},
+    {"id": "kanal", "name": "Kanał", "where": "obok Kociej Wyspy", "facts": ["Stąd jest Paweł."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "gl-launch-site", "name": "GL Launch Site", "aliases": ["GSP Launch Site (stara nazwa)"], "where": "pola, łąki i szutrowa droga w okolicy Gzowa",
      "facts": ["Miejsce startów rakiet. Nazwa GL, bo GSP jest już scalone z Gzowo Labs.", "Na filmach: wyrzutnia na statywie, start z szutrowej drogi, z brzegu zaoranego pola i z łąki."], "source": ["jurek-2026-11-10", "galeria", "obserwacja"], "confidence": "pewne"},
     {"id": "dom-waldka", "name": "Dom Waldka", "where": "w okolicy", "facts": ["Zdjęcie \"Słońce nad polem\" (Jurek doświadcza zachodu słońca) zrobiono w okolicach domu Waldka."], "source": ["jurek-2026-11-10", "galeria"], "confidence": "pewne"},
@@ -224,6 +233,7 @@ OBJECTS = [
     {"id": "futro", "name": "Białe futro i buty z krokodyla", "ours": True, "facts": ["Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."], "source": ["notatki", "galeria", "wniosek"]},
     {"id": "skuter", "name": "Żółty skuter wodny", "ours": False, "facts": ["Widać go na zdjęciach plaży, ale NIE jest Sukienników.", "W grze Rysia można nim pływać i robić fale."], "source": ["jurek-2026-11-10", "obserwacja", "gra-narew"]},
     {"id": "polo", "name": "Czerwone VW Polo", "ours": False, "facts": ["Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników."], "source": ["jurek-2026-11-10", "obserwacja"]},
+    {"id": "helikopter", "name": "Helikopter Szamborskiego", "ours": False, "facts": ["Czasem ląduje w Gzowie, przylatuje nim Szamborski."], "source": ["jurek-2026-11-10"]},
 ]
 
 RITUALS = [
@@ -269,6 +279,9 @@ STORIES = [
     {"id": "grad", "title": "Burza z gradem", "what": "Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "porwanie-dropsika", "title": "Porwanie Dropsika", "what": "Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "sklad-bomb", "title": "Skład pod skarpą", "what": "Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
+    {"id": "niewypaly", "title": "Niewypały i saperzy", "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "helikopter", "title": "Helikopter nad Gzowem", "what": "Szamborski czasem przylatuje do Gzowa helikopterem.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "wycinka", "title": "Wycinka Majora", "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "osrodek-fso", "title": "Dziesięć domków FSO", "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "orange-beauty", "title": "Lot The Orange Beauty", "what": "Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył.", "source": ["gzowo.fun", "obserwacja"], "confidence": "pewne"},
     {"id": "mk2", "title": "Pierwszy spadochron", "what": "Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026).", "source": ["gzowo.fun"], "confidence": "pewne"},
@@ -333,15 +346,22 @@ GAMES_IN_GZOWO = [
 
 GAME_KIT = {
     "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
-    "board_spaces": ["Dom (śniadanie przy dużym stole)", "Taras", "Wiata z pasiastym fotelem", "Trzy domki FSO", "Panele słoneczne", "Ognisko", "Hamak w sosnach", "Skarpa i stary skład", "Plaża", "Narew", "Mur z gabionów", "GL Launch Site", "Dom Waldka", "Stacja Moya", "Sklep", "Aleja Lipowa"],
-    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Panie ze stacji Moya", "Dropsik", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
-    "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
+    "board_spaces": ["Dom (śniadanie przy dużym stole)", "Taras", "Wiata z pasiastym fotelem", "Trzy domki FSO", "Panele słoneczne", "Ognisko", "Hamak w sosnach", "Skarpa i stary skład", "Plaża", "Narew", "Mur z gabionów", "GL Launch Site", "Dom Waldka", "Stacja Moya", "Sklep", "Aleja Lipowa", "Cypel", "Kocia Wyspa", "Kanał", "Lądowisko helikoptera"],
+    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "saperzy", "Panie ze stacji Moya", "Dropsik", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
+    "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "niewypał", "helikopter", "wędka", "drewno z wycinki", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
     "event_cards": [
         "Ośrodek daje: dostajesz coś za nic.",
         "Grad wielkości kostek lodu: wszyscy chowają się pod wiatę.",
         "Spadochron się nie otworzył: szukasz rakiety w polu.",
         "Spadochron otworzył się za pierwszym razem.",
         "Dropsik zniknął: wszyscy ruszają na poszukiwania.",
+        "Niewypał! Pole jest zamknięte, dopóki nie przyjadą saperzy.",
+        "Saperzy zabierają niewypał: pole znów otwarte.",
+        "Szamborski ląduje helikopterem: przenosisz się na dowolne pole.",
+        "Major robi wycinkę: jedno drzewo mniej, drewno na ognisko dla wszystkich.",
+        "Major złowił rybę: kolacja nad Narwią.",
+        "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
+        "Paweł macha z kanału obok Kociej Wyspy.",
         "Narew zamarzła: można przejść po lodzie.",
         "Zimowy obiad: zjadasz taflę lodu.",
         "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
@@ -383,4 +403,8 @@ OPEN_QUESTIONS = [
     "Kiedy dokładnie był Dropsik i jak go porwano.",
     "Kto z Ciszewskich jest kim (Bartek i Ola jako rodzice, Ignacy i Helena jako dzieci to wniosek ze zdjęć).",
     "Model Tesli i marka koparki.",
+    "Gdzie dokładnie są Cypel, kanał i Kocia Wyspa i skąd nazwa Kocia Wyspa.",
+    "Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).",
+    "Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.",
+    "Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa.",
 ]

@@ -2,7 +2,7 @@
 
 > Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
 
-Język: polski. Wersja 1.0 z 2026-11-10. Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany.
+Język: polski. Wersja 1.1 z 2026-11-10. Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany.
 
 ## Najpierw to
 - [Cały tekst datasetu](https://dataset.gzowo.fun/gzowo-dataset.md): wszystko w jednym pliku Markdown, czytaj w całości

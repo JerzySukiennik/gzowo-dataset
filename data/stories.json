@@ -27,6 +27,33 @@
   "confidence": "niepewne"
  },
  {
+  "id": "niewypaly",
+  "title": "Niewypały i saperzy",
+  "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek uważa, że to dobry materiał do gry.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "helikopter",
+  "title": "Helikopter nad Gzowem",
+  "what": "Szamborski czasem przylatuje do Gzowa helikopterem.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "wycinka",
+  "title": "Wycinka Majora",
+  "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "id": "osrodek-fso",
   "title": "Dziesięć domków FSO",
   "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.",

@@ -1,0 +1,162 @@
+[
+ {
+  "when": "przed 2021",
+  "what": "Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "nieznane, dawniej",
+  "what": "Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "when": "po wojnie i do dziś",
+  "what": "To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2020-11-30",
+  "what": "Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem.",
+  "source": [
+   "obserwacja",
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2021-06",
+  "what": "Od tego miesiąca Sukiennicy mają działkę Gzowo 34.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "po 2021",
+  "what": "Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "ok. zimy 2022/2023",
+  "what": "Czas Dropsika, małego czarno-karmelowego psa. Film DANCE z nim został zmontowany 28.01.2023. Niedługo po tym, jak się pojawił, został porwany.",
+  "source": [
+   "jurek-2026-11-10",
+   "obserwacja"
+  ],
+  "confidence": "prawdopodobne"
+ },
+ {
+  "when": "2023-08-29",
+  "what": "Jurek jako KALAKASANYT nagrywa w Warszawie reakcję na '200 memes in 1 song'.",
+  "source": [
+   "obserwacja",
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2025-05-25",
+  "what": "Ktoś w zielonej bluzie z kapturem maluje na ziemi przed domkiem wielkie kolorowe płótno szczotką na długim kiju (film z sali 3C Galerii).",
+  "source": [
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2025, lato albo jesień",
+  "what": "Powstaje Gzowo Space Program (GSP), rakiety modelarskie Jurka i taty. Notatki mówią o lecie 2025, strona o jesieni 2025.",
+  "source": [
+   "notatki",
+   "gzowo.fun"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "when": "2025-10-18 i 19",
+  "what": "Zielona rakieta taty 'Architektoniczny wieżowiec' wydrukowana w 3D i starty z szutrowej drogi i z pola pod Gzowem.",
+  "source": [
+   "galeria",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2025-11-01",
+  "what": "Kolejne starty rakiet z łąki o zmierzchu.",
+  "source": [
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2025-11-29",
+  "what": "Start czerwono-czarnej rakiety The Orange Beauty z oszronionej łąki (nagrany też kamerą Insta360). Spadochron się nie otworzył. Strona gzowo.fun podaje datę lotu 22.02.2026, ale nazwy plików z WhatsAppa wskazują 29.11.2025.",
+  "source": [
+   "obserwacja",
+   "gzowo.fun"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "when": "2026-03-21",
+  "what": "Pierwszy lot rakiety Gzofajfus Classic Mk II. Spadochron otworzył się za pierwszym razem.",
+  "source": [
+   "gzowo.fun"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2026-06-23",
+  "what": "Dzień Ojca: Jurek daje tacie Galerię Gzowo, galerię 3D ze zdjęciami z działki (\"Dla Taty. Historia Gzowa zebrana w interaktywną i jedyną w swoim rodzaju formę\").",
+  "source": [
+   "notatki",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2026-07 i 08",
+  "what": "Jurek spędza lato w Gzowie (do ok. 10 sierpnia). Nagrywa dom od środka i z zewnątrz (28.07) i fotografuje plażę (08.08).",
+  "source": [
+   "notatki",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2026-10-29",
+  "what": "Strona gzowo.fun staje się pulpitem Windows 98 nad pikselową mapą działki.",
+  "source": [
+   "notatki"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2026-11-05",
+  "what": "Gzowo Labs dostaje logo Wschód: dwa splecione ogniwa (dwóch braci) nad horyzontem.",
+  "source": [
+   "notatki"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2026-11-10",
+  "what": "GSP jest już scalone z Gzowo Labs, miejsce startów nazywa się GL Launch Site. Powstaje ten dataset.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ }
+]

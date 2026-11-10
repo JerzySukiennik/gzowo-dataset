@@ -1,0 +1,4976 @@
+{
+ "meta": {
+  "name": "Gzowo Dataset",
+  "version": "1.1",
+  "updated": "2026-11-10",
+  "language": "pl",
+  "site": "https://dataset.gzowo.fun",
+  "repo": "https://github.com/JerzySukiennik/gzowo-dataset",
+  "author": "Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude",
+  "purpose": "Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.",
+  "truth_policy": "Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany."
+ },
+ "sources": {
+  "jurek-2026-11-10": "Odpowiedzi Jurka na pytania, rozmowa z 10.11.2026 (najświeższe i najważniejsze źródło).",
+  "galeria": "Podpisy i tytuły z Galerii Gzowo (prezent Jurka dla taty na Dzień Ojca, czerwiec 2026). Pisał je Jurek.",
+  "notatki": "Notatki projektowe Jurka z lat 2025-2026 (opisy jego gier i projektów osadzonych w Gzowie).",
+  "gra-narew": "Gra Rysia 'NAREW, posesja nad jeziorem' (narew.html). Świat gry jest wzorowany na działce, ale to fikcja.",
+  "gzowo.fun": "Dane ze strony Gzowo Labs (gzowo.fun).",
+  "geodane": "Numeryczny model terenu i ortofotomapa z Geoportalu oraz OpenStreetMap, pobrane w lipcu 2026.",
+  "obserwacja": "Opis tego, co widać na zdjęciu albo filmie (opisał Claude).",
+  "wniosek": "Wniosek Claude'a z kilku źródeł. Niepotwierdzony przez rodzinę."
+ },
+ "confidence": {
+  "pewne": "Powiedziane wprost przez Jurka albo widoczne w materiale.",
+  "prawdopodobne": "Wynika ze źródeł, ale nikt tego wprost nie potwierdził.",
+  "niepewne": "Jurek sam zaznaczył niepewność (\"chyba\", \"najprawdopodobniej\") albo źródła się różnią."
+ },
+ "place": {
+  "name": "Gzowo 34",
+  "nicknames": [
+   "Gzowo",
+   "Ośrodek",
+   "Ośrodek Gzowo",
+   "działka",
+   "posesja nad Narwią"
+  ],
+  "what": "Rodzinna działka Sukienników nad Narwią, dawny ośrodek wypoczynkowy FSO. Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.",
+  "address": "Gzowo 34, wieś Gzowo, gmina Pokrzywnica, powiat pułtuski, województwo mazowieckie, Polska",
+  "coordinates": {
+   "lat": 52.612806,
+   "lon": 21.116,
+   "note": "Punkt Gzowo 34 użyty w projekcie Gzowo Meadow."
+  },
+  "from_warsaw": "Ok. 45 km w linii prostej na północ od centrum Warszawy (wyliczone ze współrzędnych). Rodzina mieszka w Warszawie i przyjeżdża na działkę.",
+  "river": {
+   "name": "Narew",
+   "role": "\"Serce Gzowa - Narew!\" (podpis z galerii). Działka schodzi do samej wody.",
+   "character": "Rzeka jest tu szeroka i spokojna, wygląda jak jezioro. W rodzinnych podpisach bywa nazywana jeziorem (\"łabędź na jeziorze\"), gra Rysia ma podtytuł \"posesja nad jeziorem\". W dolinie są rozlewiska, starorzecze i piaszczyste łachy.",
+   "water_level_m": 79.3,
+   "uses": [
+    "kąpiel i brodzenie",
+    "SUP",
+    "kajaki",
+    "motorówka",
+    "kopanie w piasku na plaży",
+    "wędkowanie (wędkarze z okolicy)",
+    "zimą chodzenie po lodzie"
+   ]
+  },
+  "terrain": {
+   "summary": "Działka leży na samej krawędzi skarpy nadnarwiańskiej. Jest góra i dół: na górze terasa z polami, sadami i zabudową wsi, na dole dolina z rzeką, mokrymi łąkami i piaskiem.",
+   "elevation_in_1km_square_m": {
+    "min": 79.1,
+    "max": 104.1,
+    "difference": 25.0
+   },
+   "plot_ground_m": 87.2,
+   "scarp": "Skarpa biegnie z północy na południe, ok. 20 m różnicy wysokości na krótkim dystansie.",
+   "landcover_1km_square_pct": {
+    "pola uprawne": 32.4,
+    "łąka": 21.1,
+    "woda": 17.4,
+    "siedliska i ogrody": 16.1,
+    "las": 7.3,
+    "budynki": 1.8,
+    "drogi": 2.5,
+    "piach": 1.3
+   },
+   "trees": "Sosny (na działce rośnie kępa wysokich sosen), brzozy, dęby, przy wodzie wierzby i olchy.",
+   "neighbourhood": "W kwadracie 1 x 1 km wokół działki OpenStreetMap ma ok. 300 budynków, Aleję Lipową, plażę, mokradło, starorzecze i rowy melioracyjne."
+  },
+  "aerial_view": "Na zdjęciu lotniczym (media/geo/ortofoto-dzialka-zblizenie.jpg, żółte kółko = Gzowo 34): w środku działki ciemna kępa sosen, dookoła jasny piasek, od północnego wschodu i wschodu szeroka woda Narwi, na wschodzie mała zatoczka i zalesiony cypel, od południa i zachodu domy sąsiadów, dojazd drogą od południowego zachodu.",
+  "source": [
+   "jurek-2026-11-10",
+   "notatki",
+   "geodane",
+   "galeria",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ "history": [
+  {
+   "when": "przed 2021",
+   "what": "Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "nieznane, dawniej",
+   "what": "Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "when": "po wojnie i do dziś",
+   "what": "To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2020-11-30",
+   "what": "Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem.",
+   "source": [
+    "obserwacja",
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2021-06",
+   "what": "Od tego miesiąca Sukiennicy mają działkę Gzowo 34.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "po 2021",
+   "what": "Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "ok. zimy 2022/2023",
+   "what": "Czas Dropsika, małego czarno-karmelowego psa. Film DANCE z nim został zmontowany 28.01.2023. Niedługo po tym, jak się pojawił, został porwany.",
+   "source": [
+    "jurek-2026-11-10",
+    "obserwacja"
+   ],
+   "confidence": "prawdopodobne"
+  },
+  {
+   "when": "2023-08-29",
+   "what": "Jurek jako KALAKASANYT nagrywa w Warszawie reakcję na '200 memes in 1 song'.",
+   "source": [
+    "obserwacja",
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2025-05-25",
+   "what": "Ktoś w zielonej bluzie z kapturem maluje na ziemi przed domkiem wielkie kolorowe płótno szczotką na długim kiju (film z sali 3C Galerii).",
+   "source": [
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2025, lato albo jesień",
+   "what": "Powstaje Gzowo Space Program (GSP), rakiety modelarskie Jurka i taty. Notatki mówią o lecie 2025, strona o jesieni 2025.",
+   "source": [
+    "notatki",
+    "gzowo.fun"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "when": "2025-10-18 i 19",
+   "what": "Zielona rakieta taty 'Architektoniczny wieżowiec' wydrukowana w 3D i starty z szutrowej drogi i z pola pod Gzowem.",
+   "source": [
+    "galeria",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2025-11-01",
+   "what": "Kolejne starty rakiet z łąki o zmierzchu.",
+   "source": [
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2025-11-29",
+   "what": "Start czerwono-czarnej rakiety The Orange Beauty z oszronionej łąki (nagrany też kamerą Insta360). Spadochron się nie otworzył. Strona gzowo.fun podaje datę lotu 22.02.2026, ale nazwy plików z WhatsAppa wskazują 29.11.2025.",
+   "source": [
+    "obserwacja",
+    "gzowo.fun"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "when": "2026-03-21",
+   "what": "Pierwszy lot rakiety Gzofajfus Classic Mk II. Spadochron otworzył się za pierwszym razem.",
+   "source": [
+    "gzowo.fun"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2026-06-23",
+   "what": "Dzień Ojca: Jurek daje tacie Galerię Gzowo, galerię 3D ze zdjęciami z działki (\"Dla Taty. Historia Gzowa zebrana w interaktywną i jedyną w swoim rodzaju formę\").",
+   "source": [
+    "notatki",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2026-07 i 08",
+   "what": "Jurek spędza lato w Gzowie (do ok. 10 sierpnia). Nagrywa dom od środka i z zewnątrz (28.07) i fotografuje plażę (08.08).",
+   "source": [
+    "notatki",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2026-10-29",
+   "what": "Strona gzowo.fun staje się pulpitem Windows 98 nad pikselową mapą działki.",
+   "source": [
+    "notatki"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2026-11-05",
+   "what": "Gzowo Labs dostaje logo Wschód: dwa splecione ogniwa (dwóch braci) nad horyzontem.",
+   "source": [
+    "notatki"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "when": "2026-11-10",
+   "what": "GSP jest już scalone z Gzowo Labs, miejsce startów nazywa się GL Launch Site. Powstaje ten dataset.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  }
+ ],
+ "people": [
+  {
+   "id": "jurek",
+   "name": "Jurek Sukiennik",
+   "full_name": "Jerzy Sukiennik",
+   "group": "rodzina",
+   "role": "Starszy syn. Autor tego datasetu, twórca Gzowo Labs, konstruktor rakiet.",
+   "facts": [
+    "Rocznik 2012, mieszka w Warszawie, w roku szkolnym 2026/27 chodzi do 8 klasy.",
+    "Pasje: rakiety modelarskie, druk 3D, AI i własne modele, gry przeglądarkowe, design, pianino i fortepian (poziom zaawansowany), Michael Jackson.",
+    "Minimalista. Ulubiona marka aut to Tesla.",
+    "Dawny nick w internecie: KALAKASANYT (Kalakasan yt).",
+    "W Gzowo Space Program ma tytuł CEO.",
+    "Na stronie gzowo.fun przedstawia się hasłem: \"I build things that fly. And a few that don't crash.\""
+   ],
+   "looks": "Ok. 173 cm, szczupły, jasna skóra, oczy zielono-piwne, włosy średni brąz, potargane. Typowy strój: czarna bluza z kapturem Nike x RTFKT (żółty znaczek), czarne dresy, zielone Crocsy. Na starszych zdjęciach z działki: czerwona kurtka i żółta albo zielona czapka.",
+   "in_games": "W grze Ośrodek Daje to on jest sprawcą dziur w ziemi (eksperyment GSP), chodzi z telefonem w ręku. Na gzowo.fun jest pikselowym i trójwymiarowym awatarem, który wiosłuje kajakiem, łowi ryby i jeździ na łyżwach po zamarzniętej Narwi.",
+   "source": [
+    "notatki",
+    "jurek-2026-11-10",
+    "gzowo.fun",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "rysio",
+   "name": "Rysio Sukiennik",
+   "full_name": "Ryszard Sukiennik",
+   "aliases": [
+    "Ryś",
+    "Rysio"
+   ],
+   "group": "rodzina",
+   "role": "Młodszy brat Jurka.",
+   "facts": [
+    "Autor gry 'NAREW, posesja nad jeziorem', w której chodzi się po działce.",
+    "Na zdjęciach: pływa na desce SUP w kapoku, łapie wiatr na motorówce, pozuje w okrągłych okularach (\"Rysio lubi Old School\"), zimą trzyma wielką taflę lodu (\"Zimowy obiad Rysia\") i staje w pozie Supermana w świetle reflektora (\"Strike a pose!\").",
+    "Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia)."
+   ],
+   "looks": "Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.",
+   "in_games": "W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.",
+   "source": [
+    "notatki",
+    "galeria",
+    "gzowo.fun",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "jan",
+   "name": "Jan Sukiennik",
+   "aliases": [
+    "Tata",
+    "KS",
+    "Kierownik Ośrodka"
+   ],
+   "group": "rodzina",
+   "role": "Tata. Zabawowo i śmiesznie: KS, czyli Kierownik Ośrodka (bo działka to dawny ośrodek).",
+   "facts": [
+    "Jego złota myśl i zasada nr 1: \"Ośrodek daje, Ośrodek daje\" (od \"Bóg daje, Bóg zabiera\").",
+    "Jak mówi i jaki jest (wg Jurka): siup do przodu, nie uważa, wyluzowany, kocha lustra, wizjoner, prosty, elegancki.",
+    "Pilotuje drona DJI Avata (zdjęcie \"Pilot Jan\": stoi nad Narwią z kontrolerem w rękach).",
+    "Maluje światłem przy ognisku (zdjęcie \"Malowanie Światłem\").",
+    "W GSP ma tytuł Founding Partner. Jego rakieta to zielony 'Architektoniczny wieżowiec'.",
+    "Czyta dzieciom książki na działce (\"Letnia lektura\"), konsultował budowę tarasu.",
+    "Prowadzi firmę R&D Studio (rd.studio).",
+    "To dla niego powstała Galeria Gzowo (Dzień Ojca 2026)."
+   ],
+   "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
+   "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
+   "source": [
+    "jurek-2026-11-10",
+    "notatki",
+    "galeria",
+    "gra-narew",
+    "gzowo.fun"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "waldek",
+   "name": "Waldek",
+   "full_name": "Waldemar Otton",
+   "group": "przyjaciele",
+   "role": "Pracownik i pomocnik w Gzowie, ale też bardzo przyjaciel.",
+   "facts": [
+    "To głównie on pracuje koparką i kopie na działce.",
+    "Ma swój dom w okolicy (miejsce \"dom Waldka\").",
+    "Dropsik był bardziej jego psem niż Sukienników.",
+    "W Galerii ma własny pokój \"Ottonowie. Wierni członkowie Gzowa\" z portretem z żoną Bożeną, zatytułowanym \"Dziadkowie\"."
+   ],
+   "in_games": "W grze Rysia Waldek przyjeżdża konno, kiedy wpisze się poprawny kod na ścianie (\"Waldek jeździ tu konno, odkąd pamiętam\"), jest też \"zakład z Waldkiem\" o kopanie.",
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "gra-narew"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "bozena",
+   "name": "Bożena Otton",
+   "group": "przyjaciele",
+   "role": "Żona Waldka. Razem z nim na portrecie \"Dziadkowie\" w cieniu drzew.",
+   "facts": [],
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "ciszewscy",
+   "name": "Ciszewscy",
+   "group": "przyjaciele",
+   "role": "Zaprzyjaźniona rodzina, stali goście Gzowa: Bartek, Ola Kluzek \"Clu\", Ignacy i Helena.",
+   "facts": [
+    "W Galerii mają pokój \"Ciszewscy x Sukiennicy\" z hasłem \"Herbata nie wyklucza kawy\".",
+    "Ola \"Clu\" odpoczywa w hamaku wśród sosen.",
+    "Ignacy i Helena to dzieci (wniosek ze zdjęć): \"Modlitwa przy drzewie\", wspólne czytanie z Janem, Jurkiem i Rysiem.",
+    "Ignacy z Rysiem przedzierali się przez trawy do stacji Moya (\"Ciężka droga do stacji Moya\").",
+    "Helena chodziła zimą po zamarzniętej Narwi."
+   ],
+   "in_games": "W grze Rysia po czterech minutach wjeżdżają autem przez bramę, parkują przed domem, wysiada czworo i od tej pory chodzą po posesji.",
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "gra-narew",
+    "wniosek"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "czuprynscy",
+   "name": "Czupryńscy",
+   "group": "przyjaciele",
+   "role": "Znajomi rodziny. Właściciele kota Beethovena.",
+   "facts": [
+    "Zdjęcie \"Razem o zachodzie\": przytuleni nad wodą w złotym świetle."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "janek-kunstler",
+   "name": "Janek Kunstler",
+   "group": "przyjaciele",
+   "role": "Kolega Jurka. Był w Gzowie podczas wielkiej burzy z gradem.",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "arek",
+   "name": "Arek",
+   "group": "okolica",
+   "role": "Śp. \"Gzowiański somsiad\", wędkarz znad Narwi. Imię niepewne (Jurek: \"chyba Arek\").",
+   "facts": [
+    "Zdjęcie \"Letni odpoczynek\" z Janem na brzegu: \"Piwko, Narew, wspólny czas. Czego by tu chcieć więcej!\"."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "id": "benny",
+   "name": "Benny",
+   "group": "okolica",
+   "role": "Lokalna postać, lubiana przez rodzinę.",
+   "facts": [
+    "Znany z tego, że często chodzi z puszką piwa, nawet w deszczu."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "moya-ekipa",
+   "name": "Ekipa stacji Moya",
+   "group": "okolica",
+   "role": "Bardzo miłe panie, które pracują na stacji Moya, i pan, który często tam przychodzi.",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "major",
+   "name": "Major",
+   "group": "okolica",
+   "role": "Łowi ryby, ale też robi u Sukienników wycinki drzew.",
+   "facts": [
+    "Nie wiadomo, czy Major to ksywka, stopień czy nazwisko."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "szamborski",
+   "name": "Szamborski",
+   "group": "przyjaciele",
+   "role": "Czasem przylatuje do Gzowa helikopterem.",
+   "facts": [
+    "Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "pawel",
+   "name": "Paweł",
+   "group": "okolica",
+   "role": "Łysy gość z kanału obok Kociej Wyspy.",
+   "facts": [
+    "Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wojt",
+   "name": "Wójt",
+   "group": "okolica",
+   "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  }
+ ],
+ "fictional": [
+  {
+   "id": "edward-warchocki",
+   "name": "Edward Warchocki",
+   "from": "gra Rysia NAREW",
+   "what": "Postać z gry: chodzi w kółko po posesji i zagaduje. Jego kwestie: \"dziki znowu zryły łąkę za płotem\", \"szopy tańczą przy ognisku, sam zobacz\", \"Waldek jeździ tu konno, odkąd pamiętam\", \"woda w Narwi dziś czysta, można nalać\". Ma też własne rolki na telefonie w grze (@edward.warchocki)."
+  },
+  {
+   "id": "michael-jackson",
+   "name": "Michael Jackson",
+   "from": "gra Rysia NAREW",
+   "what": "Tancerz w domu, sunie moonwalkiem tam i z powrotem. Jurek jest fanem MJ."
+  },
+  {
+   "id": "narek",
+   "name": "Narek",
+   "from": "Narew Labs (projekt Jurka)",
+   "what": "Celowo dziwna maskotka 3D: pień-ciało w kolorze #E8A93A, nogi-patyki, jedno oko większe, jedna długa makaronowa ręka i jeden kikut, antenka z żarówką. W planowanym filmiku pisze kredą na ścianie domu \"Gzowo Jest Najlepsze <3\" i przytula dom. Render: media/postacie/narek/narek_hero.png."
+  },
+  {
+   "id": "zabi-raj",
+   "name": "Mieszkańcy Żabiego raju",
+   "from": "Galeria Gzowo",
+   "what": "Ukryty pokój-łąka ze stawem (\"Nasze małe zoo\"): żaby, pies, ośmiornica, koza i osioł, które można głaskać i karmić, a ośmiornicę posadzić sobie na głowie."
+  }
+ ],
+ "animals": [
+  {
+   "id": "dropsik",
+   "name": "Dropsik",
+   "kind": "pies",
+   "status": "nie ma go już w Gzowie",
+   "facts": [
+    "Mały, młody, czarno-karmelowy, bardzo energiczny i \"mega zabawny\".",
+    "Bardziej pies Waldka niż Sukienników.",
+    "Został porwany niedługo po tym, jak się pojawił. W Galerii podpisany jako \"śp. Dropsik\".",
+    "Jurek go kochał (zdjęcie \"Jurek z Dropsikiem. Letnie przytulanie psa\").",
+    "Film DANCE: szczeniak bawi się na liściach i na śniegu przy wiacie i stercie kamieni."
+   ],
+   "in_games": "W Ośrodek Daje jest pomocnikiem Jurka: jedno ucho stojące, drugie klapnięte, język na wierzchu, czerwona obroża (model zrobiony z opisu, bez zdjęcia).",
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "notatki",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "beethoven",
+   "name": "Beethoven",
+   "kind": "kot",
+   "status": "kot Czupryńskich",
+   "facts": [
+    "Biały, głuchy, \"mega fajny\".",
+    "\"Beethoven nie boi się Jurka (podejrzane)\": siedzi spokojnie przed Jurkiem na plaży.",
+    "\"Kontemplujący Beethoven\": siedzi tyłem na trawie i wita słońce nad zamgloną Narwią."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "szopy",
+   "name": "Szopy pracze",
+   "kind": "dzikie",
+   "status": "ważne dla Gzowa",
+   "facts": [
+    "Jurek zaznaczył je jako ważne.",
+    "W grze Rysia pięć szopów tańczy w kręgu wokół ogniska, szybciej, gdy ogień płonie."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "gra-narew"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "koty",
+   "name": "Koty i małe kotki",
+   "kind": "dzikie i półdzikie",
+   "status": "ważne dla Gzowa",
+   "facts": [
+    "Kręcą się po działce, także kocięta. Jurek zaznaczył je jako ważne."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "losie",
+   "name": "Łosie",
+   "kind": "dzikie",
+   "status": "spotykane",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "kuny",
+   "name": "Kuny",
+   "kind": "dzikie",
+   "status": "spotykane",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "lisy",
+   "name": "Lisy",
+   "kind": "dzikie",
+   "status": "spotykane",
+   "facts": [],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "labedzie",
+   "name": "Łabędzie",
+   "kind": "ptaki",
+   "status": "na Narwi",
+   "facts": [
+    "Na zdjęciu \"Nad wodą\" łabędź płynie tuż obok kopiących w piasku dzieci."
+   ],
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "ptaki",
+   "name": "Klucze ptaków",
+   "kind": "ptaki",
+   "status": "wiosną",
+   "facts": [
+    "Zdjęcie \"Klucz Ptaków\": ptaki wracające w szyku V na wiosennym niebie."
+   ],
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "dziki",
+   "name": "Dziki",
+   "kind": "dzikie",
+   "status": "tylko w grze Rysia",
+   "facts": [
+    "W grze Rysia: \"dziki znowu zryły łąkę za płotem\", \"trzeci raz w tym tygodniu\". Jurek ich nie wymienił."
+   ],
+   "source": [
+    "gra-narew"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "id": "osmiornica",
+   "name": "Ośmiornica",
+   "kind": "symbol",
+   "status": "logo Gzowa 34",
+   "facts": [
+    "Logo Gzowa 34 to ośmiornica.",
+    "Pojawia się w Żabim raju w Galerii (można ją posadzić sobie na głowie) i w pomyśle na Gzowo Car (znak: ośmiornica + napis Car)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "notatki"
+   ],
+   "confidence": "pewne"
+  }
+ ],
+ "spots": [
+  {
+   "id": "dom",
+   "name": "Dom",
+   "aliases": [
+    "kloc (w grze Rysia)"
+   ],
+   "where": "na działce, wbudowany w skarpę, wśród sosen",
+   "facts": [
+    "Zwykły graniastosłup. Bryłą nawiązuje do dawnych łazienek ośrodka FSO.",
+    "Z zewnątrz (film z 28.07.2026): niska bryła wsunięta w skarpę, na dole otwarty garaż albo schowek, na górze przeszklony prostopadłościan, dookoła sosny i łąka.",
+    "W środku jeden open space ok. 12 x 8 m: ściana z płyt OSB, marmurowa podłoga, sufit ze sklejki na czarnych szynach, przeszklenie na całą wysokość z widokiem na taras, trawę, sosny i Narew.",
+    "Wyposażenie: czarny kominek-koza z rurą, pianino cyfrowe na stojaku, telewizor (LG OLED bez internetu), długa czarna wisząca półka z konsolą PlayStation, modelem z klocków i kulą śnieżną, szafa z lustrem, czarna sofa, duży stół ze sklejki na limonkowych kozłach, kuchnia ze stali nierdzewnej z boomboxem, lampa podłogowa, zasłona, podświetlany pas onyksu przy podłodze.",
+    "Przy dużym stole rodzina prawie zawsze je rano śniadania."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "notatki",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "taras",
+   "name": "Taras",
+   "where": "przy domu",
+   "facts": [
+    "Drewniany, z desek, duży.",
+    "Zdjęcie \"Praca nad tarasem. Konsultacja tarasu\": Jan z pracownikiem na piasku budowy."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "domki",
+   "name": "Trzy domki",
+   "where": "na działce",
+   "facts": [
+    "Zostały 3 z 10 domków dawnego ośrodka FSO.",
+    "Na filmie z 2025 widać jeden: ciemny, drewniany, z czerwonymi drzwiami, obok drewno na opał."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wiata",
+   "name": "Wiata",
+   "where": "na działce",
+   "facts": [
+    "Stoi od czasów ośrodka.",
+    "Pod nią pasiasty fotel i drewno na opał. Tu powstały zdjęcia \"Wspólny czas\" i \"Krowi chłopiec\".",
+    "W grze Rysia przy wiacie stoją koparka, łopata oparta o słup i palenisko."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "gra-narew",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "panele",
+   "name": "Panele słoneczne",
+   "where": "na działce",
+   "facts": [
+    "Stoją tam, gdzie kiedyś były domki."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "ognisko",
+   "name": "Ognisko",
+   "where": "na działce",
+   "facts": [
+    "\"Ogień + Gzowo to niepokonane combo!\"",
+    "Miejsce malowania światłem po zmroku."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "hamak",
+   "name": "Hamak",
+   "where": "między sosnami",
+   "facts": [
+    "\"Odpoczynek wśród sosen\", w tle prześwituje woda."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "plaza",
+   "name": "Plaża",
+   "aliases": [
+    "Plaża Gzowo 34"
+   ],
+   "where": "na dole, nad Narwią",
+   "facts": [
+    "Trawiasto-piaszczysty stok schodzący do płytkiej wody, trzciny, łódki leżące dnem do góry.",
+    "Dojazd piaszczystą drogą wzdłuż muru z gabionów (kosze z kamieniem).",
+    "Tu się kopie w piasku i woduje SUP-a, kajaki i motorówkę.",
+    "Na zdjęciach z 08.08.2026 cumuje żółty skuter wodny, ale nie jest Sukienników."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "skarpa",
+   "name": "Skarpa i stary skład",
+   "where": "górna część działki",
+   "facts": [
+    "Stroma skarpa nadnarwiańska.",
+    "Pod ziemią najprawdopodobniej stary skład bomb i broni.",
+    "W ziemi na działce trafiają się niewypały z czasów wojny."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "geodane"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "id": "sosny",
+   "name": "Kępa sosen",
+   "where": "środek działki",
+   "facts": [
+    "Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym."
+   ],
+   "source": [
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "cypel",
+   "name": "Cypel",
+   "where": "nad Narwią przy działce",
+   "facts": [
+    "Jurek wymienił Cypel jako osobne miejsce.",
+    "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "prawdopodobne"
+  },
+  {
+   "id": "kocia-wyspa",
+   "name": "Kocia Wyspa",
+   "where": "w okolicy, obok kanału",
+   "facts": [
+    "Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.",
+    "Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek)."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "wniosek"
+   ],
+   "confidence": "prawdopodobne"
+  },
+  {
+   "id": "kanal",
+   "name": "Kanał",
+   "where": "obok Kociej Wyspy",
+   "facts": [
+    "Stąd jest Paweł."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "gl-launch-site",
+   "name": "GL Launch Site",
+   "aliases": [
+    "GSP Launch Site (stara nazwa)"
+   ],
+   "where": "pola, łąki i szutrowa droga w okolicy Gzowa",
+   "facts": [
+    "Miejsce startów rakiet. Nazwa GL, bo GSP jest już scalone z Gzowo Labs.",
+    "Na filmach: wyrzutnia na statywie, start z szutrowej drogi, z brzegu zaoranego pola i z łąki."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "dom-waldka",
+   "name": "Dom Waldka",
+   "where": "w okolicy",
+   "facts": [
+    "Zdjęcie \"Słońce nad polem\" (Jurek doświadcza zachodu słońca) zrobiono w okolicach domu Waldka."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "moya",
+   "name": "Stacja Moya",
+   "where": "stacja benzynowa obok Gzowa",
+   "facts": [
+    "Bardzo ważna dla rodziny. Często chodzi się tam na lody i napoje.",
+    "Pracują tam bardzo miłe panie, często przychodzi też pewien pan.",
+    "Idzie się na przełaj: \"Ciężka droga do stacji Moya. Przedzieranie się przez trawy\"."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "sklep",
+   "name": "Sklep",
+   "where": "\"w Nieporęcie\" (nazwa z dyktowania, niepewna)",
+   "facts": [
+    "Sklep, do którego rodzina często chodzi. Jurek podyktował \"w Nieporęcie\", a Nieporęt leży ok. 30 km od Gzowa, więc nazwa miejscowości wymaga potwierdzenia."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "niepewne"
+  }
+ ],
+ "objects": [
+  {
+   "id": "koparka",
+   "name": "Koparka",
+   "ours": true,
+   "facts": [
+    "Koparka na kółkach, własna.",
+    "Pomaga na działce. Pracuje nią głównie Waldek.",
+    "W grze Rysia stoi przy wiacie, a \"łyżka bierze pół metra naraz\"."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "gra-narew"
+   ]
+  },
+  {
+   "id": "tesla",
+   "name": "Tesla",
+   "ours": true,
+   "facts": [
+    "Rodzinne auto elektryczne. Tesla to ulubiona marka Jurka (za minimalizm).",
+    "W grze Rysia można nią jeździć po posesji, światła zapalają się o zmroku."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "notatki",
+    "gra-narew"
+   ]
+  },
+  {
+   "id": "motorowka",
+   "name": "Motorówka",
+   "ours": true,
+   "facts": [
+    "Szara łódź motorowa. \"Rysio łapie wiatr na motorówce\"."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ]
+  },
+  {
+   "id": "kajaki",
+   "name": "Kajaki",
+   "ours": true,
+   "facts": [
+    "Leżą na brzegu Narwi. Na pikselowej mapie gzowo.fun są dwa: pomarańczowy i turkusowy."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "gzowo.fun",
+    "gra-narew"
+   ]
+  },
+  {
+   "id": "sup",
+   "name": "Deska SUP",
+   "ours": true,
+   "facts": [
+    "\"Rysio na SUPie świetnie się bawi!\""
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ]
+  },
+  {
+   "id": "dron",
+   "name": "Dron DJI Avata",
+   "ours": true,
+   "facts": [
+    "Pilotuje tata. Zdjęcie \"Dron w chmurach. Lecąca AVATA\"."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ]
+  },
+  {
+   "id": "rakiety",
+   "name": "Rakiety modelarskie",
+   "ours": true,
+   "facts": [
+    "Flota Gzowo Space Program, patrz dział Rakiety."
+   ],
+   "source": [
+    "gzowo.fun"
+   ]
+  },
+  {
+   "id": "pianino",
+   "name": "Pianino cyfrowe",
+   "ours": true,
+   "facts": [
+    "Stoi w domu. Jurek gra na zaawansowanym poziomie."
+   ],
+   "source": [
+    "notatki"
+   ]
+  },
+  {
+   "id": "stol",
+   "name": "Duży stół na limonkowych kozłach",
+   "ours": true,
+   "facts": [
+    "Blat ze sklejki. Miejsce porannych śniadań."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "notatki"
+   ]
+  },
+  {
+   "id": "fotel",
+   "name": "Pasiasty fotel pod wiatą",
+   "ours": true,
+   "facts": [
+    "Mieści tatę i trójkę dzieci naraz (\"Wspólny czas na fotelu\")."
+   ],
+   "source": [
+    "galeria",
+    "obserwacja"
+   ]
+  },
+  {
+   "id": "futro",
+   "name": "Białe futro i buty z krokodyla",
+   "ours": true,
+   "facts": [
+    "Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."
+   ],
+   "source": [
+    "notatki",
+    "galeria",
+    "wniosek"
+   ]
+  },
+  {
+   "id": "skuter",
+   "name": "Żółty skuter wodny",
+   "ours": false,
+   "facts": [
+    "Widać go na zdjęciach plaży, ale NIE jest Sukienników.",
+    "W grze Rysia można nim pływać i robić fale."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "obserwacja",
+    "gra-narew"
+   ]
+  },
+  {
+   "id": "polo",
+   "name": "Czerwone VW Polo",
+   "ours": false,
+   "facts": [
+    "Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników."
+   ],
+   "source": [
+    "jurek-2026-11-10",
+    "obserwacja"
+   ]
+  },
+  {
+   "id": "helikopter",
+   "name": "Helikopter Szamborskiego",
+   "ours": false,
+   "facts": [
+    "Czasem ląduje w Gzowie, przylatuje nim Szamborski."
+   ],
+   "source": [
+    "jurek-2026-11-10"
+   ]
+  }
+ ],
+ "rituals": [
+  {
+   "name": "Śniadanie przy dużym stole",
+   "what": "Prawie zawsze rano, przy dużym stole w domu.",
+   "source": [
+    "jurek-2026-11-10"
+   ]
+  },
+  {
+   "name": "Wyprawa na stację Moya",
+   "what": "Spacer na lody i napoje, czasem na przełaj przez wysokie trawy.",
+   "source": [
+    "jurek-2026-11-10",
+    "galeria"
+   ]
+  },
+  {
+   "name": "Ognisko",
+   "what": "Wieczorem ogień, czasem malowanie światłem na długim czasie naświetlania.",
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "name": "Starty rakiet",
+   "what": "Wyjście na GL Launch Site, czekanie aż ucichnie wiatr, odliczanie, szukanie rakiety po lądowaniu.",
+   "source": [
+    "gzowo.fun",
+    "obserwacja"
+   ]
+  },
+  {
+   "name": "Narew latem",
+   "what": "SUP, motorówka, kajaki, kopanie w piasku, hamak, leżenie nad wodą.",
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "name": "Narew zimą",
+   "what": "Chodzenie po zamarzniętej rzece i \"zimowy obiad\", czyli gryzienie tafli lodu (\"Mmm, yummy!\").",
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "name": "Wspólne czytanie",
+   "what": "Tata czyta dzieciom na dworze, leniwe dni na kanapie w domu.",
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "name": "Zachody słońca",
+   "what": "Złota godzina nad wodą, osobny pokój w Galerii (\"Sunsety\").",
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "name": "Latanie dronem",
+   "what": "Tata z kontrolerem nad brzegiem, Avata w chmurach.",
+   "source": [
+    "galeria"
+   ]
+  }
+ ],
+ "sayings": [
+  {
+   "text": "Ośrodek daje, Ośrodek daje.",
+   "who": "KS (tata)",
+   "note": "Zasada nr 1, od \"Bóg daje, Bóg zabiera\". Od niej nazwa gry Ośrodek Daje.",
+   "source": [
+    "notatki"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Herbata nie wyklucza kawy.",
+   "who": "Ciszewscy x Sukiennicy",
+   "note": "Hasło pokoju Ciszewskich w Galerii.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Tak to czasem w życiu bywa, pies się topi, ła...",
+   "who": "rodzinne powiedzonko",
+   "note": "Tak podyktował Jurek, końcówka się urwała. Znane przysłowie brzmi: \"Tak to czasem w życiu bywa: pies się topi, łańcuch pływa\". Pełne brzmienie do potwierdzenia.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "text": "Serce Gzowa - Narew!",
+   "who": "Jurek",
+   "note": "Podpis pokoju \"Nasza Narew\".",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Ogień + Gzowo to niepokonane combo!",
+   "who": "Jurek",
+   "note": "Podpis pokoju \"Fire\".",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Pan Senek musi poczekać.",
+   "who": "Jurek",
+   "note": "Tytuł pokoju z nocnymi, cichymi momentami.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Piwko, Narew, wspólny czas. Czego by tu chcieć więcej!",
+   "who": "Jurek",
+   "note": "Podpis zdjęcia \"Letni odpoczynek\".",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Gzowo Jest Najlepsze <3",
+   "who": "Jurek",
+   "note": "Napis kredą, który maskotka Narek ma pisać na ścianie domu.",
+   "source": [
+    "notatki"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "text": "Mmm, yummy!",
+   "who": "Jurek",
+   "note": "O jedzeniu lodu z Narwi.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  }
+ ],
+ "vocabulary": [
+  {
+   "word": "Ośrodek",
+   "meaning": "Działka Gzowo 34, bo to dawny ośrodek wypoczynkowy FSO."
+  },
+  {
+   "word": "KS",
+   "meaning": "Kierownik Ośrodka, czyli tata."
+  },
+  {
+   "word": "Gzowiański",
+   "meaning": "Przymiotnik od Gzowa: Gzowiański somsiad, Gzowiańskie momenty, Gzowiańskie klasyki."
+  },
+  {
+   "word": "somsiad",
+   "meaning": "Sąsiad, żartobliwie."
+  },
+  {
+   "word": "Aminalsy",
+   "meaning": "Zwierzaki (\"Nasi mali mieszkańcy Gzowa!\")."
+  },
+  {
+   "word": "Sunsety",
+   "meaning": "Zachody słońca nad Narwią."
+  },
+  {
+   "word": "Gzofajfus",
+   "meaning": "Nazwa serii rakiet Jurka (Gzofajfus Mini, Gzofajfus Classic) i jednej z walut na gzowo.fun (GZF)."
+  },
+  {
+   "word": "kloc",
+   "meaning": "Dom, tak nazywa go gra Rysia."
+  },
+  {
+   "word": "GL Launch Site",
+   "meaning": "Miejsce startów rakiet (GL = Gzowo Labs)."
+  },
+  {
+   "word": "szyszki",
+   "meaning": "Waluta na stronie gzowo.fun."
+  },
+  {
+   "word": "KALAKASANYT",
+   "meaning": "Dawny internetowy nick Jurka."
+  },
+  {
+   "word": "A1, 2B, 3C",
+   "meaning": "Nazwy trzech sal kinowych w Galerii Gzowo. Zawsze dokładnie tak, nigdy 1A."
+  }
+ ],
+ "stories": [
+  {
+   "id": "grad",
+   "title": "Burza z gradem",
+   "what": "Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "porwanie-dropsika",
+   "title": "Porwanie Dropsika",
+   "what": "Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "sklad-bomb",
+   "title": "Skład pod skarpą",
+   "what": "Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "niepewne"
+  },
+  {
+   "id": "niewypaly",
+   "title": "Niewypały i saperzy",
+   "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "helikopter",
+   "title": "Helikopter nad Gzowem",
+   "what": "Szamborski czasem przylatuje do Gzowa helikopterem.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wycinka",
+   "title": "Wycinka Majora",
+   "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "osrodek-fso",
+   "title": "Dziesięć domków FSO",
+   "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.",
+   "source": [
+    "jurek-2026-11-10"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "orange-beauty",
+   "title": "Lot The Orange Beauty",
+   "what": "Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył.",
+   "source": [
+    "gzowo.fun",
+    "obserwacja"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "mk2",
+   "title": "Pierwszy spadochron",
+   "what": "Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026).",
+   "source": [
+    "gzowo.fun"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "mk4",
+   "title": "Mk IV po wielkim sukcesie",
+   "what": "Zdjęcie: rakieta Gzofajfus Classic Mk IV leży na trawie po locie, obok niebieski spadochron.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "beatlesi",
+   "title": "Okładka Beatlesów",
+   "what": "Zielona rakieta taty stoi sama na środku szutrowej drogi pod wielkim niebem: \"Idealna okładka dla nowego albumu Beatlesów\".",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "moya-na-przelaj",
+   "title": "Ciężka droga do stacji Moya",
+   "what": "Rysio z Ignacym przedzierają się przez trawy wyższe od nich, żeby dojść do stacji.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "zimowy-obiad",
+   "title": "Zimowy obiad",
+   "what": "Jurek i Rysio jedzą tafle lodu wyłamane z Narwi.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "malowanie-swiatlem",
+   "title": "Malowanie światłem",
+   "what": "Tata rysuje w powietrzu świetlisty łuk przy ognisku, zdjęcie na długim czasie.",
+   "source": [
+    "galeria"
+   ],
+   "confidence": "pewne"
+  },
+  {
+   "id": "wielki-obraz",
+   "title": "Wielki obraz przed domkiem",
+   "what": "Maj 2025: ktoś w zielonej bluzie maluje na ziemi ogromne kolorowe płótno szczotką na kiju. Nie wiadomo jeszcze kto i po co.",
+   "source": [
+    "obserwacja"
+   ],
+   "confidence": "prawdopodobne"
+  }
+ ],
+ "rockets": {
+  "note": "Gzowo Space Program (GSP) to rakiety modelarskie budowane ręcznie i drukowane w 3D, odpalane z pól pod Gzowem, z kamerami pokładowymi, spadochronami i czekaniem, aż ucichnie wiatr. Od listopada 2026 GSP jest scalone z Gzowo Labs. Zespół: Jerzy Sukiennik (CEO), Jan Sukiennik (Founding Partner).",
+  "fleet": [
+   {
+    "id": "architektoniczny-wiezowiec",
+    "name": "Architektoniczny wieżowiec",
+    "owner": "tata",
+    "state": "latała",
+    "facts": [
+     "Ciemnozielona, wydrukowana w 3D, ostre stateczniki, \"architektoniczna budowa oraz wygląd\".",
+     "Starty 18-19.10.2025 z szutrowej drogi."
+    ],
+    "source": [
+     "galeria",
+     "obserwacja"
+    ]
+   },
+   {
+    "id": "gzofajfus-mini-mk1",
+    "name": "Gzofajfus Mini Mk I",
+    "owner": "Jurek",
+    "state": "latała",
+    "facts": [
+     "Pierwsza rakieta serii Mini, miniaturowa platforma eksperymentalna o bardzo małej masie. Lot udany."
+    ],
+    "source": [
+     "gzowo.fun"
+    ]
+   },
+   {
+    "id": "gzofajfus-classic-mk2",
+    "name": "Gzofajfus Classic Mk II",
+    "owner": "Jurek",
+    "state": "latała",
+    "facts": [
+     "Pierwsza pełnowymiarowa z serii Classic. Lot 21.03.2026, spadochron otworzył się za pierwszym razem."
+    ],
+    "source": [
+     "gzowo.fun"
+    ]
+   },
+   {
+    "id": "gzofajfus-classic-mk3",
+    "name": "Gzofajfus Classic Mk III",
+    "owner": "Jurek",
+    "state": "latała",
+    "facts": [
+     "Silnik F35-4 TSP. W nosie ma komorę na AirTaga, żeby dało się ją znaleźć po lądowaniu."
+    ],
+    "source": [
+     "gzowo.fun"
+    ]
+   },
+   {
+    "id": "gzofajfus-classic-mk4",
+    "name": "Gzofajfus Classic Mk IV",
+    "owner": "Jurek",
+    "state": "latała",
+    "facts": [
+     "Zdjęcie \"po wielkim sukcesie\": leży na trawie z niebieskim spadochronem."
+    ],
+    "source": [
+     "galeria"
+    ]
+   },
+   {
+    "id": "the-orange-beauty",
+    "name": "The Orange Beauty",
+    "owner": "Jurek",
+    "state": "latała",
+    "facts": [
+     "Jedyna taka we flocie: czerwono-pomarańczowy dół, czarny czubek. Najlepsze nagrania startu. Lot udany, spadochron się nie otworzył.",
+     "Najpierw powstał jej render w Blenderze (\"Pomarańczowa piękność\")."
+    ],
+    "source": [
+     "gzowo.fun",
+     "galeria",
+     "obserwacja"
+    ]
+   },
+   {
+    "id": "tbh-mk1",
+    "name": "TBH Mk I (The Black Hawks)",
+    "owner": "Jurek",
+    "state": "planowana",
+    "facts": [
+     "Pierwsza z całkiem czarnych rakiet. Jedyna misja: bezpiecznie wylądować na spadochronie. Silnik TSP F35-4."
+    ],
+    "source": [
+     "gzowo.fun"
+    ]
+   },
+   {
+    "id": "gzofajfus-4",
+    "name": "Gzofajfus 4",
+    "owner": "Jurek",
+    "state": "w budowie",
+    "facts": [
+     "Drukowana rakieta o średnicy 60 mm na silnik F41-5W, cała z PLA, projekt w OpenSCAD i OpenRocket. Wydrukowana sekcja nosa."
+    ],
+    "source": [
+     "notatki"
+    ]
+   }
+  ]
+ },
+ "brands": [
+  {
+   "id": "gzowo-34",
+   "name": "Gzowo 34 (Ośrodek)",
+   "what": "Sama działka. Jej logo to ośmiornica.",
+   "media": [],
+   "note": "Pliku z ośmiornicą jeszcze nie ma w datasecie (nie znaleziono go na komputerze Jurka).",
+   "source": [
+    "jurek-2026-11-10"
+   ]
+  },
+  {
+   "id": "gzowo-labs",
+   "name": "Gzowo Labs",
+   "url": "https://gzowo.fun",
+   "instagram": "@gzowo_labs",
+   "github": "https://github.com/JerzySukiennik",
+   "what": "Marka i portfolio Jurka: rakiety, druk 3D, gry i software z AI, wszystko w jednym miejscu. Od listopada 2026 obejmuje też GSP.",
+   "tagline": "I build things that fly. And a few that don't crash.",
+   "signature": "Jerzy Sukiennik's Official Home Page ~ Gzowo 34, Poland ~ Est. 2025",
+   "site": "Strona gzowo.fun to pulpit Windows 98 nad żywą pikselową mapą działki. Budynki na mapie to działy: wyrzutnia = Rockets, warsztat = 3D Printing, Arcade = Games, Lab = Software and AI. Na mapie są też: znak Gzowo 34, skrzynka na listy (księga gości), ogródek do sadzenia, pomost do łowienia ryb, dwa kajaki na Narwi, hangar z flotą rakiet, nieskończony mur do malowania, pulpit startowy z licznikiem startów. Celowo w klimacie GeoCities 1998.",
+   "economy_on_site": "Waluta: szyszki. Dwie krypto-zabawki: Gzowium (GZM) i Gzofajfus (GZF), na \"Gzowo Street\".",
+   "sections": {
+    "Rockets": "Real ones. They really fly.",
+    "3D Printing": "Things made of plastic and stubbornness.",
+    "Games": "Play in your browser. No download.",
+    "Software and AI": "Apps, experiments and models trained from scratch."
+   },
+   "logo": {
+    "name": "Wschód",
+    "idea": "Dwa splecione ogniwa (dwóch braci) wschodzą zza horyzontu. Pod linią ich odbicie w paskach, jak w Narwi. Linia niesie napis GZOWO LABS, pod nią podpis ROCKETS · GAMES · 3D PRINTS · AI.",
+    "colors": {
+     "Atrament": "#141414",
+     "Zapłon": "#FF6A13 (tylko prawe ogniwo)",
+     "biel": "#FFFFFF"
+    },
+    "fonts": {
+     "napis": "Unbounded Bold",
+     "podpis": "Space Mono Bold"
+    },
+    "versions": "poziome, poziome bez podpisu, pionowe, sam napis (na korpus rakiety), znak, mały znak (favicon). Każda w 4 wariantach: kolor, ciemne tło, czarne, białe. SVG i PNG.",
+    "rules": "Pole ochronne równe promieniowi ogniwa. Minimum: poziome 140 px albo 35 mm, znak od 32 px, mały znak od 16 px.",
+    "files": "media/brand/gzowo-labs/svg/, png/, favicon/, naklejki/ (naklejki na korpus i statecznik rakiety), awatar/, filmy/ (animacje logo MP4)"
+   },
+   "fire_gif": "Stary tytuł strony: płonący napis GZOWO LABS (media/brand/gzowo-labs/strona/gzowo-labs-fire.gif). Dalej żyje na stronie i w zakończeniach rolek.",
+   "source": [
+    "notatki",
+    "gzowo.fun",
+    "jurek-2026-11-10"
+   ]
+  },
+  {
+   "id": "gsp",
+   "name": "GSP, Gzowo Space Program",
+   "url": "https://gspaerospace.pl",
+   "what": "Rakietowa marka Jurka i taty, założona w 2025. Od listopada 2026 scalona z Gzowo Labs. Styl: czarne tło, kroje Bebas Neue, Space Mono i DM Sans, kosmiczny brutalistyczny minimalizm.",
+   "files": "media/brand/gsp/ (logo PNG, gify, zakończenia filmów, awatary)",
+   "source": [
+    "notatki",
+    "gzowo.fun",
+    "jurek-2026-11-10"
+   ]
+  },
+  {
+   "id": "gzowo-industries",
+   "name": "Gzowo Industries",
+   "what": "Strona sprzętowa Gzowo Labs: inteligentne okulary Gzowo Glass i drukowany pies-robot Smendiłendi.",
+   "source": [
+    "gzowo.fun",
+    "notatki"
+   ]
+  },
+  {
+   "id": "narew-labs",
+   "name": "Narew Labs",
+   "what": "Parasol nad własnymi modelami AI Jurka z rodziny G (G-Micro, G-Mini i kolejne). Maskotka: Narek.",
+   "source": [
+    "notatki"
+   ]
+  },
+  {
+   "id": "gzowo-tv",
+   "name": "Gzowo TV",
+   "what": "Własny system telewizyjny Jurka dla domu w Gzowie (MacBook przy telewizorze, iPhone jako pilot).",
+   "source": [
+    "notatki"
+   ]
+  },
+  {
+   "id": "kalakasanyt",
+   "name": "KALAKASANYT",
+   "what": "Dawny nick Jurka z czasów nagrywania filmików z kamerką (ramka \"Kalakasan yt\").",
+   "source": [
+    "jurek-2026-11-10",
+    "obserwacja"
+   ]
+  }
+ ],
+ "games_in_gzowo": [
+  {
+   "name": "NAREW, posesja nad jeziorem",
+   "author": "Rysio",
+   "url": "https://rysiosukiennik.github.io/backrooms-game/narew.html",
+   "what": "Spacer 3D po działce: kopanie łopatą i koparką, Tesla, kajaki, skuter wodny, telewizor z własnym Narewflixem, szopy tańczące przy ognisku, wiewiórki do głaskania, tata wystrzeliwujący gracza z Narwi."
+  },
+  {
+   "name": "Galeria Gzowo",
+   "author": "Jurek",
+   "url": "https://galeria-gzowo.netlify.app",
+   "what": "Galeria 3D zdjęć z działki, prezent na Dzień Ojca 2026. Pokoje tematyczne, kino z salami A1, 2B i 3C, ukryty Żabi raj."
+  },
+  {
+   "name": "Ośrodek Daje",
+   "author": "Jurek",
+   "url": "https://osrodek-daje.gzowo.fun",
+   "what": "Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: KS, Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost."
+  },
+  {
+   "name": "Rybna Wyspa",
+   "author": "Jurek",
+   "url": "https://rybna-wyspa.gzowo.fun",
+   "what": "Farma ryb z Narwi na małej wyspie. Sekretne gatunki: Rakieta GSP, Ognista, Wydrukowana, G-Micro, Złoty Sum z Gzowa, Potwór z Narwi."
+  },
+  {
+   "name": "Gzowo Meadow",
+   "author": "Jurek",
+   "url": "",
+   "what": "Wierna rekonstrukcja prawdziwego Gzowa 1 x 1 km z prawdziwą pogodą, słońcem i gwiazdami. Stąd pochodzą dane terenu w tym datasecie."
+  },
+  {
+   "name": "Gzowo ASCII",
+   "author": "Jurek",
+   "url": "https://gzowo-ascii.gzowo.fun",
+   "what": "Spacer po prawdziwym Gzowie narysowanym znakami ASCII."
+  },
+  {
+   "name": "gzowo.fun",
+   "author": "Jurek",
+   "url": "https://gzowo.fun",
+   "what": "Pikselowa mapa działki z życiem: łowienie ryb z pomostu, kajaki, ogródek, starty rakiety, zimą łyżwy na Narwi."
+  },
+  {
+   "name": "Instalator",
+   "author": "Jurek",
+   "url": "https://instalator.gzowo.fun",
+   "what": "Gra dla taty o zakładaniu smart home. Jeden z czterech budynków to domek w Gzowie nad Narwią."
+  }
+ ],
+ "game_kit": {
+  "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
+  "board_spaces": [
+   "Dom (śniadanie przy dużym stole)",
+   "Taras",
+   "Wiata z pasiastym fotelem",
+   "Trzy domki FSO",
+   "Panele słoneczne",
+   "Ognisko",
+   "Hamak w sosnach",
+   "Skarpa i stary skład",
+   "Plaża",
+   "Narew",
+   "Mur z gabionów",
+   "GL Launch Site",
+   "Dom Waldka",
+   "Stacja Moya",
+   "Sklep",
+   "Aleja Lipowa",
+   "Cypel",
+   "Kocia Wyspa",
+   "Kanał",
+   "Lądowisko helikoptera"
+  ],
+  "characters": [
+   "Jurek (konstruktor rakiet)",
+   "Rysio (czerwona bluza Spider-Man)",
+   "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)",
+   "Waldek (operator koparki, przyjaciel)",
+   "Bożena",
+   "Ciszewscy: Bartek, Clu, Ignacy, Helena",
+   "Czupryńscy",
+   "Janek Kunstler",
+   "Benny",
+   "Major (wędkarz i drwal)",
+   "Szamborski (przylatuje helikopterem)",
+   "Paweł (łysy gość z kanału)",
+   "Wójt",
+   "Panie ze stacji Moya",
+   "Dropsik",
+   "Beethoven (głuchy biały kot)",
+   "szopy pracze",
+   "ośmiornica (logo)"
+  ],
+  "items": [
+   "koparka",
+   "Tesla",
+   "motorówka",
+   "kajak",
+   "deska SUP",
+   "dron Avata",
+   "rakieta Gzofajfus",
+   "spadochron",
+   "AirTag z nosa rakiety",
+   "łopata",
+   "niewypał",
+   "helikopter",
+   "wędka",
+   "drewno z wycinki",
+   "tafla lodu",
+   "lody ze stacji Moya",
+   "szyszki (waluta)",
+   "puszka",
+   "hamak",
+   "pianino",
+   "białe futro",
+   "buty z krokodyla"
+  ],
+  "mechanics": [
+   "Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."
+  ],
+  "event_cards": [
+   "Ośrodek daje: dostajesz coś za nic.",
+   "Grad wielkości kostek lodu: wszyscy chowają się pod wiatę.",
+   "Spadochron się nie otworzył: szukasz rakiety w polu.",
+   "Spadochron otworzył się za pierwszym razem.",
+   "Dropsik zniknął: wszyscy ruszają na poszukiwania.",
+   "Niewypał! Pole jest zamknięte, dopóki nie przyjadą saperzy.",
+   "Saperzy zabierają niewypał: pole znów otwarte.",
+   "Szamborski ląduje helikopterem: przenosisz się na dowolne pole.",
+   "Major robi wycinkę: jedno drzewo mniej, drewno na ognisko dla wszystkich.",
+   "Major złowił rybę: kolacja nad Narwią.",
+   "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
+   "Paweł macha z kanału obok Kociej Wyspy.",
+   "Narew zamarzła: można przejść po lodzie.",
+   "Zimowy obiad: zjadasz taflę lodu.",
+   "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
+   "Waldek odpala koparkę: kopiesz dwa razy głębiej.",
+   "Szopy tańczą przy ognisku.",
+   "Beethoven nie słyszy, co się dzieje, i nic sobie z tego nie robi.",
+   "Tata maluje światłem przy ognisku.",
+   "Herbata nie wyklucza kawy: bierzesz obie karty.",
+   "Odkrywasz wejście do starego składu w skarpie.",
+   "Łoś przechodzi przez działkę: wszyscy stoją w miejscu.",
+   "Zachód słońca nad Narwią: tura bez pośpiechu."
+  ],
+  "quiz": [
+   {
+    "q": "Czym była działka, zanim trafiła do Sukienników?",
+    "a": "Ośrodkiem wypoczynkowym FSO."
+   },
+   {
+    "q": "Ile domków stało kiedyś w ośrodku i ile zostało?",
+    "a": "Dziesięć, zostały trzy."
+   },
+   {
+    "q": "Co znaczy KS?",
+    "a": "Kierownik Ośrodka, czyli tata."
+   },
+   {
+    "q": "Jak brzmi zasada nr 1 KS-a?",
+    "a": "Ośrodek daje, Ośrodek daje."
+   },
+   {
+    "q": "Kto głównie pracuje koparką?",
+    "a": "Waldek."
+   },
+   {
+    "q": "Jak ma na imię głuchy biały kot i czyj jest?",
+    "a": "Beethoven, kot Czupryńskich."
+   },
+   {
+    "q": "Co jest logo Gzowa 34?",
+    "a": "Ośmiornica."
+   },
+   {
+    "q": "Dokąd chodzi się na lody?",
+    "a": "Na stację Moya."
+   },
+   {
+    "q": "Jak nazywa się miejsce startów rakiet?",
+    "a": "GL Launch Site."
+   },
+   {
+    "q": "Co symbolizują dwa ogniwa w logo Gzowo Labs?",
+    "a": "Dwóch braci, Jurka i Rysia."
+   },
+   {
+    "q": "Która rakieta ma w nosie miejsce na AirTaga?",
+    "a": "Gzofajfus Classic Mk III."
+   },
+   {
+    "q": "Jakie hasło mają Ciszewscy i Sukiennicy?",
+    "a": "Herbata nie wyklucza kawy."
+   },
+   {
+    "q": "Od kiedy Sukiennicy mają działkę?",
+    "a": "Od czerwca 2021."
+   },
+   {
+    "q": "Co to jest zimowy obiad?",
+    "a": "Tafla lodu z Narwi."
+   }
+  ]
+ },
+ "open_questions": [
+  "Plik z logo Gzowa 34 (ośmiornica): nie ma go w datasecie, trzeba go dostać od Jurka.",
+  "Pełne brzmienie powiedzonka \"Tak to czasem w życiu bywa, pies się topi, ła...\".",
+  "Gdzie dokładnie jest sklep, do którego chodzi rodzina (podyktowane \"w Nieporęcie\").",
+  "Imię śp. Gzowiańskiego somsiada (Jurek: \"chyba Arek\").",
+  "Kto maluje wielki obraz na filmie z 25.05.2025 i co się z nim stało.",
+  "Data lotu The Orange Beauty: 29.11.2025 (nazwy plików) czy 22.02.2026 (strona).",
+  "Brak zdjęć koparki, Tesli, tarasu i kajaków. Dom z zewnątrz jest tylko na krótkim filmie.",
+  "Kiedy dokładnie był Dropsik i jak go porwano.",
+  "Kto z Ciszewskich jest kim (Bartek i Ola jako rodzice, Ignacy i Helena jako dzieci to wniosek ze zdjęć).",
+  "Model Tesli i marka koparki.",
+  "Gdzie dokładnie są Cypel, kanał i Kocia Wyspa i skąd nazwa Kocia Wyspa.",
+  "Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).",
+  "Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.",
+  "Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa."
+ ],
+ "media": {
+  "groups": {
+   "galeria": "Zdjęcia z Galerii Gzowo. Tytuły, podpisy, kto i gdzie pochodzą od Jurka (czerwiec 2026). Daty zdjęć z iPhone'a nie zachowały się.",
+   "plaza": "Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja miejsca do odwzorowania w 3D. Bez ludzi.",
+   "rakiety": "Zdjęcia z folderu Rakietomania (WhatsApp, jesień 2025), których nie było w Galerii."
+  },
+  "rooms_note": "Pokoje Galerii Gzowo to gotowy podział tematyczny wspomnień. Puste pokoje (Heli, Taras, The New Era) czekają na zdjęcia.",
+  "rooms": {
+   "the-early-days": {
+    "title": "The Early Days",
+    "motto": "Gdzie wszystko się zaczęło"
+   },
+   "ciszewscy": {
+    "title": "Ciszewscy x Sukiennicy",
+    "motto": "Herbata nie wyklucza kawy"
+   },
+   "narew": {
+    "title": "Nasza Narew",
+    "motto": "Serce Gzowa - Narew!"
+   },
+   "zima": {
+    "title": "Zima",
+    "motto": "Mróz, lód i śnieg oraz zimowe przygody!"
+   },
+   "aminals": {
+    "title": "Aminalsy",
+    "motto": "Nasi mali mieszkańcy Gzowa!"
+   },
+   "black-n-white": {
+    "title": "Black n' White",
+    "motto": "Kolekcja Gzowiańskich czarno-białych klasyków"
+   },
+   "sunset": {
+    "title": "Sunsety",
+    "motto": "Złota godzina nad wodą - ciepłe światło na koniec dnia."
+   },
+   "aerospace": {
+    "title": "Gzowo Space Program",
+    "motto": "Drony, rakiety i postęp technologiczny Gzowa"
+   },
+   "fire": {
+    "title": "Fire",
+    "motto": "Ogień + Gzowo to niepokonane combo!"
+   },
+   "midnight": {
+    "title": "Pan Senek musi poczekać",
+    "motto": "Wszystkie ciche Gzowiańskie momenty"
+   },
+   "waldek": {
+    "title": "Ottonowie",
+    "motto": "Wierni członkowie Gzowa"
+   },
+   "wiosna": {
+    "title": "Wiosna!",
+    "motto": "Wiosenne!"
+   },
+   "heli": {
+    "title": "Heli",
+    "motto": "Wkrótce"
+   },
+   "taras": {
+    "title": "Taras",
+    "motto": "Wkrótce"
+   },
+   "the-new-era": {
+    "title": "The New Era",
+    "motto": "Wkrótce"
+   },
+   "kino-lobby": {
+    "title": "Hol",
+    "motto": "Hol kinowy - Polecam popcorn!"
+   },
+   "kino": {
+    "title": "Sala A1",
+    "motto": "Gzowo Space Program History — wielki ekran i rakiety w locie. Usiądź (G), kliknij ekran i oglądaj."
+   },
+   "kino-2b": {
+    "title": "Sala 2B",
+    "motto": "The Early Days of Gzowo — usiądź (G), kliknij ekran i oglądaj."
+   },
+   "kino-3c": {
+    "title": "Sala 3C",
+    "motto": "Wkrótce — nowy seans w przygotowaniu. Usiądź (G) i zaczekaj."
+   },
+   "zabi-raj": {
+    "title": "Żabi raj",
+    "motto": "Nasze małe zoo"
+   }
+  },
+  "dedication": {
+   "heading": "Dla Taty",
+   "body": "Historia Gzowa zebrana w interaktywną i jedyną w swoim rodzaju formę. Zapraszam do odkrywania i wszystkiego najlepszego!",
+   "button": "Odkryj Gzowo"
+  },
+  "photos": [
+   {
+    "id": "galeria/IMG-20251019-WA0000",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
+    "thumb": "media/miniatury/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Architektoniczny wieżowiec",
+    "caption": "Rakieta z architektoniczną budową oraz wyglądem",
+    "who_text": "Rakieta Taty",
+    "where": "Gzowo 34, Polska",
+    "date": "2025-10-19",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Dłoń trzyma ciemnozieloną rakietę wydrukowaną w 3D, z ostrymi statecznikami. W tle drzewa, piaszczysta ziemia i woda.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "tata",
+     "druk 3D"
+    ]
+   },
+   {
+    "id": "galeria/IMG-20251019-WA0001",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
+    "thumb": "media/miniatury/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Architektoniczny wieżowiec gotów do startu",
+    "caption": "Gotów do startu w 100%. Idealna okładka dla nowego albumu Beatlesów",
+    "who_text": "Rakieta Taty",
+    "where": "Okolice GSP Launch Site",
+    "date": "2025-10-19",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Mała zielona rakieta stoi sama na środku szerokiej szutrowej drogi, nad nią wielkie niebieskie niebo z chmurami.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "GL Launch Site",
+     "droga"
+    ]
+   },
+   {
+    "id": "galeria/IMG-20251019-WA0003",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",
+    "thumb": "media/miniatury/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Architektoniczny wieżowiec gotów do startu V2",
+    "caption": "Gotów do startu w 100%",
+    "who_text": "Jerzy Sukiennik oraz Rakieta Taty",
+    "where": "Okolice GSP Launch Site",
+    "date": "2025-10-19",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Jurek w czerwonej kurtce i żółtej czapce kuca na szutrowej drodze i ustawia zieloną rakietę do startu.",
+    "people": [
+     "jurek"
+    ],
+    "tags": [
+     "rakieta",
+     "GL Launch Site",
+     "start"
+    ]
+   },
+   {
+    "id": "galeria/IMG-20251126-WA00021",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG-20251126-WA00021_render-rakiety-the-orange-beauty-w-blenderze.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG-20251126-WA00021_render-rakiety-the-orange-beauty-w-blenderze.jpg",
+    "thumb": "media/miniatury/galeria/IMG-20251126-WA00021_render-rakiety-the-orange-beauty-w-blenderze.jpg",
+    "w": 1600,
+    "h": 744,
+    "title": "Render rakiety \"The Orange Beauty\" w Blenderze",
+    "caption": "Pomarańczowa piękność",
+    "who_text": "Rakieta Jurka",
+    "where": "Blender",
+    "date": "2025-11-26",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Render z Blendera: rakieta The Orange Beauty leci ukośnie na czarnym tle, za nią jasna poświata.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "render"
+    ]
+   },
+   {
+    "id": "galeria/IMG-20251129-WA0001",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG-20251129-WA0001_the-orange-beauty-w-pelnej-okazalosci.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG-20251129-WA0001_the-orange-beauty-w-pelnej-okazalosci.jpg",
+    "thumb": "media/miniatury/galeria/IMG-20251129-WA0001_the-orange-beauty-w-pelnej-okazalosci.jpg",
+    "w": 1600,
+    "h": 1319,
+    "title": "\"The Orange Beauty\" w pełnej okazałości",
+    "caption": "Zdjęcie 0,5x rakiety \"The Orange Beauty\"",
+    "who_text": "Rakieta Jurka",
+    "where": "GSP Launch Site",
+    "date": "2025-11-29",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Ujęcie od dołu, szerokim kątem: czerwone stateczniki i czarny czubek rakiety The Orange Beauty na tle szarego nieba.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "GL Launch Site"
+    ]
+   },
+   {
+    "id": "galeria/IMG_3054",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_3054_rakieta-gzofajfus-classic-mk-iv-po-wielkim-sukce.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_3054_rakieta-gzofajfus-classic-mk-iv-po-wielkim-sukce.jpg",
+    "thumb": "media/miniatury/galeria/IMG_3054_rakieta-gzofajfus-classic-mk-iv-po-wielkim-sukce.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Rakieta Gzofajfus Classic Mk IV po wielkim sukcesie",
+    "caption": "Rakieta Gzofajfus Classic Mk IV po wielkim sukcesie leży na ziemi.",
+    "who_text": "Rakieta Jurka",
+    "where": "GSP Launch Site",
+    "date": "",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Rakieta leży na trawie po lądowaniu, obok niebieski spadochron na zielonych linkach. Płaska łąka, niskie słońce.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "spadochron",
+     "lądowanie"
+    ]
+   },
+   {
+    "id": "galeria/IMG_4297",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_4297_pilot-jan.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_4297_pilot-jan.jpg",
+    "thumb": "media/miniatury/galeria/IMG_4297_pilot-jan.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Pilot Jan",
+    "caption": "Z kontrolerem w ręce w naturze",
+    "who_text": "Jan Sukiennik (tata)",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Tata stoi na trawiastym brzegu z kontrolerem drona w rękach i goglami na czole. Za nim szeroka, gładka Narew i drzewa na drugim brzegu.",
+    "people": [
+     "jan"
+    ],
+    "tags": [
+     "dron",
+     "narew",
+     "tata"
+    ]
+   },
+   {
+    "id": "galeria/IMG_4299",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_4299_dron-w-chmurach.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_4299_dron-w-chmurach.jpg",
+    "thumb": "media/miniatury/galeria/IMG_4299_dron-w-chmurach.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Dron w chmurach",
+    "caption": "Lecąca AVATA",
+    "who_text": "DJI Avata",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "aerospace"
+    ],
+    "sees": "Mały dron w locie na tle nieba pokrytego drobnymi chmurami.",
+    "people": [],
+    "tags": [
+     "dron",
+     "niebo"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2872",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2872_beethoven-jurek.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2872_beethoven-jurek.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2872_beethoven-jurek.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Beethoven&Jurek",
+    "caption": "Beethoven nie boi się Jurka (podejrzane)",
+    "who_text": "Kot Beethoven oraz Jerzy Sukiennik",
+    "where": "Plaża Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "aminals"
+    ],
+    "sees": "Jurek stoi przed czerwonym VW Polo i białym busem, przed nim na trawie siedzi biały kot Beethoven.",
+    "people": [
+     "jurek"
+    ],
+    "tags": [
+     "beethoven",
+     "kot",
+     "plaża"
+    ]
+   },
+   {
+    "id": "galeria/IMG_3748",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_3748_jurek-z-dropsikiem.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_3748_jurek-z-dropsikiem.jpg",
+    "thumb": "media/miniatury/galeria/IMG_3748_jurek-z-dropsikiem.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Jurek z Dropsikiem",
+    "caption": "Letnie przytulanie psa",
+    "who_text": "Śp. Dropsik oraz Jerzy Sukiennik",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "aminals",
+     "the-early-days"
+    ],
+    "sees": "Jurek w kolorowej zimowej czapce leży na macie i przytula leżącego psa o czarno-brązowej sierści. W tle żółty kontener i stoliki z krzesłami pod sosnami.",
+    "people": [
+     "jurek"
+    ],
+    "tags": [
+     "dropsik",
+     "pies"
+    ]
+   },
+   {
+    "id": "galeria/IMG_4288",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_4288_kontemplujacy-beethoven.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_4288_kontemplujacy-beethoven.jpg",
+    "thumb": "media/miniatury/galeria/IMG_4288_kontemplujacy-beethoven.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Kontemplujący Beethoven",
+    "caption": "Beethoven wita słońce",
+    "who_text": "Kot Beethoven",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "aminals",
+     "sunset"
+    ],
+    "sees": "Biały kot siedzi tyłem na trawie i patrzy na słońce wiszące nisko nad zamgloną Narwią.",
+    "people": [],
+    "tags": [
+     "beethoven",
+     "kot",
+     "narew",
+     "słońce"
+    ]
+   },
+   {
+    "id": "galeria/IMG_1997",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_1997_rysio-na-desce-sup.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_1997_rysio-na-desce-sup.jpg",
+    "thumb": "media/miniatury/galeria/IMG_1997_rysio-na-desce-sup.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Rysio Na desce SUP",
+    "caption": "Rysio na SUPie świetnie się bawi!",
+    "who_text": "Ryszard Sukiennik",
+    "where": "Narew - Gzowo, Polska",
+    "date": "",
+    "rooms": [
+     "black-n-white",
+     "narew"
+    ],
+    "sees": "Czarno-białe. Rysio w kapoku i czapce z daszkiem siedzi na desce SUP z wiosłem w rękach, uśmiechnięty.",
+    "people": [
+     "rysio"
+    ],
+    "tags": [
+     "sup",
+     "narew",
+     "czarno-białe"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2487",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2487_rysio-lubi-old-school.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2487_rysio-lubi-old-school.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2487_rysio-lubi-old-school.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Rysio lubi Old School",
+    "caption": "Rysio w okularach",
+    "who_text": "Ryszard Sukiennik",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "black-n-white",
+     "the-early-days"
+    ],
+    "sees": "Czarno-białe. Mały Rysio bez koszulki, w okrągłych okularach przeciwsłonecznych, stoi na trawie.",
+    "people": [
+     "rysio"
+    ],
+    "tags": [
+     "lato",
+     "czarno-białe"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2850",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2850_nad-woda.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2850_nad-woda.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2850_nad-woda.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Nad wodą",
+    "caption": "Kopanie w piasku i łabędź na jeziorze.",
+    "who_text": "Ryszard, Jerzy oraz Jan",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "black-n-white",
+     "narew",
+     "the-early-days"
+    ],
+    "sees": "Czarno-białe, z góry. Na piaszczystym brzegu dzieci i dorosły kopią w piasku, obok wiaderka. Po wodzie tuż przy brzegu płynie łabędź.",
+    "people": [
+     "jurek",
+     "rysio",
+     "jan"
+    ],
+    "tags": [
+     "plaża",
+     "narew",
+     "łabędź",
+     "czarno-białe"
+    ]
+   },
+   {
+    "id": "galeria/IMG_1458",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_1458_clu-na-hamaku.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_1458_clu-na-hamaku.jpg",
+    "thumb": "media/miniatury/galeria/IMG_1458_clu-na-hamaku.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Clu na hamaku",
+    "caption": "Odpoczynek wśród sosen.",
+    "who_text": "Ola Kluzek",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "ciszewscy"
+    ],
+    "sees": "Ola \"Clu\" w okularach leży w hamaku rozwieszonym między sosnami, w tle prześwituje woda.",
+    "people": [
+     "ciszewscy"
+    ],
+    "tags": [
+     "hamak",
+     "sosny",
+     "lato"
+    ]
+   },
+   {
+    "id": "galeria/IMG_3765",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_3765_modlitwa-przy-drzewie.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_3765_modlitwa-przy-drzewie.jpg",
+    "thumb": "media/miniatury/galeria/IMG_3765_modlitwa-przy-drzewie.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Modlitwa przy drzewie",
+    "caption": "",
+    "who_text": "Ignacy oraz Helena",
+    "where": "Gzowo, Polska",
+    "date": "",
+    "rooms": [
+     "ciszewscy"
+    ],
+    "sees": "Dwoje dzieci stoi przy asfaltowej ścieżce pod bezlistnym drzewem ogrodzonym białym płotkiem z kolorowymi chorągiewkami.",
+    "people": [
+     "ciszewscy"
+    ],
+    "tags": [
+     "wieś",
+     "wiosna"
+    ]
+   },
+   {
+    "id": "galeria/IMG_3771",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_3771_letnia-lektura.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_3771_letnia-lektura.jpg",
+    "thumb": "media/miniatury/galeria/IMG_3771_letnia-lektura.jpg",
+    "w": 1600,
+    "h": 1200,
+    "title": "Letnia lektura",
+    "caption": "Wspólne letnie czytanie",
+    "who_text": "Jerzy, Ignacy, Ryszard oraz Jan",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "ciszewscy",
+     "the-early-days"
+    ],
+    "sees": "Tata w czapce z daszkiem i okularach czyta dużą książkę z obrazkami trzem chłopcom, którzy się do niego tulą. W tle piasek i skarpa.",
+    "people": [
+     "jan",
+     "jurek",
+     "rysio",
+     "ciszewscy"
+    ],
+    "tags": [
+     "czytanie",
+     "lato"
+    ]
+   },
+   {
+    "id": "galeria/IMG_4503",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_4503_ciezka-droga-do-stacji-moya.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_4503_ciezka-droga-do-stacji-moya.jpg",
+    "thumb": "media/miniatury/galeria/IMG_4503_ciezka-droga-do-stacji-moya.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Ciężka droga do stacji Moya",
+    "caption": "Przedzieranie się przez trawy",
+    "who_text": "Ryszard oraz Ignacy",
+    "where": "Okolice stacji Moya w Gzowie",
+    "date": "",
+    "rooms": [
+     "ciszewscy"
+    ],
+    "sees": "Dwoje dzieci brodzi przez zielone zboże wyższe od nich, jedno w różowej czapce z daszkiem. W tle dom z ciemnym dachem i błękitne niebo.",
+    "people": [
+     "rysio",
+     "ciszewscy"
+    ],
+    "tags": [
+     "moya",
+     "pole",
+     "wyprawa"
+    ]
+   },
+   {
+    "id": "galeria/IMG_8205",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_8205_wspolny-czas.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_8205_wspolny-czas.jpg",
+    "thumb": "media/miniatury/galeria/IMG_8205_wspolny-czas.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Wspólny czas",
+    "caption": "Wspólny czas na fotelu",
+    "who_text": "Jerzy, Ryszard, Ignacy oraz Jan",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "ciszewscy",
+     "the-early-days"
+    ],
+    "sees": "Tata w czapce i okularach siedzi z trójką chłopców na szerokim pasiastym fotelu pod wiatą. Obok ułożone drewno na opał, na piasku buty.",
+    "people": [
+     "jan",
+     "jurek",
+     "rysio",
+     "ciszewscy"
+    ],
+    "tags": [
+     "wiata",
+     "fotel",
+     "razem"
+    ]
+   },
+   {
+    "id": "galeria/IMG_8213",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_8213_zimowe-chodzenie-po-lodzie.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_8213_zimowe-chodzenie-po-lodzie.jpg",
+    "thumb": "media/miniatury/galeria/IMG_8213_zimowe-chodzenie-po-lodzie.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Zimowe chodzenie po lodzie",
+    "caption": "Zimowy spacer po zamarzniętej Narwi",
+    "who_text": "Helena",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "ciszewscy",
+     "zima"
+    ],
+    "sees": "Dziecko w zimowym ubraniu stoi z rozłożonymi rękami na zamarzniętej Narwi. Na pierwszym planie popękana kra, w tle linia drzew.",
+    "people": [
+     "ciszewscy"
+    ],
+    "tags": [
+     "zima",
+     "lód",
+     "narew"
+    ]
+   },
+   {
+    "id": "galeria/IMG_3663",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_3663_malowanie-swiatlem.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_3663_malowanie-swiatlem.jpg",
+    "thumb": "media/miniatury/galeria/IMG_3663_malowanie-swiatlem.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Malowanie Światłem",
+    "caption": "Malowanie Światłem przy ognisku",
+    "who_text": "Jan Sukiennik (tata)",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "fire"
+    ],
+    "sees": "Noc, długi czas naświetlania. Postać stoi w trawie, a nad nią świeci pomarańczowy łuk namalowany światłem. Granatowo-fioletowe niebo.",
+    "people": [
+     "jan"
+    ],
+    "tags": [
+     "ognisko",
+     "noc",
+     "światło"
+    ]
+   },
+   {
+    "id": "galeria/IMG_8933",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_8933_luna.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_8933_luna.jpg",
+    "thumb": "media/miniatury/galeria/IMG_8933_luna.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Luna",
+    "caption": "Cicha noc i samotny księżyc.",
+    "who_text": "Luna",
+    "where": "Okolice Gzowa",
+    "date": "",
+    "rooms": [
+     "midnight"
+    ],
+    "sees": "Prawie czarny kadr: mały księżyc na niebie i fragment drogi oświetlony reflektorami.",
+    "people": [],
+    "tags": [
+     "noc",
+     "księżyc"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2110",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2110_motorowka-rysio.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2110_motorowka-rysio.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2110_motorowka-rysio.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Motorówka&Rysio",
+    "caption": "Rysio łapie wiatr na motorówce",
+    "who_text": "Ryszard Sukiennik",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "narew"
+    ],
+    "sees": "Ujęcie z góry. Rysio w kapeluszu wychyla się z szarej motorówki przy brzegu, w wodzie odbijają się chmury i drzewa.",
+    "people": [
+     "rysio"
+    ],
+    "tags": [
+     "motorówka",
+     "narew"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2387",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2387_letni-odpoczynek.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2387_letni-odpoczynek.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2387_letni-odpoczynek.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Letni odpoczynek",
+    "caption": "Piwko, Narew, wspólny czas - Czego by tu chcieć więcej!",
+    "who_text": "Jan Sukiennik oraz śp. Gzowiański somsiad",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "narew",
+     "the-early-days"
+    ],
+    "sees": "Dwóch mężczyzn siedzi na krzesłach na piaszczystym brzegu pod zielenią, obaj na luzie, boso.",
+    "people": [
+     "jan",
+     "arek"
+    ],
+    "tags": [
+     "plaża",
+     "lato",
+     "odpoczynek"
+    ]
+   },
+   {
+    "id": "galeria/IMG_7545",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_7545_razem-o-zachodzie.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_7545_razem-o-zachodzie.jpg",
+    "thumb": "media/miniatury/galeria/IMG_7545_razem-o-zachodzie.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Razem o zachodzie",
+    "caption": "Przytuleni nad wodą w złotym świetle.",
+    "who_text": "Czupryńscy",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "sunset"
+    ],
+    "sees": "Para stoi tyłem, przytulona, na brzegu i patrzy na zachód słońca nad szeroką wodą.",
+    "people": [
+     "czuprynscy"
+    ],
+    "tags": [
+     "zachód słońca",
+     "narew"
+    ]
+   },
+   {
+    "id": "galeria/IMG_9197",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_9197_slonce-nad-polem.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_9197_slonce-nad-polem.jpg",
+    "thumb": "media/miniatury/galeria/IMG_9197_slonce-nad-polem.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Słońce nad polem",
+    "caption": "Jurek doświadcza zachodu słońca",
+    "who_text": "Jerzy Sukiennik",
+    "where": "Okolice domu Waldka",
+    "date": "",
+    "rooms": [
+     "sunset"
+    ],
+    "sees": "Zachód słońca nad ciemnym, płaskim polem. Słońce nisko, częściowo za chmurami.",
+    "people": [],
+    "tags": [
+     "zachód słońca",
+     "pole",
+     "dom Waldka"
+    ]
+   },
+   {
+    "id": "galeria/IMG_2802",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_2802_krowi-chlopiec.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_2802_krowi-chlopiec.jpg",
+    "thumb": "media/miniatury/galeria/IMG_2802_krowi-chlopiec.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Krowi chłopiec",
+    "caption": "Wspólny odpoczynek na podwórku (Alligator included)",
+    "who_text": "Jerzy, Ryszard oraz Jan",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "the-early-days"
+    ],
+    "sees": "Tata w czerwonej czapce z daszkiem i kowbojskich butach siedzi na krześle pod wiatą z tabletem, po bokach Jurek i Rysio. Na pierwszym planie pasiasty fotel.",
+    "people": [
+     "jan",
+     "jurek",
+     "rysio"
+    ],
+    "tags": [
+     "wiata",
+     "buty",
+     "razem"
+    ]
+   },
+   {
+    "id": "galeria/IMG_7131",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_7131_czytanie-w-domu.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_7131_czytanie-w-domu.jpg",
+    "thumb": "media/miniatury/galeria/IMG_7131_czytanie-w-domu.jpg",
+    "w": 1600,
+    "h": 1200,
+    "title": "Czytanie w Domu",
+    "caption": "Leniwy dzień na kanapie",
+    "who_text": "Jerzy Sukiennik oraz Ryszard Sukiennik",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "the-early-days"
+    ],
+    "sees": "Wnętrze domu w trakcie wykańczania: czarna sofa na tle szklanej ściany, leżą na niej dwie osoby w kurtkach, podłoga pod folią. Za szybą sosny i Narew.",
+    "people": [
+     "jurek",
+     "rysio"
+    ],
+    "tags": [
+     "dom",
+     "wnętrze",
+     "budowa"
+    ]
+   },
+   {
+    "id": "galeria/IMG_9191",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_9191_praca-nad-tarasem.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_9191_praca-nad-tarasem.jpg",
+    "thumb": "media/miniatury/galeria/IMG_9191_praca-nad-tarasem.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Praca nad tarasem",
+    "caption": "Konsultacja tarasu",
+    "who_text": "Jan Sukiennik oraz Pracownik",
+    "where": "Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "the-early-days"
+    ],
+    "sees": "Dwóch mężczyzn rozmawia na jasnym piasku budowy pod sosnami, obok ciemna bryła budynku i deski. Jeden w żółtej kurtce.",
+    "people": [
+     "jan"
+    ],
+    "tags": [
+     "taras",
+     "budowa",
+     "dom"
+    ]
+   },
+   {
+    "id": "galeria/IMG_7546",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_7546_dziadkowie.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_7546_dziadkowie.jpg",
+    "thumb": "media/miniatury/galeria/IMG_7546_dziadkowie.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Dziadkowie",
+    "caption": "Portret w cieniu drzew.",
+    "who_text": "Waldemar oraz Bożena Ottonowie",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "waldek"
+    ],
+    "sees": "Czarno-białe. Starsza para w ogrodzie w cieniu drzew: mężczyzna w koszuli w kratę siedzi na krześle, kobieta w jasnej sukience siedzi obok.",
+    "people": [
+     "waldek",
+     "bozena"
+    ],
+    "tags": [
+     "portret",
+     "czarno-białe"
+    ]
+   },
+   {
+    "id": "galeria/IMG_8221",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_8221_klucz-ptakow.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_8221_klucz-ptakow.jpg",
+    "thumb": "media/miniatury/galeria/IMG_8221_klucz-ptakow.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Klucz Ptaków",
+    "caption": "Ptaki wracające na wiosennym niebie.",
+    "who_text": "Ptaki!",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "wiosna"
+    ],
+    "sees": "Klucz ptaków w kształcie litery V na szaroniebieskim wieczornym niebie.",
+    "people": [],
+    "tags": [
+     "ptaki",
+     "wiosna",
+     "niebo"
+    ]
+   },
+   {
+    "id": "galeria/IMG_6684",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_6684_zimowy-obiad-jurka.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_6684_zimowy-obiad-jurka.jpg",
+    "thumb": "media/miniatury/galeria/IMG_6684_zimowy-obiad-jurka.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Zimowy Obiad Jurka",
+    "caption": "Mmm, yummy!",
+    "who_text": "Jerzy Sukiennik",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "zima"
+    ],
+    "sees": "Jurek w czerwonej puchowej kurtce z kapturem gryzie dużą taflę lodu. W tle śnieg i trzciny.",
+    "people": [
+     "jurek"
+    ],
+    "tags": [
+     "zima",
+     "lód"
+    ]
+   },
+   {
+    "id": "galeria/IMG_6746",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_6746_zimowy-obiad-rysia.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_6746_zimowy-obiad-rysia.jpg",
+    "thumb": "media/miniatury/galeria/IMG_6746_zimowy-obiad-rysia.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Zimowy Obiad Rysia",
+    "caption": "Mmm, yummy!",
+    "who_text": "Ryszard Sukiennik",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "zima"
+    ],
+    "sees": "Rysio stoi na śniegu między drzewami i trzyma przed sobą wielką taflę lodu.",
+    "people": [
+     "rysio"
+    ],
+    "tags": [
+     "zima",
+     "lód"
+    ]
+   },
+   {
+    "id": "galeria/IMG_8094",
+    "group": "galeria",
+    "file": "media/photos/galeria/IMG_8094_strike-a-pose.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/galeria/IMG_8094_strike-a-pose.jpg",
+    "thumb": "media/miniatury/galeria/IMG_8094_strike-a-pose.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "Strike a pose!",
+    "caption": "Mały Superman w świetle reflektorów!",
+    "who_text": "Ryszard Sukiennik",
+    "where": "Narew - Gzowo 34, Polska",
+    "date": "",
+    "rooms": [
+     "zima"
+    ],
+    "sees": "Zimowa noc. Rysio w niebieskiej kurtce stoi w rozkroku z rękami na biodrach na betonowej płycie przy wodzie, oświetlony mocnym reflektorem.",
+    "people": [
+     "rysio"
+    ],
+    "tags": [
+     "zima",
+     "noc",
+     "narew"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1139",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1139.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1139.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1139.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Gęste trzciny i zarośla przy brzegu, z boku słupek ogrodzenia.",
+    "people": [],
+    "tags": [
+     "trzciny"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1140",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1140.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1140.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1140.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Trawiasty brzeg schodzący do wody, przy wodzie leży łódka dnem do góry.",
+    "people": [],
+    "tags": [
+     "łódka",
+     "brzeg"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1141",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1141.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1141.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1141.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Skoszona trawa na stoku, krzewy, w tle łódka dnem do góry.",
+    "people": [],
+    "tags": [
+     "trawa"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1142",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1142.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1142.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1142.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Piaszczysta ścieżka w górę stoku, na górze zaparkowany srebrny minivan.",
+    "people": [],
+    "tags": [
+     "dojazd"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1143",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1143.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1143.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1143.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Linia brzegu: płytka woda, pas piasku i wyrzucone trzciny.",
+    "people": [],
+    "tags": [
+     "brzeg",
+     "piasek"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1144",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1144.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1144.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1144.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Beżowy kadłub łódki leży w wysokiej trawie.",
+    "people": [],
+    "tags": [
+     "łódka"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1145",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1145.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1145.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1145.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Trzciny w płytkiej wodzie, biała łódka przy brzegu, dalej szeroka Narew.",
+    "people": [],
+    "tags": [
+     "trzciny",
+     "narew",
+     "łódka"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1146",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1146.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1146.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1146.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Kępy trzcin w wodzie, niebieskie niebo, drugi brzeg daleko.",
+    "people": [],
+    "tags": [
+     "trzciny",
+     "narew"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1147",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1147.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1147.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1147.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Żółto-czarny skuter wodny zacumowany na linie w płytkiej wodzie.",
+    "people": [],
+    "tags": [
+     "skuter wodny"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1148",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1148.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1148.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1148.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Skuter wodny z bliska, widać piaszczyste dno.",
+    "people": [],
+    "tags": [
+     "skuter wodny"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1149",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1149.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1149.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1149.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Piaszczysto-trawiasty stok plaży w stronę wody, w tle łódki.",
+    "people": [],
+    "tags": [
+     "plaża"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1150",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1150.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1150.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1150.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Ten sam stok z innego miejsca, piasek z patykami na pierwszym planie.",
+    "people": [],
+    "tags": [
+     "plaża"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1151",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1151.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1151.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1151.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Stok plaży w cieniu drzew, na piasku ślady.",
+    "people": [],
+    "tags": [
+     "plaża"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1152",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1152.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1152.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1152.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Widok w górę stoku pod słońce, na górze auto.",
+    "people": [],
+    "tags": [
+     "dojazd"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1153",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1153.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1153.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1153.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Trawa pocięta śladami kół, słupek, na górze auto.",
+    "people": [],
+    "tags": [
+     "dojazd"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1154",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1154.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1154.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1154.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Trawiasty stok ze słupkiem, w tle auto i zarośla.",
+    "people": [],
+    "tags": [
+     "dojazd"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1155",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1155.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1155.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1155.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Długi mur z gabionów (stalowe kosze z kamieniem) wzdłuż piaszczystej drogi.",
+    "people": [],
+    "tags": [
+     "gabiony",
+     "droga"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1156",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1156.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1156.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1156.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Narożnik gabionowego muru, przy nim żółte kwiaty i wysoka trawa.",
+    "people": [],
+    "tags": [
+     "gabiony"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1157",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1157.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1157.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1157.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Zarośla i młode drzewa przy ścieżce.",
+    "people": [],
+    "tags": [
+     "zieleń"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1158",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1158.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1158.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1158.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Piaszczysta droga ze śladami opon, kępy trawy.",
+    "people": [],
+    "tags": [
+     "droga"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1159",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1159.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1159.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1159.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Droga dojazdowa między murem z gabionów a zielenią, latarnia.",
+    "people": [],
+    "tags": [
+     "gabiony",
+     "droga"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1160",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1160.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1160.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1160.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Ta sama droga, z prawej wystaje bok auta.",
+    "people": [],
+    "tags": [
+     "gabiony",
+     "droga"
+    ]
+   },
+   {
+    "id": "plaza/IMG_1161",
+    "group": "plaza",
+    "file": "media/photos/plaza/IMG_1161.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/plaza/IMG_1161.jpg",
+    "thumb": "media/miniatury/plaza/IMG_1161.jpg",
+    "w": 1200,
+    "h": 1600,
+    "title": "",
+    "caption": "",
+    "who_text": "",
+    "where": "Plaża Gzowo 34",
+    "date": "2026-08-08",
+    "rooms": [],
+    "sees": "Droga dojazdowa z latarnią i murem, ujęcie w stronę zarośli.",
+    "people": [],
+    "tags": [
+     "gabiony",
+     "droga"
+    ]
+   },
+   {
+    "id": "rakiety/IMG-20251102-WA0000",
+    "group": "rakiety",
+    "file": "media/photos/rakiety/IMG-20251102-WA0000.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/rakiety/IMG-20251102-WA0000.jpg",
+    "thumb": "media/miniatury/rakiety/IMG-20251102-WA0000.jpg",
+    "w": 482,
+    "h": 1044,
+    "title": "Rakieta na wyrzutni",
+    "caption": "",
+    "who_text": "",
+    "where": "",
+    "date": "2025-11-02",
+    "rooms": [],
+    "sees": "Rakieta stoi na wyrzutni ze statywu i długiego pręta pośrodku płaskiej łąki, pochmurne niebo.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "GL Launch Site",
+     "wyrzutnia"
+    ]
+   },
+   {
+    "id": "rakiety/IMG-20251019-WA0002",
+    "group": "rakiety",
+    "file": "media/photos/rakiety/IMG-20251019-WA0002.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/rakiety/IMG-20251019-WA0002.jpg",
+    "thumb": "media/miniatury/rakiety/IMG-20251019-WA0002.jpg",
+    "w": 1168,
+    "h": 720,
+    "title": "Druk rakiety",
+    "caption": "",
+    "who_text": "",
+    "where": "",
+    "date": "2025-10-19",
+    "rooms": [],
+    "sees": "Drukarka 3D Bambu Lab w trakcie druku ciemnozielonej części rakiety.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "druk 3D"
+    ]
+   },
+   {
+    "id": "rakiety/IMG-20251018-WA0001",
+    "group": "rakiety",
+    "file": "media/photos/rakiety/IMG-20251018-WA0001.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/rakiety/IMG-20251018-WA0001.jpg",
+    "thumb": "media/miniatury/rakiety/IMG-20251018-WA0001.jpg",
+    "w": 1129,
+    "h": 1600,
+    "title": "Dwie rakiety na tle próbek",
+    "caption": "",
+    "who_text": "",
+    "where": "",
+    "date": "2025-10-18",
+    "rooms": [],
+    "sees": "Dwie wydrukowane rakiety, ciemnozielona i jasnozielona, stoją na tle regału z próbkami materiałów.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "druk 3D"
+    ]
+   },
+   {
+    "id": "rakiety/IMG-20251019-WA0004",
+    "group": "rakiety",
+    "file": "media/photos/rakiety/IMG-20251019-WA0004.jpg",
+    "url": "https://dataset.gzowo.fun/media/photos/rakiety/IMG-20251019-WA0004.jpg",
+    "thumb": "media/miniatury/rakiety/IMG-20251019-WA0004.jpg",
+    "w": 1600,
+    "h": 1200,
+    "title": "Warsztat rakietowy",
+    "caption": "",
+    "who_text": "",
+    "where": "",
+    "date": "2025-10-19",
+    "rooms": [],
+    "sees": "Biurko z perforowaną tablicą na ścianie: zielone rakiety i części w trakcie składania.",
+    "people": [],
+    "tags": [
+     "rakieta",
+     "warsztat"
+    ]
+   }
+  ],
+  "videos": [
+   {
+    "id": "dropsik_dance",
+    "title": "DANCE (Dropsik)",
+    "date": "zmontowany 2023-01-28",
+    "where": "Gzowo 34",
+    "who": [
+     "dropsik",
+     "jurek albo rysio"
+    ],
+    "sees": "Pionowy montaż z napisem DANCE. Chłopiec w czerwonym kombinezonie i zielonej czapce siedzi na liściach i bawi się z małym czarno-karmelowym szczeniakiem. Potem szczeniak na śniegu głaskany ręką, potem zabawa na trawie przy stercie kamieni, w tle wiata z autem i sosny. Na końcu czerwona kurtyna.",
+    "note": "W Galerii Gzowo grany w sali 2B jako \"The Early Days of Gzowo\". Jedyny film z Dropsikiem.",
+    "tags": [
+     "dropsik",
+     "pies",
+     "zima",
+     "wiata"
+    ],
+    "w": 1280,
+    "h": 720,
+    "duration_s": 37.5,
+    "file": "media/wideo/dropsik_dance.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/dropsik_dance.mp4",
+    "bytes": 7503528,
+    "frames": [
+     "media/klatki/dropsik_dance/01_0001s.jpg",
+     "media/klatki/dropsik_dance/02_0004s.jpg",
+     "media/klatki/dropsik_dance/03_0007s.jpg",
+     "media/klatki/dropsik_dance/04_0010s.jpg",
+     "media/klatki/dropsik_dance/05_0014s.jpg",
+     "media/klatki/dropsik_dance/06_0017s.jpg",
+     "media/klatki/dropsik_dance/07_0020s.jpg",
+     "media/klatki/dropsik_dance/08_0023s.jpg",
+     "media/klatki/dropsik_dance/09_0026s.jpg",
+     "media/klatki/dropsik_dance/10_0029s.jpg",
+     "media/klatki/dropsik_dance/11_0032s.jpg",
+     "media/klatki/dropsik_dance/12_0035s.jpg"
+    ],
+    "poster": "media/klatki/dropsik_dance/07_0020s.jpg"
+   },
+   {
+    "id": "kamerka_2020-11-30_jurek-i-rysio",
+    "title": "Jurek i Rysio przed kamerką",
+    "date": "2020-11-30",
+    "where": "Warszawa",
+    "who": [
+     "jurek",
+     "rysio"
+    ],
+    "sees": "Nagranie z kamerki komputera. Dwóch małych chłopców, ciemnowłosy Jurek i blond Rysio w pasiastej bluzie, przepycha się do obiektywu i śmieje.",
+    "said": "\"Nie wiem, czy uda się wysłać. Powiedz coś.\" \"Hej, Tato!\" \"Teraz pa pa.\" \"Pa pa.\" \"Czekaj, bo trzymam komputer w ręce.\"",
+    "note": "Wiadomość wideo dla taty. Jeszcze sprzed Gzowa (działka od czerwca 2021). Jurek dał ją jako wspomnienie.",
+    "tags": [
+     "warszawa",
+     "bracia",
+     "tata"
+    ],
+    "w": 720,
+    "h": 480,
+    "duration_s": 22.7,
+    "file": "media/wideo/kamerka_2020-11-30_jurek-i-rysio.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/kamerka_2020-11-30_jurek-i-rysio.mp4",
+    "bytes": 2817994,
+    "frames": [
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/01_0001s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/02_0005s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/03_0009s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/04_0013s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/05_0017s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/06_0020s.jpg"
+    ],
+    "poster": "media/klatki/kamerka_2020-11-30_jurek-i-rysio/04_0013s.jpg"
+   },
+   {
+    "id": "kalakasan_2023-08-29_200-memes",
+    "title": "KALAKASANYT ogląda 200 memes in 1 song",
+    "date": "2023-08-29",
+    "where": "Warszawa",
+    "who": [
+     "jurek"
+    ],
+    "sees": "Nagranie ekranu z OBS. W rogu okienko kamerki z Jurkiem, na ekranie YouTube z filmem \"200 MEMES in 1 SONG\" (pianista PACIL gra memiczne melodie). Jurek ogląda i reaguje.",
+    "said": "\"Oglądamy gdzieś filmiki! Widzicie, już jestem profesjonalny!\" [...] \"Dobra, skończymy już na dzisiaj! Do widzenia!\"",
+    "note": "Wspomnienie z czasów nicku KALAKASANYT. Obraz i dźwięk filmu z YouTube należą do jego autora.",
+    "tags": [
+     "kalakasanyt",
+     "warszawa",
+     "pianino"
+    ],
+    "w": 1280,
+    "h": 720,
+    "duration_s": 87.4,
+    "file": "media/wideo/kalakasan_2023-08-29_200-memes.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/kalakasan_2023-08-29_200-memes.mp4",
+    "bytes": 10859076,
+    "frames": [
+     "media/klatki/kalakasan_2023-08-29_200-memes/01_0007s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/02_0021s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/03_0036s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/04_0051s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/05_0065s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/06_0080s.jpg"
+    ],
+    "poster": "media/klatki/kalakasan_2023-08-29_200-memes/04_0051s.jpg"
+   },
+   {
+    "id": "kalakasan_ninjago-stream",
+    "title": "KALAKASANYT ogląda Ninjago",
+    "date": "nieznana, plik nazywał się \"Jurek STRAREM\"",
+    "where": "Warszawa",
+    "who": [
+     "jurek"
+    ],
+    "sees": "Nagranie ekranu z OBS z zieloną ramką kamerki podpisaną \"Kalakasan yt\". Jurek w niebieskiej koszulce zapowiada transmisję i włącza odcinki LEGO Ninjago po polsku. Ogląda je z rodziną siedzącą w głębi pokoju, chwilami odchodzi od kamerki. W tle pokój z oknem i rośliną.",
+    "said": "\"Siemano! Z tej strony Jurek Sukiennik. [...] Dziś będziemy oglądać Ninjago, pełne odcinki z drugiego sezonu po polsku. Będzie trwało to godzinę i trzy minuty. Jej, ale fajnie! I dziś tutaj jestem z rodziną. [...] My oglądamy z wami i komentujemy.\"",
+    "note": "Wspomnienie z czasów nicku KALAKASANYT. Odcinek Ninjago należy do LEGO.",
+    "tags": [
+     "kalakasanyt",
+     "warszawa",
+     "ninjago"
+    ],
+    "w": 1280,
+    "h": 720,
+    "duration_s": 418.6,
+    "file": "media/wideo/kalakasan_ninjago-stream.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/kalakasan_ninjago-stream.mp4",
+    "bytes": 47290794,
+    "frames": [
+     "media/klatki/kalakasan_ninjago-stream/01_0017s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/02_0052s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/03_0087s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/04_0122s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/05_0156s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/06_0191s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/07_0226s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/08_0261s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/09_0296s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/10_0331s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/11_0366s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/12_0401s.jpg"
+    ],
+    "poster": "media/klatki/kalakasan_ninjago-stream/07_0226s.jpg"
+   },
+   {
+    "id": "dom-z-zewnatrz_2026-07-28",
+    "title": "Dom z zewnątrz",
+    "date": "2026-07-28",
+    "where": "Gzowo 34",
+    "who": [],
+    "sees": "Kamera jedzie w bok po łące. Dom wsunięty w skarpę: na dole niska betonowa bryła z otwartym garażem, w którym stoi coś czerwonego, na niej przeszklony prostopadłościan. Dookoła stare sosny.",
+    "note": "Jedyne ujęcie domu z zewnątrz w datasecie (6 sekund).",
+    "tags": [
+     "dom",
+     "skarpa",
+     "sosny"
+    ],
+    "w": 1280,
+    "h": 720,
+    "duration_s": 6.1,
+    "file": "media/wideo/dom-z-zewnatrz_2026-07-28.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/dom-z-zewnatrz_2026-07-28.mp4",
+    "bytes": 2099793,
+    "frames": [
+     "media/klatki/dom-z-zewnatrz_2026-07-28/01_0000s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/02_0002s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/03_0003s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/04_0005s.jpg"
+    ],
+    "poster": "media/klatki/dom-z-zewnatrz_2026-07-28/03_0003s.jpg"
+   },
+   {
+    "id": "dom-wnetrze_2026-07-28",
+    "title": "Dom w środku",
+    "date": "2026-07-28",
+    "where": "Gzowo 34",
+    "who": [],
+    "sees": "Jurek idzie z telefonem przez salon i kuchnię: ściana z OSB, marmurowa podłoga, sufit ze sklejki, wielkie okna na taras i sosny, kominek, pianino, telewizor, sofa, duży stół na limonkowych kozłach, stalowa kuchnia.",
+    "note": "Z tego filmu Jurek odtworzył wnętrze w 3D (projekt Gzowo House).",
+    "tags": [
+     "dom",
+     "wnętrze"
+    ],
+    "w": 720,
+    "h": 1280,
+    "duration_s": 103.2,
+    "file": "media/wideo/dom-wnetrze_2026-07-28.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/dom-wnetrze_2026-07-28.mp4",
+    "bytes": 24660673,
+    "frames": [
+     "media/klatki/dom-wnetrze_2026-07-28/01_0003s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/02_0009s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/03_0016s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/04_0022s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/05_0029s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/06_0035s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/07_0041s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/08_0048s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/09_0054s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/10_0061s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/11_0067s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/12_0074s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/13_0080s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/14_0087s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/15_0093s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/16_0099s.jpg"
+    ],
+    "poster": "media/klatki/dom-wnetrze_2026-07-28/09_0054s.jpg"
+   },
+   {
+    "id": "sciana-domu_2026-08-07",
+    "title": "Ściana domu",
+    "date": "2026-08-07",
+    "where": "Gzowo 34",
+    "who": [],
+    "sees": "Gładka, jasna, otynkowana ściana domu, u dołu czarna folia fundamentowa, trawa i piasek. Stoi przy niej pręt ze znacznikiem.",
+    "note": "Nagrane pod filmik, w którym maskotka Narek pisze kredą \"Gzowo Jest Najlepsze <3\".",
+    "tags": [
+     "dom",
+     "ściana"
+    ],
+    "w": 720,
+    "h": 1280,
+    "duration_s": 16.9,
+    "file": "media/wideo/sciana-domu_2026-08-07.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/sciana-domu_2026-08-07.mp4",
+    "bytes": 4708737,
+    "frames": [
+     "media/klatki/sciana-domu_2026-08-07/01_0001s.jpg",
+     "media/klatki/sciana-domu_2026-08-07/02_0005s.jpg",
+     "media/klatki/sciana-domu_2026-08-07/03_0008s.jpg",
+     "media/klatki/sciana-domu_2026-08-07/04_0011s.jpg",
+     "media/klatki/sciana-domu_2026-08-07/05_0015s.jpg"
+    ],
+    "poster": "media/klatki/sciana-domu_2026-08-07/03_0008s.jpg"
+   },
+   {
+    "id": "plaza_2026-08-08",
+    "title": "Plaża, przejście z kamerą",
+    "date": "2026-08-08",
+    "where": "Plaża Gzowo 34",
+    "who": [],
+    "sees": "Przejście po plaży: piaszczysta ścieżka do wody, zacumowany żółty skuter wodny, szeroka Narew pod niebem z chmurami, zarośla, łódki dnem do góry, na końcu drobna fala na piasku.",
+    "note": "Uzupełnia serię zdjęć plaży.",
+    "tags": [
+     "plaża",
+     "narew"
+    ],
+    "w": 720,
+    "h": 1280,
+    "duration_s": 30.7,
+    "file": "media/wideo/plaza_2026-08-08.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/plaza_2026-08-08.mp4",
+    "bytes": 8377731,
+    "frames": [
+     "media/klatki/plaza_2026-08-08/01_0001s.jpg",
+     "media/klatki/plaza_2026-08-08/02_0005s.jpg",
+     "media/klatki/plaza_2026-08-08/03_0009s.jpg",
+     "media/klatki/plaza_2026-08-08/04_0013s.jpg",
+     "media/klatki/plaza_2026-08-08/05_0017s.jpg",
+     "media/klatki/plaza_2026-08-08/06_0021s.jpg",
+     "media/klatki/plaza_2026-08-08/07_0024s.jpg",
+     "media/klatki/plaza_2026-08-08/08_0028s.jpg"
+    ],
+    "poster": "media/klatki/plaza_2026-08-08/05_0017s.jpg"
+   },
+   {
+    "id": "sala-3c_2025-05-25",
+    "title": "Wielki obraz przed domkiem",
+    "date": "2025-05-25",
+    "where": "Gzowo 34",
+    "who": [
+     "nieznana osoba w zielonej bluzie"
+    ],
+    "sees": "Na piaszczystym placu leży duże płótno w niebiesko-różowo-żółte plamy. Osoba w zielonej bluzie z kapturem maluje je szczotką na długim kiju, chodząc dookoła. W tle ciemny drewniany domek z czerwonymi drzwiami, szare skrzynie i drewno na opał.",
+    "note": "Leżał w folderze sali 3C Galerii Gzowo (\"coming soon\"). Widać jeden z trzech domków.",
+    "tags": [
+     "domek",
+     "malowanie",
+     "sztuka"
+    ],
+    "w": 720,
+    "h": 1280,
+    "duration_s": 76.8,
+    "file": "media/wideo/sala-3c_2025-05-25.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/sala-3c_2025-05-25.mp4",
+    "bytes": 14519905,
+    "frames": [
+     "media/klatki/sala-3c_2025-05-25/01_0004s.jpg",
+     "media/klatki/sala-3c_2025-05-25/02_0014s.jpg",
+     "media/klatki/sala-3c_2025-05-25/03_0023s.jpg",
+     "media/klatki/sala-3c_2025-05-25/04_0033s.jpg",
+     "media/klatki/sala-3c_2025-05-25/05_0043s.jpg",
+     "media/klatki/sala-3c_2025-05-25/06_0052s.jpg",
+     "media/klatki/sala-3c_2025-05-25/07_0062s.jpg",
+     "media/klatki/sala-3c_2025-05-25/08_0071s.jpg"
+    ],
+    "poster": "media/klatki/sala-3c_2025-05-25/05_0043s.jpg"
+   },
+   {
+    "id": "rakieta_2025-10-19_start-z-daleka-pole",
+    "title": "Start rakiety z pola",
+    "date": "2025-10-19",
+    "where": "GL Launch Site",
+    "who": [
+     "jurek"
+    ],
+    "sees": "Ręka w czerwonej kurtce ustawia jasną rakietę na skraju zaoranego pola. Start z kłębem dymu, kamera gubi rakietę w chmurach.",
+    "note": "W Galerii: sala A1.",
+    "tags": [
+     "rakieta",
+     "start"
+    ],
+    "w": 848,
+    "h": 480,
+    "duration_s": 16.2,
+    "file": "media/wideo/rakieta_2025-10-19_start-z-daleka-pole.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-10-19_start-z-daleka-pole.mp4",
+    "bytes": 2385849,
+    "frames": [
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/01_0001s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/02_0004s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/03_0006s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/04_0009s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/05_0012s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/06_0014s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/04_0009s.jpg"
+   },
+   {
+    "id": "rakieta_2025-10-19_w-locie-niebo",
+    "title": "Rakieta w locie",
+    "date": "2025-10-19",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Rakieta stoi na szutrowej drodze, startuje, kamera szuka jej na niebie, potem dym nad polem.",
+    "note": "W Galerii: sala A1.",
+    "tags": [
+     "rakieta",
+     "start",
+     "droga"
+    ],
+    "w": 848,
+    "h": 480,
+    "duration_s": 15.8,
+    "file": "media/wideo/rakieta_2025-10-19_w-locie-niebo.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-10-19_w-locie-niebo.mp4",
+    "bytes": 2554824,
+    "frames": [
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/01_0001s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/02_0003s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/03_0006s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/04_0009s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/05_0011s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/06_0014s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-10-19_w-locie-niebo/04_0009s.jpg"
+   },
+   {
+    "id": "rakieta_2025-10-19_WA0008",
+    "title": "Lot i lądowanie na łące",
+    "date": "2025-10-19",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Rakieta jako mały punkt na błękitnym niebie, potem długa obserwacja łąki, nad którą unosi się dym.",
+    "note": "",
+    "tags": [
+     "rakieta",
+     "lot"
+    ],
+    "w": 480,
+    "h": 592,
+    "duration_s": 65.5,
+    "file": "media/wideo/rakieta_2025-10-19_WA0008.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-10-19_WA0008.mp4",
+    "bytes": 7485326,
+    "frames": [
+     "media/klatki/rakieta_2025-10-19_WA0008/01_0005s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/02_0016s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/03_0027s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/04_0038s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/05_0049s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/06_0060s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-10-19_WA0008/04_0038s.jpg"
+   },
+   {
+    "id": "rakieta_2025-10-19_WA0009",
+    "title": "Start i bieg po rakietę",
+    "date": "2025-10-19",
+    "where": "GL Launch Site",
+    "who": [
+     "jurek"
+    ],
+    "sees": "Start z zaoranego pola pod szarym niebem, smuga dymu w górę. Potem postać w czerwonej kurtce biegnie przez łąkę po rakietę.",
+    "note": "",
+    "tags": [
+     "rakieta",
+     "start",
+     "szukanie"
+    ],
+    "w": 480,
+    "h": 768,
+    "duration_s": 87.8,
+    "file": "media/wideo/rakieta_2025-10-19_WA0009.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-10-19_WA0009.mp4",
+    "bytes": 13494465,
+    "frames": [
+     "media/klatki/rakieta_2025-10-19_WA0009/01_0007s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/02_0021s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/03_0036s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/04_0051s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/05_0065s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/06_0080s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-10-19_WA0009/04_0051s.jpg"
+   },
+   {
+    "id": "rakieta_2025-11-01_start-z-daleka-laka",
+    "title": "Start z łąki o zmierzchu",
+    "date": "2025-11-01",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Trzy sekundy: kłąb dymu na łące i smuga w niebo o zmierzchu.",
+    "note": "W Galerii: sala A1.",
+    "tags": [
+     "rakieta",
+     "start"
+    ],
+    "w": 464,
+    "h": 832,
+    "duration_s": 2.8,
+    "file": "media/wideo/rakieta_2025-11-01_start-z-daleka-laka.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-01_start-z-daleka-laka.mp4",
+    "bytes": 516072,
+    "frames": [
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/01_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/02_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/03_0001s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/04_0001s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/05_0002s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/06_0002s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/04_0001s.jpg"
+   },
+   {
+    "id": "rakieta_2025-11-01_WA0009",
+    "title": "Zapłon z bliska",
+    "date": "2025-11-01",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Ujęcie od dołu: zielona rakieta na wyrzutni na tle chmur, iskry zapłonu i odlot.",
+    "note": "",
+    "tags": [
+     "rakieta",
+     "zapłon",
+     "wyrzutnia"
+    ],
+    "w": 464,
+    "h": 832,
+    "duration_s": 8.5,
+    "file": "media/wideo/rakieta_2025-11-01_WA0009.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-01_WA0009.mp4",
+    "bytes": 1240482,
+    "frames": [
+     "media/klatki/rakieta_2025-11-01_WA0009/01_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/02_0002s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/03_0003s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/04_0004s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/05_0006s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/06_0007s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-11-01_WA0009/04_0004s.jpg"
+   },
+   {
+    "id": "rakieta_2025-11-29_WA0002",
+    "title": "The Orange Beauty na wyrzutni (Insta360)",
+    "date": "2025-11-29",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Czerwono-czarna rakieta na wyrzutni z bliska, zapłon, dym. Potem obraz 360 stopni z oszronioną łąką i wygiętą wyrzutnią.",
+    "note": "Nagrane kamerą Insta360.",
+    "tags": [
+     "rakieta",
+     "the orange beauty",
+     "zapłon"
+    ],
+    "w": 478,
+    "h": 850,
+    "duration_s": 32.1,
+    "file": "media/wideo/rakieta_2025-11-29_WA0002.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-29_WA0002.mp4",
+    "bytes": 6520089,
+    "frames": [
+     "media/klatki/rakieta_2025-11-29_WA0002/01_0002s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/02_0008s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/03_0013s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/04_0018s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/05_0024s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/06_0029s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-11-29_WA0002/04_0018s.jpg"
+   },
+   {
+    "id": "rakieta_2025-11-29_start-z-daleka-2",
+    "title": "Start The Orange Beauty z daleka",
+    "date": "2025-11-29",
+    "where": "GL Launch Site",
+    "who": [],
+    "sees": "Rakieta startuje z oszronionej łąki, kamera śledzi smugę dymu w szarym niebie, na końcu pusta wyrzutnia.",
+    "note": "W Galerii: sala A1.",
+    "tags": [
+     "rakieta",
+     "the orange beauty",
+     "start"
+    ],
+    "w": 464,
+    "h": 832,
+    "duration_s": 24.2,
+    "file": "media/wideo/rakieta_2025-11-29_start-z-daleka-2.mp4",
+    "url": "https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-29_start-z-daleka-2.mp4",
+    "bytes": 3676747,
+    "frames": [
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/01_0002s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/02_0006s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/03_0010s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/04_0014s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/05_0018s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/06_0022s.jpg"
+    ],
+    "poster": "media/klatki/rakieta_2025-11-29_start-z-daleka-2/04_0014s.jpg"
+   }
+  ],
+  "folders": [
+   {
+    "dir": "media/geo",
+    "what": "Geodane okolicy: ortofotomapa kwadratu 1 x 1 km (północ u góry, środek 52.612456 N, 21.112375 E, Gzowo 34 leży 245 m na wschód i 39 m na północ od środka), zbliżenie na działkę z żółtym kółkiem, rzeźba terenu, mapa pokrycia terenu i szerszy widok okolicy.",
+    "count": 5,
+    "files": [
+     "media/geo/ortofoto-1km.jpg",
+     "media/geo/ortofoto-dzialka-zblizenie.jpg",
+     "media/geo/ortofoto-okolica-20km.jpg",
+     "media/geo/pokrycie-terenu-1km.jpg",
+     "media/geo/rzezba-terenu-1km.jpg"
+    ]
+   },
+   {
+    "dir": "media/mapa-pikselowa",
+    "what": "Pikselowe sprite'y z mapy działki na gzowo.fun: arcade, warsztat, lab, wyrzutnia, rakieta, hangar, pomost, skrzynka, znak, sosny, chmury, mewa, woda i inne. Plik _cala-mapa.webp pokazuje złożoną mapę.",
+    "count": 37,
+    "files": [
+     "media/mapa-pikselowa/_cala-mapa.webp",
+     "media/mapa-pikselowa/arcade.webp",
+     "media/mapa-pikselowa/bench.webp",
+     "media/mapa-pikselowa/billboard.webp",
+     "media/mapa-pikselowa/board.webp",
+     "media/mapa-pikselowa/booth.webp",
+     "media/mapa-pikselowa/bush.webp",
+     "media/mapa-pikselowa/claw.webp",
+     "media/mapa-pikselowa/cloud1.webp",
+     "media/mapa-pikselowa/cloud2.webp",
+     "media/mapa-pikselowa/cloud3.webp",
+     "media/mapa-pikselowa/cloud4.webp",
+     "media/mapa-pikselowa/dish.webp",
+     "media/mapa-pikselowa/dock.webp",
+     "media/mapa-pikselowa/exchange.webp",
+     "media/mapa-pikselowa/flag.webp",
+     "media/mapa-pikselowa/gull.webp",
+     "media/mapa-pikselowa/hangar.webp",
+     "media/mapa-pikselowa/lab.webp",
+     "media/mapa-pikselowa/lamp.webp",
+     "media/mapa-pikselowa/launchpad-empty.webp",
+     "media/mapa-pikselowa/launchpad.webp",
+     "media/mapa-pikselowa/mailbox.webp",
+     "media/mapa-pikselowa/museum.webp",
+     "media/mapa-pikselowa/pine.webp",
+     "media/mapa-pikselowa/rocket.webp",
+     "media/mapa-pikselowa/sailboat.webp",
+     "media/mapa-pikselowa/signpost.webp",
+     "media/mapa-pikselowa/starnet.webp",
+     "media/mapa-pikselowa/store.webp",
+     "media/mapa-pikselowa/sun.webp",
+     "media/mapa-pikselowa/tree1.webp",
+     "media/mapa-pikselowa/tree2.webp",
+     "media/mapa-pikselowa/tree3.webp",
+     "media/mapa-pikselowa/water.webp",
+     "media/mapa-pikselowa/windsock.webp",
+     "media/mapa-pikselowa/workshop.webp"
+    ]
+   },
+   {
+    "dir": "media/postacie/osrodek-daje",
+    "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: KS (tata) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.",
+    "count": 6,
+    "files": [
+     "media/postacie/osrodek-daje/characters-front.png",
+     "media/postacie/osrodek-daje/ks-closeup.png",
+     "media/postacie/osrodek-daje/portrait-dropsik.png",
+     "media/postacie/osrodek-daje/portrait-jurek.png",
+     "media/postacie/osrodek-daje/portrait-ks.png",
+     "media/postacie/osrodek-daje/portrait-rys.png"
+    ]
+   },
+   {
+    "dir": "media/postacie/narek",
+    "what": "Render maskotki Narek.",
+    "count": 1,
+    "files": [
+     "media/postacie/narek/narek_hero.png"
+    ]
+   },
+   {
+    "dir": "media/brand/gzowo-labs",
+    "what": "Pełny kit logo Gzowo Labs (Wschód): SVG i PNG we wszystkich układach i kolorach, favicony, naklejki na rakiety, awatary, animacje MP4 oraz płonący GIF i grafika og ze strony.",
+    "count": 80,
+    "files": [
+     "media/brand/gzowo-labs/awatar/awatar-ciemny.png",
+     "media/brand/gzowo-labs/awatar/awatar-ciemny.svg",
+     "media/brand/gzowo-labs/awatar/awatar-jasny.png",
+     "media/brand/gzowo-labs/awatar/awatar-jasny.svg",
+     "media/brand/gzowo-labs/awatar/awatar-pomaranczowy.png",
+     "media/brand/gzowo-labs/awatar/awatar-pomaranczowy.svg",
+     "media/brand/gzowo-labs/favicon/apple-touch-icon.png",
+     "media/brand/gzowo-labs/favicon/favicon-16.png",
+     "media/brand/gzowo-labs/favicon/favicon-192.png",
+     "media/brand/gzowo-labs/favicon/favicon-32.png",
+     "media/brand/gzowo-labs/favicon/favicon-48.png",
+     "media/brand/gzowo-labs/favicon/favicon-512.png",
+     "media/brand/gzowo-labs/favicon/favicon.svg",
+     "media/brand/gzowo-labs/filmy/logo-poziome-ciemne.jpg",
+     "media/brand/gzowo-labs/filmy/logo-poziome-ciemne.mp4",
+     "media/brand/gzowo-labs/filmy/logo-poziome-jasne.jpg",
+     "media/brand/gzowo-labs/filmy/logo-poziome-jasne.mp4",
+     "media/brand/gzowo-labs/filmy/logo-rolka-ciemne.jpg",
+     "media/brand/gzowo-labs/filmy/logo-rolka-ciemne.mp4",
+     "media/brand/gzowo-labs/filmy/logo-rolka-jasne.jpg",
+     "media/brand/gzowo-labs/filmy/logo-rolka-jasne.mp4",
+     "media/brand/gzowo-labs/naklejki/naklejka-korpus-biala.png",
+     "media/brand/gzowo-labs/naklejki/naklejka-korpus-biala.svg",
+     "media/brand/gzowo-labs/naklejki/naklejka-korpus-czarna.png",
+     "media/brand/gzowo-labs/naklejki/naklejka-korpus-czarna.svg",
+     "media/brand/gzowo-labs/naklejki/naklejka-statecznik-biala.png",
+     "media/brand/gzowo-labs/naklejki/naklejka-statecznik-biala.svg",
+     "media/brand/gzowo-labs/naklejki/naklejka-statecznik-czarna.png",
+     "media/brand/gzowo-labs/naklejki/naklejka-statecznik-czarna.svg",
+     "media/brand/gzowo-labs/png/gzowo-labs-napis-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-napis-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-napis-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-napis-kolor.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-pionowe-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-pionowe-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-pionowe-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-pionowe-kolor.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-bez-podpisu-kolor.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-poziome-kolor.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-kolor.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-biale.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-ciemne-tlo.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-czarne.png",
+     "media/brand/gzowo-labs/png/gzowo-labs-znak-maly-kolor.png",
+     "media/brand/gzowo-labs/strona/favicon.svg",
+     "media/brand/gzowo-labs/strona/gzowo-labs-fire.gif",
+     "media/brand/gzowo-labs/strona/og.png",
+     "media/brand/gzowo-labs/svg/gzowo-labs-napis-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-napis-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-napis-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-napis-kolor.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-pionowe-kolor.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-bez-podpisu-kolor.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-biale.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-ciemne-tlo.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-czarne.svg",
+     "media/brand/gzowo-labs/svg/gzowo-labs-znak-maly-kolor.svg"
+    ]
+   },
+   {
+    "dir": "media/brand/gsp",
+    "what": "Kit Gzowo Space Program: logo PNG, gify, zakończenia filmów, awatary.",
+    "count": 88,
+    "files": [
+     "media/brand/gsp/gif/reveal/GSP_sig_reveal_dark.gif",
+     "media/brand/gsp/gif/reveal/GSP_sig_reveal_light.gif",
+     "media/brand/gsp/gif/reveal/GSP_sig_reveal_trans.gif",
+     "media/brand/gsp/gif/smpte/GSP_sig_smpte_dark.gif",
+     "media/brand/gsp/gsp-logo.png",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/clean/GSP_outro_clean_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/hud/GSP_outro_hud_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/kin/GSP_outro_kin_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_clean_gold_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/gold/GSP_outro_kin_gold_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_clean_ign_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/ign/GSP_outro_kin_ign_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_clean_neb_9x16_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_16x9_4s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_3s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_3s_sound.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_4s_silent.mp4",
+     "media/brand/gsp/outro/themes/neb/GSP_outro_kin_neb_9x16_4s_sound.mp4",
+     "media/brand/gsp/pfp/brand/GSP_pfp_brand_dark.png",
+     "media/brand/gsp/pfp/brand/GSP_pfp_brand_light.png",
+     "media/brand/gsp/pfp/brand/GSP_pfp_brand_trans-black.png",
+     "media/brand/gsp/pfp/brand/GSP_pfp_brand_trans-white.png",
+     "media/brand/gsp/pfp/ignition/GSP_pfp_ignition_dark.png",
+     "media/brand/gsp/pfp/ignition/GSP_pfp_ignition_trans.png",
+     "media/brand/gsp/pfp/nebula/GSP_pfp_nebula_dark.png",
+     "media/brand/gsp/pfp/nebula/GSP_pfp_nebula_trans.png",
+     "media/brand/gsp/pfp/smpte/GSP_pfp_smpte_dark.png",
+     "media/brand/gsp/pfp/swiateczny/GSP_pfp_swiateczny_dark.png",
+     "media/brand/gsp/pfp/swiateczny/GSP_pfp_swiateczny_trans.png"
+    ]
+   },
+   {
+    "dir": "media/klatki",
+    "what": "Kadry wycięte w równych odstępach z każdego filmu (nazwa pliku to numer i sekunda). Dla modeli, które nie oglądają wideo.",
+    "count": 125,
+    "files": [
+     "media/klatki/dom-wnetrze_2026-07-28/01_0003s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/02_0009s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/03_0016s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/04_0022s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/05_0029s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/06_0035s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/07_0041s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/08_0048s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/09_0054s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/10_0061s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/11_0067s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/12_0074s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/13_0080s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/14_0087s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/15_0093s.jpg",
+     "media/klatki/dom-wnetrze_2026-07-28/16_0099s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/01_0000s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/02_0002s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/03_0003s.jpg",
+     "media/klatki/dom-z-zewnatrz_2026-07-28/04_0005s.jpg",
+     "media/klatki/dropsik_dance/01_0001s.jpg",
+     "media/klatki/dropsik_dance/02_0004s.jpg",
+     "media/klatki/dropsik_dance/03_0007s.jpg",
+     "media/klatki/dropsik_dance/04_0010s.jpg",
+     "media/klatki/dropsik_dance/05_0014s.jpg",
+     "media/klatki/dropsik_dance/06_0017s.jpg",
+     "media/klatki/dropsik_dance/07_0020s.jpg",
+     "media/klatki/dropsik_dance/08_0023s.jpg",
+     "media/klatki/dropsik_dance/09_0026s.jpg",
+     "media/klatki/dropsik_dance/10_0029s.jpg",
+     "media/klatki/dropsik_dance/11_0032s.jpg",
+     "media/klatki/dropsik_dance/12_0035s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/01_0007s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/02_0021s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/03_0036s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/04_0051s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/05_0065s.jpg",
+     "media/klatki/kalakasan_2023-08-29_200-memes/06_0080s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/01_0017s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/02_0052s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/03_0087s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/04_0122s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/05_0156s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/06_0191s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/07_0226s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/08_0261s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/09_0296s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/10_0331s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/11_0366s.jpg",
+     "media/klatki/kalakasan_ninjago-stream/12_0401s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/01_0001s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/02_0005s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/03_0009s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/04_0013s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/05_0017s.jpg",
+     "media/klatki/kamerka_2020-11-30_jurek-i-rysio/06_0020s.jpg",
+     "media/klatki/plaza_2026-08-08/01_0001s.jpg",
+     "media/klatki/plaza_2026-08-08/02_0005s.jpg",
+     "media/klatki/plaza_2026-08-08/03_0009s.jpg",
+     "media/klatki/plaza_2026-08-08/04_0013s.jpg",
+     "media/klatki/plaza_2026-08-08/05_0017s.jpg",
+     "media/klatki/plaza_2026-08-08/06_0021s.jpg",
+     "media/klatki/plaza_2026-08-08/07_0024s.jpg",
+     "media/klatki/plaza_2026-08-08/08_0028s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/01_0005s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/02_0016s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/03_0027s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/04_0038s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/05_0049s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0008/06_0060s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/01_0007s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/02_0021s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/03_0036s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/04_0051s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/05_0065s.jpg",
+     "media/klatki/rakieta_2025-10-19_WA0009/06_0080s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/01_0001s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/02_0004s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/03_0006s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/04_0009s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/05_0012s.jpg",
+     "media/klatki/rakieta_2025-10-19_start-z-daleka-pole/06_0014s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/01_0001s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/02_0003s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/03_0006s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/04_0009s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/05_0011s.jpg",
+     "media/klatki/rakieta_2025-10-19_w-locie-niebo/06_0014s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/01_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/02_0002s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/03_0003s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/04_0004s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/05_0006s.jpg",
+     "media/klatki/rakieta_2025-11-01_WA0009/06_0007s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/01_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/02_0000s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/03_0001s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/04_0001s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/05_0002s.jpg",
+     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/06_0002s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/01_0002s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/02_0008s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/03_0013s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/04_0018s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/05_0024s.jpg",
+     "media/klatki/rakieta_2025-11-29_WA0002/06_0029s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/01_0002s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/02_0006s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/03_0010s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/04_0014s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/05_0018s.jpg",
+     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/06_0022s.jpg",
+     "media/klatki/sala-3c_2025-05-25/01_0004s.jpg",
+     "media/klatki/sala-3c_2025-05-25/02_0014s.jpg",
+     "media/klatki/sala-3c_2025-05-25/03_0023s.jpg",
+     "media/klatki/sala-3c_2025-05-25/04_0033s.jpg",
+     "media/klatki/sala-3c_2025-05-25/05_0043s.jpg",
+     "media/klatki/sala-3c_2025-05-25/06_0052s.jpg",
+     "media/klatki/sala-3c_2025-05-25/07_0062s.jpg",
+     "media/klatki/sala-3c_2025-05-25/08_0071s.jpg",
+     "..."
+    ]
+   },
+   {
+    "dir": "media/miniatury",
+    "what": "Małe wersje zdjęć (480 px) do szybkiego podglądu.",
+    "count": 61,
+    "files": [
+     "media/miniatury/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
+     "media/miniatury/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
+     "media/miniatury/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",
+     "media/miniatury/galeria/IMG-20251126-WA00021_render-rakiety-the-orange-beauty-w-blenderze.jpg",
+     "media/miniatury/galeria/IMG-20251129-WA0001_the-orange-beauty-w-pelnej-okazalosci.jpg",
+     "media/miniatury/galeria/IMG_1458_clu-na-hamaku.jpg",
+     "media/miniatury/galeria/IMG_1997_rysio-na-desce-sup.jpg",
+     "media/miniatury/galeria/IMG_2110_motorowka-rysio.jpg",
+     "media/miniatury/galeria/IMG_2387_letni-odpoczynek.jpg",
+     "media/miniatury/galeria/IMG_2487_rysio-lubi-old-school.jpg",
+     "media/miniatury/galeria/IMG_2802_krowi-chlopiec.jpg",
+     "media/miniatury/galeria/IMG_2850_nad-woda.jpg",
+     "media/miniatury/galeria/IMG_2872_beethoven-jurek.jpg",
+     "media/miniatury/galeria/IMG_3054_rakieta-gzofajfus-classic-mk-iv-po-wielkim-sukce.jpg",
+     "media/miniatury/galeria/IMG_3663_malowanie-swiatlem.jpg",
+     "media/miniatury/galeria/IMG_3748_jurek-z-dropsikiem.jpg",
+     "media/miniatury/galeria/IMG_3765_modlitwa-przy-drzewie.jpg",
+     "media/miniatury/galeria/IMG_3771_letnia-lektura.jpg",
+     "media/miniatury/galeria/IMG_4288_kontemplujacy-beethoven.jpg",
+     "media/miniatury/galeria/IMG_4297_pilot-jan.jpg",
+     "media/miniatury/galeria/IMG_4299_dron-w-chmurach.jpg",
+     "media/miniatury/galeria/IMG_4503_ciezka-droga-do-stacji-moya.jpg",
+     "media/miniatury/galeria/IMG_6684_zimowy-obiad-jurka.jpg",
+     "media/miniatury/galeria/IMG_6746_zimowy-obiad-rysia.jpg",
+     "media/miniatury/galeria/IMG_7131_czytanie-w-domu.jpg",
+     "media/miniatury/galeria/IMG_7545_razem-o-zachodzie.jpg",
+     "media/miniatury/galeria/IMG_7546_dziadkowie.jpg",
+     "media/miniatury/galeria/IMG_8094_strike-a-pose.jpg",
+     "media/miniatury/galeria/IMG_8205_wspolny-czas.jpg",
+     "media/miniatury/galeria/IMG_8213_zimowe-chodzenie-po-lodzie.jpg",
+     "media/miniatury/galeria/IMG_8221_klucz-ptakow.jpg",
+     "media/miniatury/galeria/IMG_8933_luna.jpg",
+     "media/miniatury/galeria/IMG_9191_praca-nad-tarasem.jpg",
+     "media/miniatury/galeria/IMG_9197_slonce-nad-polem.jpg",
+     "media/miniatury/plaza/IMG_1139.jpg",
+     "media/miniatury/plaza/IMG_1140.jpg",
+     "media/miniatury/plaza/IMG_1141.jpg",
+     "media/miniatury/plaza/IMG_1142.jpg",
+     "media/miniatury/plaza/IMG_1143.jpg",
+     "media/miniatury/plaza/IMG_1144.jpg",
+     "media/miniatury/plaza/IMG_1145.jpg",
+     "media/miniatury/plaza/IMG_1146.jpg",
+     "media/miniatury/plaza/IMG_1147.jpg",
+     "media/miniatury/plaza/IMG_1148.jpg",
+     "media/miniatury/plaza/IMG_1149.jpg",
+     "media/miniatury/plaza/IMG_1150.jpg",
+     "media/miniatury/plaza/IMG_1151.jpg",
+     "media/miniatury/plaza/IMG_1152.jpg",
+     "media/miniatury/plaza/IMG_1153.jpg",
+     "media/miniatury/plaza/IMG_1154.jpg",
+     "media/miniatury/plaza/IMG_1155.jpg",
+     "media/miniatury/plaza/IMG_1156.jpg",
+     "media/miniatury/plaza/IMG_1157.jpg",
+     "media/miniatury/plaza/IMG_1158.jpg",
+     "media/miniatury/plaza/IMG_1159.jpg",
+     "media/miniatury/plaza/IMG_1160.jpg",
+     "media/miniatury/plaza/IMG_1161.jpg",
+     "media/miniatury/rakiety/IMG-20251018-WA0001.jpg",
+     "media/miniatury/rakiety/IMG-20251019-WA0002.jpg",
+     "media/miniatury/rakiety/IMG-20251019-WA0004.jpg",
+     "media/miniatury/rakiety/IMG-20251102-WA0000.jpg"
+    ]
+   }
+  ]
+ },
+ "gzowo_labs_projects": [
+  {
+   "name": "Apogee",
+   "category": "Web app",
+   "year": "2026",
+   "status": "live",
+   "url": "apogee.gzowo.fun",
+   "page": "https://gzowo.fun/p/apogee/",
+   "blurb": "A Mac browser that blocks every ad, cleans up YouTube and answers your questions on a drawn board."
+  },
+  {
+   "name": "Wire Choir",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "choir.gzowo.fun",
+   "page": "https://gzowo.fun/p/wire-choir/",
+   "blurb": "Type a line and glowing heads sing it, every tongue and jaw movement driven by a real model of the human throat."
+  },
+  {
+   "name": "Gzowo StarNet",
+   "category": "Web app",
+   "year": "2026",
+   "status": "live",
+   "url": "starnet.gzowo.fun",
+   "page": "https://gzowo.fun/p/starnet/",
+   "blurb": "Every project on this site hangs in one net. Pick what you like and everything that does not fit drops out."
+  },
+  {
+   "name": "Beam",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "beam.gzowo.fun",
+   "page": "https://gzowo.fun/p/beam/",
+   "blurb": "Projection mapping as a game: trace the frames and shelves on your wall, then run and jump across them in neon."
+  },
+  {
+   "name": "Odd Herd",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "odd-herd.gzowo.fun",
+   "page": "https://gzowo.fun/p/odd-herd/",
+   "blurb": "A pixel art co-op platformer for 1 to 4 players online: pick one of ten animals and get the whole herd through the door."
+  },
+  {
+   "name": "Ghostbusters",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "ghostbusters.gzowo.fun",
+   "page": "https://gzowo.fun/p/ghostbusters/",
+   "blurb": "Suit up at the Ecto-1 with up to three friends, blast a greedy ghost, wrangle it together and drag it into a trap."
+  },
+  {
+   "name": "Instalator",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "instalator.gzowo.fun",
+   "page": "https://gzowo.fun/p/instalator/",
+   "blurb": "Kit out real houses with real smart home gear: the TV shows a dollhouse, your phones are the tools."
+  },
+  {
+   "name": "Rybna Wyspa",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "rybna-wyspa.gzowo.fun",
+   "page": "https://gzowo.fun/p/rybna-wyspa/",
+   "blurb": "Build a fish farm with friends on a small island in the Narew: pumps, belts, flumes, machines and a riverside fish fry."
+  },
+  {
+   "name": "Stillvale",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "stillvale.gzowo.fun",
+   "page": "https://gzowo.fun/p/stillvale/",
+   "blurb": "A quiet walk through an alpine valley: tall grass, a still lake and birdsong. Keep an eye on the timer."
+  },
+  {
+   "name": "Robotea",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "robotea.gzowo.fun",
+   "page": "https://gzowo.fun/p/robotea/",
+   "blurb": "Your webcam turns your hands into a robot's hands: high-five another robot, or make finger guns and hit the range."
+  },
+  {
+   "name": "Ghostframe",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "ghostframe.gzowo.fun",
+   "page": "https://gzowo.fun/p/ghostframe/",
+   "blurb": "Pose see-through ghosts of Tesla Optimus around a stage and watch it walk and jump through every in-between frame."
+  },
+  {
+   "name": "Rug Rush",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "rugs.gzowo.fun",
+   "page": "https://gzowo.fun/p/rug-rush/",
+   "blurb": "Unload rug trucks, read the care labels and wash every rug in a co-op warehouse without ruining the silk."
+  },
+  {
+   "name": "Fabrics",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "fabrics.gzowo.fun",
+   "page": "https://gzowo.fun/p/fabrics/",
+   "blurb": "Pull curtains, fly flags, drape robes and scrunch rugs, then cut, burn, dye and blow on real-time cloth."
+  },
+  {
+   "name": "Roadster Jump",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "roadster-jump.gzowo.fun",
+   "page": "https://gzowo.fun/p/roadster-jump/",
+   "blurb": "Suction the Roadster up a giant curled ramp, hang from the ceiling, then kickflip off the lip on cold-gas jets."
+  },
+  {
+   "name": "Spillway",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "spillway.gzowo.fun",
+   "page": "https://gzowo.fun/p/spillway/",
+   "blurb": "Draw gutters with a limited marker and pump your colour of water into its cup, alone or with up to three friends online."
+  },
+  {
+   "name": "Mirage",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "mirage.gzowo.fun",
+   "page": "https://gzowo.fun/p/mirage/",
+   "blurb": "Put on smart glasses, call drones down from orbit and project a dragon, a whale or outer space over Venice."
+  },
+  {
+   "name": "Timeblock",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "timeblock.gzowo.fun",
+   "page": "https://gzowo.fun/p/timeblock/",
+   "blurb": "Drop in a video and it turns into a block of time cast in sanded resin, where every frame is a slice."
+  },
+  {
+   "name": "Speak & Groove",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "speak-groove.gzowo.fun",
+   "page": "https://gzowo.fun/p/speak-groove/",
+   "blurb": "Type a letter and a robot voice spells it through a big reverb, then a techno band joins in behind you."
+  },
+  {
+   "name": "Toot Tube",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "toot.gzowo.fun",
+   "page": "https://gzowo.fun/p/toot-tube/",
+   "blurb": "Up to three animals hang on to one inflatable ring and steer it down a spiky river the only way they can: by farting."
+  },
+  {
+   "name": "Cutlery",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "cutlery.gzowo.fun",
+   "page": "https://gzowo.fun/p/cutlery/",
+   "blurb": "Fork, Knife and Butter find their way back to the breakfast table, each one a tool the others need."
+  },
+  {
+   "name": "Kindling",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "kindling.gzowo.fun",
+   "page": "https://gzowo.fun/p/kindling/",
+   "blurb": "Stick monsters crawl out of a cornfield. Cut them apart with a laser, jump the iron wall and feed the fire."
+  },
+  {
+   "name": "Campfire",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "campfire.gzowo.fun",
+   "page": "https://gzowo.fun/p/campfire/",
+   "blurb": "Sit by a campfire in a dark forest: stack logs, stir the embers, toast a marshmallow or put it all out."
+  },
+  {
+   "name": "Cube Breakers",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "cubes.gzowo.fun",
+   "page": "https://gzowo.fun/p/cube-breakers/",
+   "blurb": "Shoot balls that bounce forever into a giant cube of blocks, together with everyone who is online."
+  },
+  {
+   "name": "Roadster 88",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "roadster.gzowo.fun",
+   "page": "https://gzowo.fun/p/roadster-88/",
+   "blurb": "Drive, boost and fly the 2026 Tesla Roadster on ten cold-gas thrusters, then hit 88 mph and jump through time."
+  },
+  {
+   "name": "Wolisz?!",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "wolisz.gzowo.fun",
+   "page": "https://gzowo.fun/p/wolisz/",
+   "blurb": "A 2D online sandbox where every would-you-rather question gives your avatar a power, and the powers pile up."
+  },
+  {
+   "name": "Make Your Own Game, I'm Lazy",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "make-your-own-game-im-lazy.gzowo.fun",
+   "page": "https://gzowo.fun/p/make-your-own-game/",
+   "blurb": "Draw a tree, a hero and a gun, say what game you want, and an AI writes it around your drawings."
+  },
+  {
+   "name": "Foamwalker",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "foamwalker.gzowo.fun",
+   "page": "https://gzowo.fun/p/foamwalker/",
+   "blurb": "A hunched purple alien with a human face crawls through a foam-block maze."
+  },
+  {
+   "name": "iPhone Duo",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "archive",
+   "url": "iphone-duo.gzowo.fun",
+   "page": "https://gzowo.fun/p/iphone-duo/",
+   "blurb": "A semi-realistic virtual clone of the iPhone Duo"
+  },
+  {
+   "name": "Wordshader",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "wordshader.gzowo.fun",
+   "page": "https://gzowo.fun/p/wordshader/",
+   "blurb": "Type a line of words and watch a glowing 3D blob and its soundtrack appear letter by letter, then export the loop as a video."
+  },
+  {
+   "name": "Timberline Express",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/timberline-express/",
+   "blurb": "Survive an endless mountain forest by turning a hand-pumped rail cart into a steam-powered, house-sized train."
+  },
+  {
+   "name": "Haystack Inc.",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/haystack-inc-coop/",
+   "blurb": "Somewhere in a stack of a million straws there is one needle. Dig by hand, then build the machines that dig for you."
+  },
+  {
+   "name": "Hello Miner",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "hello-miner.gzowo.fun",
+   "page": "https://gzowo.fun/p/hello-miner/",
+   "blurb": "Program mining drones in a tiny Python-like language and automate a floating quarry together with friends in real time."
+  },
+  {
+   "name": "Gzowo Glass",
+   "category": "Hardware",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/gzowo-glass/",
+   "blurb": "Home-built smart glasses with a see-through HUD and a voice assistant that talks back in Polish."
+  },
+  {
+   "name": "Squish",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "squish.gzowo.fun",
+   "page": "https://gzowo.fun/p/squish/",
+   "blurb": "A silent paper-white void full of squishies and fidget toys you can actually squeeze, crack and stretch."
+  },
+  {
+   "name": "Doodle Run",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "doodlerun.gzowo.fun",
+   "page": "https://gzowo.fun/p/doodlerun/",
+   "blurb": "A 2D runner where you draw every single thing in it first, then rig your scribbles so they walk, flap and chase you."
+  },
+  {
+   "name": "Smendilendi Bureau",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "https://bureau.gzowo.fun/",
+   "page": "https://gzowo.fun/p/smendilendi-bureau/",
+   "blurb": "Run a tiny architecture practice with your friends, draw the walls, take the client's notes, then walk the finished building thirty years later."
+  },
+  {
+   "name": "Mark Zero",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "https://markzero.gzowo.fun/",
+   "page": "https://gzowo.fun/p/mark-zero/",
+   "blurb": "Fly a powered armor suit at the speed of sound, six degrees of freedom, no rails, no limits."
+  },
+  {
+   "name": "Noclip",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://noclip.gzowo.fun/",
+   "page": "https://gzowo.fun/p/noclip/",
+   "blurb": "A found-footage Backrooms experience, you fall in, something tall follows, and the tape keeps rolling."
+  },
+  {
+   "name": "Voidworks",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://voidworks.gzowo.fun/",
+   "page": "https://gzowo.fun/p/voidworks/",
+   "blurb": "A factory hanging in white nothing. Droppers, belts, upgraders, and a hard cap on how much can be moving at once."
+  },
+  {
+   "name": "Ducks",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://ducks.gzowo.fun/",
+   "page": "https://gzowo.fun/p/ducks/",
+   "blurb": "Feed rubber ducks to a hungry pit, then build the machines that do it for you."
+  },
+  {
+   "name": "G-Doodle",
+   "category": "AI model",
+   "year": "2026",
+   "status": "live",
+   "url": "ai.gzowo.fun",
+   "page": "https://gzowo.fun/p/g-doodle/",
+   "blurb": "A transformer that draws. Type what you want in Polish and it sketches it stroke by stroke."
+  },
+  {
+   "name": "Hollowtree",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://hollowtree.gzowo.fun/",
+   "page": "https://gzowo.fun/p/hollowtree/",
+   "blurb": "One to three players, each of them a queen bee, sharing one hive inside a hollow tree."
+  },
+  {
+   "name": "Narew Labs",
+   "category": "Web app",
+   "year": "2026",
+   "status": "live",
+   "url": "https://g-micro-web.web.app/",
+   "page": "https://gzowo.fun/p/narew-labs/",
+   "blurb": "Chat with a language model trained from scratch, running on a MacBook, reached from anywhere."
+  },
+  {
+   "name": "SKI Together",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://ski.gzowo.fun/",
+   "page": "https://gzowo.fun/p/ski-together/",
+   "blurb": "A day at a ski resort for two to five people, on snow that remembers every turn you carved."
+  },
+  {
+   "name": "Smendiłendi",
+   "category": "Hardware",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/smendilendi/",
+   "blurb": "A printed robot dog on four servos and an ESP32, the first project here whose output is a physical object."
+  },
+  {
+   "name": "Gzowo Builders",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/gzowo-builders/",
+   "page": "https://gzowo.fun/p/gzowo-builders/",
+   "blurb": "Build a vehicle out of blocks, wheels and pistons, then drive it until something snaps off."
+  },
+  {
+   "name": "G-Mini",
+   "category": "AI model",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/g-mini/",
+   "blurb": "The second rung of the ladder: 178 million parameters, warm-started from G-Micro, trained in one week of free GPU time."
+  },
+  {
+   "name": "Gzowo TV",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/gzowo-tv/",
+   "blurb": "An Apple TV for the family plot, every streaming service in one launcher, on a Mac plugged into the television."
+  },
+  {
+   "name": "Airwave",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/airwave/",
+   "page": "https://gzowo.fun/p/airwave/",
+   "blurb": "An instrument you play with your hands in the air, in front of a webcam. No hardware."
+  },
+  {
+   "name": "Voxel Demolition",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/voxel-demolition/",
+   "blurb": "A destruction sandbox with twenty-five tools and co-op for four. Runs on a server at home."
+  },
+  {
+   "name": "G-Images",
+   "category": "AI model",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/g-images/",
+   "blurb": "A diffusion model for editing photos, trained from scratch, small enough to run on a laptop."
+  },
+  {
+   "name": "G-Micro",
+   "category": "AI model",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/g-micro/",
+   "blurb": "A 117-million-parameter language model in Polish, trained from scratch, tokenizer, corpus and training loop included."
+  },
+  {
+   "name": "MJJ Archives",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/mjj-archives/",
+   "page": "https://gzowo.fun/p/mjj-archives/",
+   "blurb": "Watch Billie Jean at Motown 25 rebuilt in 3D, together, with the television cuts replayed shot for shot."
+  },
+  {
+   "name": "Untitled Civ Game",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/untitled-civ-game/",
+   "blurb": "One to three gods share a single city and take down a rival built by the machine."
+  },
+  {
+   "name": "Gargantua",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/Gargantua/",
+   "page": "https://gzowo.fun/p/gargantua/",
+   "blurb": "Co-op zero-gravity spacewalk next to a black hole. Push off carefully; there is no brake."
+  },
+  {
+   "name": "Cruise Control",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/cruise-control/",
+   "page": "https://gzowo.fun/p/cruise-control/",
+   "blurb": "A precision driving game with retro pixel post-processing, moving hazards and a shop."
+  },
+  {
+   "name": "Untitled Pogo Game",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://untitled-pogo-game.web.app/",
+   "page": "https://gzowo.fun/p/untitled-pogo-game/",
+   "blurb": "Fifteen levels of pogo-stick parkour, playable together, installable as an app."
+  },
+  {
+   "name": "Backrooms",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/backrooms-labirynth/",
+   "page": "https://gzowo.fun/p/backrooms/",
+   "blurb": "Yellow rooms, buzzing lights, and a maze that does not care whether you get out."
+  },
+  {
+   "name": "Gzowo AI",
+   "category": "Web app",
+   "year": "2026",
+   "status": "live",
+   "url": "https://gzowoai.gzowo.fun/",
+   "page": "https://gzowo.fun/p/gzowo-ai/",
+   "blurb": "A voice assistant for the house in Gzowo, speak to it in Polish and it answers in real time."
+  },
+  {
+   "name": "GSP Brand Kit",
+   "category": "Experiment",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/gsp-brand-kit/",
+   "blurb": "The visual identity behind GSP, logo, colours and type, in one page you can download from."
+  },
+  {
+   "name": "Gzowo Bowling",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/gzowo-bowling/",
+   "page": "https://gzowo.fun/p/gzowo-bowling/",
+   "blurb": "Bowling on a laptop, thrown with a phone. Scan the code and your phone becomes the ball."
+  },
+  {
+   "name": "Modular",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://jerzysukiennik.github.io/modular/",
+   "page": "https://gzowo.fun/p/modular/",
+   "blurb": "Drop sixteen kinds of building on a plot and watch a town assemble itself around them."
+  },
+  {
+   "name": "Galeria Gzowo",
+   "category": "Web app",
+   "year": "2026",
+   "status": "live",
+   "url": "https://galeria-gzowo.netlify.app/",
+   "page": "https://gzowo.fun/p/galeria-gzowo/",
+   "blurb": "A gallery for the place the rest of this site is named after."
+  },
+  {
+   "name": "Narew",
+   "category": "Game",
+   "year": "2026",
+   "status": "live",
+   "url": "https://rysiosukiennik.github.io/backrooms-game/narew.html",
+   "page": "https://gzowo.fun/p/narew/",
+   "blurb": "One real property by the Narew: paddle it, dig it, ride a jet ski through it, or watch TV indoors."
+  },
+  {
+   "name": "Spider-Man: New York",
+   "category": "Game",
+   "year": "2026",
+   "status": "building",
+   "url": "",
+   "page": "https://gzowo.fun/p/spider-man-new-york/",
+   "blurb": null
+  }
+ ]
+}

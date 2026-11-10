@@ -1,0 +1,138 @@
+[
+ {
+  "id": "grad",
+  "title": "Burza z gradem",
+  "what": "Kiedyś nad Gzowem przeszła burza z gradem wielkości małych kostek lodu. Był wtedy w Gzowie Janek Kunstler.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "porwanie-dropsika",
+  "title": "Porwanie Dropsika",
+  "what": "Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "sklad-bomb",
+  "title": "Skład pod skarpą",
+  "what": "Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "id": "niewypaly",
+  "title": "Niewypały i saperzy",
+  "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "helikopter",
+  "title": "Helikopter nad Gzowem",
+  "what": "Szamborski czasem przylatuje do Gzowa helikopterem.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "wycinka",
+  "title": "Wycinka Majora",
+  "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "osrodek-fso",
+  "title": "Dziesięć domków FSO",
+  "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "orange-beauty",
+  "title": "Lot The Orange Beauty",
+  "what": "Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył.",
+  "source": [
+   "gzowo.fun",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "mk2",
+  "title": "Pierwszy spadochron",
+  "what": "Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026).",
+  "source": [
+   "gzowo.fun"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "mk4",
+  "title": "Mk IV po wielkim sukcesie",
+  "what": "Zdjęcie: rakieta Gzofajfus Classic Mk IV leży na trawie po locie, obok niebieski spadochron.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "beatlesi",
+  "title": "Okładka Beatlesów",
+  "what": "Zielona rakieta taty stoi sama na środku szutrowej drogi pod wielkim niebem: \"Idealna okładka dla nowego albumu Beatlesów\".",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "moya-na-przelaj",
+  "title": "Ciężka droga do stacji Moya",
+  "what": "Rysio z Ignacym przedzierają się przez trawy wyższe od nich, żeby dojść do stacji.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "zimowy-obiad",
+  "title": "Zimowy obiad",
+  "what": "Jurek i Rysio jedzą tafle lodu wyłamane z Narwi.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "malowanie-swiatlem",
+  "title": "Malowanie światłem",
+  "what": "Tata rysuje w powietrzu świetlisty łuk przy ognisku, zdjęcie na długim czasie.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "wielki-obraz",
+  "title": "Wielki obraz przed domkiem",
+  "what": "Maj 2025: ktoś w zielonej bluzie maluje na ziemi ogromne kolorowe płótno szczotką na kiju. Nie wiadomo jeszcze kto i po co.",
+  "source": [
+   "obserwacja"
+  ],
+  "confidence": "prawdopodobne"
+ }
+]

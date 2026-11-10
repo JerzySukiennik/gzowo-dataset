@@ -1,0 +1,587 @@
+[
+ {
+  "name": "Apogee",
+  "category": "Web app",
+  "year": "2026",
+  "status": "live",
+  "url": "apogee.gzowo.fun",
+  "page": "https://gzowo.fun/p/apogee/",
+  "blurb": "A Mac browser that blocks every ad, cleans up YouTube and answers your questions on a drawn board."
+ },
+ {
+  "name": "Wire Choir",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "choir.gzowo.fun",
+  "page": "https://gzowo.fun/p/wire-choir/",
+  "blurb": "Type a line and glowing heads sing it, every tongue and jaw movement driven by a real model of the human throat."
+ },
+ {
+  "name": "Gzowo StarNet",
+  "category": "Web app",
+  "year": "2026",
+  "status": "live",
+  "url": "starnet.gzowo.fun",
+  "page": "https://gzowo.fun/p/starnet/",
+  "blurb": "Every project on this site hangs in one net. Pick what you like and everything that does not fit drops out."
+ },
+ {
+  "name": "Beam",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "beam.gzowo.fun",
+  "page": "https://gzowo.fun/p/beam/",
+  "blurb": "Projection mapping as a game: trace the frames and shelves on your wall, then run and jump across them in neon."
+ },
+ {
+  "name": "Odd Herd",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "odd-herd.gzowo.fun",
+  "page": "https://gzowo.fun/p/odd-herd/",
+  "blurb": "A pixel art co-op platformer for 1 to 4 players online: pick one of ten animals and get the whole herd through the door."
+ },
+ {
+  "name": "Ghostbusters",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "ghostbusters.gzowo.fun",
+  "page": "https://gzowo.fun/p/ghostbusters/",
+  "blurb": "Suit up at the Ecto-1 with up to three friends, blast a greedy ghost, wrangle it together and drag it into a trap."
+ },
+ {
+  "name": "Instalator",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "instalator.gzowo.fun",
+  "page": "https://gzowo.fun/p/instalator/",
+  "blurb": "Kit out real houses with real smart home gear: the TV shows a dollhouse, your phones are the tools."
+ },
+ {
+  "name": "Rybna Wyspa",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "rybna-wyspa.gzowo.fun",
+  "page": "https://gzowo.fun/p/rybna-wyspa/",
+  "blurb": "Build a fish farm with friends on a small island in the Narew: pumps, belts, flumes, machines and a riverside fish fry."
+ },
+ {
+  "name": "Stillvale",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "stillvale.gzowo.fun",
+  "page": "https://gzowo.fun/p/stillvale/",
+  "blurb": "A quiet walk through an alpine valley: tall grass, a still lake and birdsong. Keep an eye on the timer."
+ },
+ {
+  "name": "Robotea",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "robotea.gzowo.fun",
+  "page": "https://gzowo.fun/p/robotea/",
+  "blurb": "Your webcam turns your hands into a robot's hands: high-five another robot, or make finger guns and hit the range."
+ },
+ {
+  "name": "Ghostframe",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "ghostframe.gzowo.fun",
+  "page": "https://gzowo.fun/p/ghostframe/",
+  "blurb": "Pose see-through ghosts of Tesla Optimus around a stage and watch it walk and jump through every in-between frame."
+ },
+ {
+  "name": "Rug Rush",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "rugs.gzowo.fun",
+  "page": "https://gzowo.fun/p/rug-rush/",
+  "blurb": "Unload rug trucks, read the care labels and wash every rug in a co-op warehouse without ruining the silk."
+ },
+ {
+  "name": "Fabrics",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "fabrics.gzowo.fun",
+  "page": "https://gzowo.fun/p/fabrics/",
+  "blurb": "Pull curtains, fly flags, drape robes and scrunch rugs, then cut, burn, dye and blow on real-time cloth."
+ },
+ {
+  "name": "Roadster Jump",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "roadster-jump.gzowo.fun",
+  "page": "https://gzowo.fun/p/roadster-jump/",
+  "blurb": "Suction the Roadster up a giant curled ramp, hang from the ceiling, then kickflip off the lip on cold-gas jets."
+ },
+ {
+  "name": "Spillway",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "spillway.gzowo.fun",
+  "page": "https://gzowo.fun/p/spillway/",
+  "blurb": "Draw gutters with a limited marker and pump your colour of water into its cup, alone or with up to three friends online."
+ },
+ {
+  "name": "Mirage",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "mirage.gzowo.fun",
+  "page": "https://gzowo.fun/p/mirage/",
+  "blurb": "Put on smart glasses, call drones down from orbit and project a dragon, a whale or outer space over Venice."
+ },
+ {
+  "name": "Timeblock",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "timeblock.gzowo.fun",
+  "page": "https://gzowo.fun/p/timeblock/",
+  "blurb": "Drop in a video and it turns into a block of time cast in sanded resin, where every frame is a slice."
+ },
+ {
+  "name": "Speak & Groove",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "speak-groove.gzowo.fun",
+  "page": "https://gzowo.fun/p/speak-groove/",
+  "blurb": "Type a letter and a robot voice spells it through a big reverb, then a techno band joins in behind you."
+ },
+ {
+  "name": "Toot Tube",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "toot.gzowo.fun",
+  "page": "https://gzowo.fun/p/toot-tube/",
+  "blurb": "Up to three animals hang on to one inflatable ring and steer it down a spiky river the only way they can: by farting."
+ },
+ {
+  "name": "Cutlery",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "cutlery.gzowo.fun",
+  "page": "https://gzowo.fun/p/cutlery/",
+  "blurb": "Fork, Knife and Butter find their way back to the breakfast table, each one a tool the others need."
+ },
+ {
+  "name": "Kindling",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "kindling.gzowo.fun",
+  "page": "https://gzowo.fun/p/kindling/",
+  "blurb": "Stick monsters crawl out of a cornfield. Cut them apart with a laser, jump the iron wall and feed the fire."
+ },
+ {
+  "name": "Campfire",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "campfire.gzowo.fun",
+  "page": "https://gzowo.fun/p/campfire/",
+  "blurb": "Sit by a campfire in a dark forest: stack logs, stir the embers, toast a marshmallow or put it all out."
+ },
+ {
+  "name": "Cube Breakers",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "cubes.gzowo.fun",
+  "page": "https://gzowo.fun/p/cube-breakers/",
+  "blurb": "Shoot balls that bounce forever into a giant cube of blocks, together with everyone who is online."
+ },
+ {
+  "name": "Roadster 88",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "roadster.gzowo.fun",
+  "page": "https://gzowo.fun/p/roadster-88/",
+  "blurb": "Drive, boost and fly the 2026 Tesla Roadster on ten cold-gas thrusters, then hit 88 mph and jump through time."
+ },
+ {
+  "name": "Wolisz?!",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "wolisz.gzowo.fun",
+  "page": "https://gzowo.fun/p/wolisz/",
+  "blurb": "A 2D online sandbox where every would-you-rather question gives your avatar a power, and the powers pile up."
+ },
+ {
+  "name": "Make Your Own Game, I'm Lazy",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "make-your-own-game-im-lazy.gzowo.fun",
+  "page": "https://gzowo.fun/p/make-your-own-game/",
+  "blurb": "Draw a tree, a hero and a gun, say what game you want, and an AI writes it around your drawings."
+ },
+ {
+  "name": "Foamwalker",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "foamwalker.gzowo.fun",
+  "page": "https://gzowo.fun/p/foamwalker/",
+  "blurb": "A hunched purple alien with a human face crawls through a foam-block maze."
+ },
+ {
+  "name": "iPhone Duo",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "archive",
+  "url": "iphone-duo.gzowo.fun",
+  "page": "https://gzowo.fun/p/iphone-duo/",
+  "blurb": "A semi-realistic virtual clone of the iPhone Duo"
+ },
+ {
+  "name": "Wordshader",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "wordshader.gzowo.fun",
+  "page": "https://gzowo.fun/p/wordshader/",
+  "blurb": "Type a line of words and watch a glowing 3D blob and its soundtrack appear letter by letter, then export the loop as a video."
+ },
+ {
+  "name": "Timberline Express",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/timberline-express/",
+  "blurb": "Survive an endless mountain forest by turning a hand-pumped rail cart into a steam-powered, house-sized train."
+ },
+ {
+  "name": "Haystack Inc.",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/haystack-inc-coop/",
+  "blurb": "Somewhere in a stack of a million straws there is one needle. Dig by hand, then build the machines that dig for you."
+ },
+ {
+  "name": "Hello Miner",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "hello-miner.gzowo.fun",
+  "page": "https://gzowo.fun/p/hello-miner/",
+  "blurb": "Program mining drones in a tiny Python-like language and automate a floating quarry together with friends in real time."
+ },
+ {
+  "name": "Gzowo Glass",
+  "category": "Hardware",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/gzowo-glass/",
+  "blurb": "Home-built smart glasses with a see-through HUD and a voice assistant that talks back in Polish."
+ },
+ {
+  "name": "Squish",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "squish.gzowo.fun",
+  "page": "https://gzowo.fun/p/squish/",
+  "blurb": "A silent paper-white void full of squishies and fidget toys you can actually squeeze, crack and stretch."
+ },
+ {
+  "name": "Doodle Run",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "doodlerun.gzowo.fun",
+  "page": "https://gzowo.fun/p/doodlerun/",
+  "blurb": "A 2D runner where you draw every single thing in it first, then rig your scribbles so they walk, flap and chase you."
+ },
+ {
+  "name": "Smendilendi Bureau",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "https://bureau.gzowo.fun/",
+  "page": "https://gzowo.fun/p/smendilendi-bureau/",
+  "blurb": "Run a tiny architecture practice with your friends, draw the walls, take the client's notes, then walk the finished building thirty years later."
+ },
+ {
+  "name": "Mark Zero",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "https://markzero.gzowo.fun/",
+  "page": "https://gzowo.fun/p/mark-zero/",
+  "blurb": "Fly a powered armor suit at the speed of sound, six degrees of freedom, no rails, no limits."
+ },
+ {
+  "name": "Noclip",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://noclip.gzowo.fun/",
+  "page": "https://gzowo.fun/p/noclip/",
+  "blurb": "A found-footage Backrooms experience, you fall in, something tall follows, and the tape keeps rolling."
+ },
+ {
+  "name": "Voidworks",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://voidworks.gzowo.fun/",
+  "page": "https://gzowo.fun/p/voidworks/",
+  "blurb": "A factory hanging in white nothing. Droppers, belts, upgraders, and a hard cap on how much can be moving at once."
+ },
+ {
+  "name": "Ducks",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://ducks.gzowo.fun/",
+  "page": "https://gzowo.fun/p/ducks/",
+  "blurb": "Feed rubber ducks to a hungry pit, then build the machines that do it for you."
+ },
+ {
+  "name": "G-Doodle",
+  "category": "AI model",
+  "year": "2026",
+  "status": "live",
+  "url": "ai.gzowo.fun",
+  "page": "https://gzowo.fun/p/g-doodle/",
+  "blurb": "A transformer that draws. Type what you want in Polish and it sketches it stroke by stroke."
+ },
+ {
+  "name": "Hollowtree",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://hollowtree.gzowo.fun/",
+  "page": "https://gzowo.fun/p/hollowtree/",
+  "blurb": "One to three players, each of them a queen bee, sharing one hive inside a hollow tree."
+ },
+ {
+  "name": "Narew Labs",
+  "category": "Web app",
+  "year": "2026",
+  "status": "live",
+  "url": "https://g-micro-web.web.app/",
+  "page": "https://gzowo.fun/p/narew-labs/",
+  "blurb": "Chat with a language model trained from scratch, running on a MacBook, reached from anywhere."
+ },
+ {
+  "name": "SKI Together",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://ski.gzowo.fun/",
+  "page": "https://gzowo.fun/p/ski-together/",
+  "blurb": "A day at a ski resort for two to five people, on snow that remembers every turn you carved."
+ },
+ {
+  "name": "Smendiłendi",
+  "category": "Hardware",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/smendilendi/",
+  "blurb": "A printed robot dog on four servos and an ESP32, the first project here whose output is a physical object."
+ },
+ {
+  "name": "Gzowo Builders",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/gzowo-builders/",
+  "page": "https://gzowo.fun/p/gzowo-builders/",
+  "blurb": "Build a vehicle out of blocks, wheels and pistons, then drive it until something snaps off."
+ },
+ {
+  "name": "G-Mini",
+  "category": "AI model",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/g-mini/",
+  "blurb": "The second rung of the ladder: 178 million parameters, warm-started from G-Micro, trained in one week of free GPU time."
+ },
+ {
+  "name": "Gzowo TV",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/gzowo-tv/",
+  "blurb": "An Apple TV for the family plot, every streaming service in one launcher, on a Mac plugged into the television."
+ },
+ {
+  "name": "Airwave",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/airwave/",
+  "page": "https://gzowo.fun/p/airwave/",
+  "blurb": "An instrument you play with your hands in the air, in front of a webcam. No hardware."
+ },
+ {
+  "name": "Voxel Demolition",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/voxel-demolition/",
+  "blurb": "A destruction sandbox with twenty-five tools and co-op for four. Runs on a server at home."
+ },
+ {
+  "name": "G-Images",
+  "category": "AI model",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/g-images/",
+  "blurb": "A diffusion model for editing photos, trained from scratch, small enough to run on a laptop."
+ },
+ {
+  "name": "G-Micro",
+  "category": "AI model",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/g-micro/",
+  "blurb": "A 117-million-parameter language model in Polish, trained from scratch, tokenizer, corpus and training loop included."
+ },
+ {
+  "name": "MJJ Archives",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/mjj-archives/",
+  "page": "https://gzowo.fun/p/mjj-archives/",
+  "blurb": "Watch Billie Jean at Motown 25 rebuilt in 3D, together, with the television cuts replayed shot for shot."
+ },
+ {
+  "name": "Untitled Civ Game",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/untitled-civ-game/",
+  "blurb": "One to three gods share a single city and take down a rival built by the machine."
+ },
+ {
+  "name": "Gargantua",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/Gargantua/",
+  "page": "https://gzowo.fun/p/gargantua/",
+  "blurb": "Co-op zero-gravity spacewalk next to a black hole. Push off carefully; there is no brake."
+ },
+ {
+  "name": "Cruise Control",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/cruise-control/",
+  "page": "https://gzowo.fun/p/cruise-control/",
+  "blurb": "A precision driving game with retro pixel post-processing, moving hazards and a shop."
+ },
+ {
+  "name": "Untitled Pogo Game",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://untitled-pogo-game.web.app/",
+  "page": "https://gzowo.fun/p/untitled-pogo-game/",
+  "blurb": "Fifteen levels of pogo-stick parkour, playable together, installable as an app."
+ },
+ {
+  "name": "Backrooms",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/backrooms-labirynth/",
+  "page": "https://gzowo.fun/p/backrooms/",
+  "blurb": "Yellow rooms, buzzing lights, and a maze that does not care whether you get out."
+ },
+ {
+  "name": "Gzowo AI",
+  "category": "Web app",
+  "year": "2026",
+  "status": "live",
+  "url": "https://gzowoai.gzowo.fun/",
+  "page": "https://gzowo.fun/p/gzowo-ai/",
+  "blurb": "A voice assistant for the house in Gzowo, speak to it in Polish and it answers in real time."
+ },
+ {
+  "name": "GSP Brand Kit",
+  "category": "Experiment",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/gsp-brand-kit/",
+  "blurb": "The visual identity behind GSP, logo, colours and type, in one page you can download from."
+ },
+ {
+  "name": "Gzowo Bowling",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/gzowo-bowling/",
+  "page": "https://gzowo.fun/p/gzowo-bowling/",
+  "blurb": "Bowling on a laptop, thrown with a phone. Scan the code and your phone becomes the ball."
+ },
+ {
+  "name": "Modular",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://jerzysukiennik.github.io/modular/",
+  "page": "https://gzowo.fun/p/modular/",
+  "blurb": "Drop sixteen kinds of building on a plot and watch a town assemble itself around them."
+ },
+ {
+  "name": "Galeria Gzowo",
+  "category": "Web app",
+  "year": "2026",
+  "status": "live",
+  "url": "https://galeria-gzowo.netlify.app/",
+  "page": "https://gzowo.fun/p/galeria-gzowo/",
+  "blurb": "A gallery for the place the rest of this site is named after."
+ },
+ {
+  "name": "Narew",
+  "category": "Game",
+  "year": "2026",
+  "status": "live",
+  "url": "https://rysiosukiennik.github.io/backrooms-game/narew.html",
+  "page": "https://gzowo.fun/p/narew/",
+  "blurb": "One real property by the Narew: paddle it, dig it, ride a jet ski through it, or watch TV indoors."
+ },
+ {
+  "name": "Spider-Man: New York",
+  "category": "Game",
+  "year": "2026",
+  "status": "building",
+  "url": "",
+  "page": "https://gzowo.fun/p/spider-man-new-york/",
+  "blurb": null
+ }
+]

@@ -1,7 +1,7 @@
 {
  "meta": {
   "name": "Gzowo Dataset",
-  "version": "1.2",
+  "version": "1.3",
   "updated": "2026-11-11",
   "language": "pl",
   "site": "https://dataset.gzowo.fun",
@@ -382,11 +382,10 @@
    "name": "Jan Sukiennik",
    "aliases": [
     "Tata",
-    "KS",
     "Kierownik Ośrodka"
    ],
    "group": "rodzina",
-   "role": "Tata. Zabawowo i śmiesznie: KS, czyli Kierownik Ośrodka (bo działka to dawny ośrodek).",
+   "role": "Tata. Zabawowo i śmiesznie: Kierownik Ośrodka (bo działka to dawny ośrodek).",
    "facts": [
     "Jego złota myśl i zasada nr 1: \"Ośrodek daje, Ośrodek daje\" (od \"Bóg daje, Bóg zabiera\").",
     "Jak mówi i jaki jest (wg Jurka): siup do przodu, nie uważa, wyluzowany, kocha lustra, wizjoner, prosty, elegancki.",
@@ -399,7 +398,7 @@
     "Jest ilustracja \"Jan Sukiennik z kozą nad Narwią\": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie."
    ],
    "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
-   "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
+   "in_games": "W Ośrodek Daje jest Kierownikiem Ośrodka w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
    "source": [
     "jurek-2026-11-10",
     "notatki",
@@ -1193,7 +1192,7 @@
    "name": "Białe futro i buty z krokodyla",
    "ours": true,
    "facts": [
-    "Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."
+    "Strój taty, Kierownika Ośrodka. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."
    ],
    "source": [
     "notatki",
@@ -1333,7 +1332,7 @@
  "sayings": [
   {
    "text": "Ośrodek daje, Ośrodek daje.",
-   "who": "KS (tata)",
+   "who": "Jan Sukiennik (tata)",
    "note": "Zasada nr 1, od \"Bóg daje, Bóg zabiera\". Od niej nazwa gry Ośrodek Daje.",
    "source": [
     "notatki"
@@ -1419,8 +1418,8 @@
    "meaning": "Działka Gzowo 34, bo to dawny ośrodek FSO (wędkarski i wypoczynkowy)."
   },
   {
-   "word": "KS",
-   "meaning": "Kierownik Ośrodka, czyli tata."
+   "word": "Kierownik Ośrodka",
+   "meaning": "Tata, Jan Sukiennik. Tak zabawowo, bo działka to dawny ośrodek."
   },
   {
    "word": "Gzowiański",
@@ -1843,7 +1842,7 @@
    "name": "Ośrodek Daje",
    "author": "Jurek",
    "url": "https://osrodek-daje.gzowo.fun",
-   "what": "Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: KS, Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost."
+   "what": "Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: Kierownik Ośrodka (tata), Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost."
   },
   {
    "name": "Rybna Wyspa",
@@ -1903,7 +1902,7 @@
   "characters": [
    "Jurek (konstruktor rakiet)",
    "Rysio (czerwona bluza Spider-Man)",
-   "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)",
+   "Jan, Kierownik Ośrodka (białe futro, buty z krokodyla)",
    "Zofia (Mama)",
    "Waldek (operator koparki, przyjaciel)",
    "Bożena",
@@ -1990,11 +1989,11 @@
     "a": "Dziesięć, zostały trzy."
    },
    {
-    "q": "Co znaczy KS?",
-    "a": "Kierownik Ośrodka, czyli tata."
+    "q": "Kto jest Kierownikiem Ośrodka?",
+    "a": "Tata, Jan Sukiennik."
    },
    {
-    "q": "Jak brzmi zasada nr 1 KS-a?",
+    "q": "Jak brzmi zasada nr 1 Kierownika Ośrodka?",
     "a": "Ośrodek daje, Ośrodek daje."
    },
    {
@@ -4463,15 +4462,15 @@
    },
    {
     "dir": "media/postacie/osrodek-daje",
-    "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: KS (tata) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.",
+    "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: tata (Kierownik Ośrodka) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.",
     "count": 6,
     "files": [
      "media/postacie/osrodek-daje/characters-front.png",
-     "media/postacie/osrodek-daje/ks-closeup.png",
      "media/postacie/osrodek-daje/portrait-dropsik.png",
      "media/postacie/osrodek-daje/portrait-jurek.png",
-     "media/postacie/osrodek-daje/portrait-ks.png",
-     "media/postacie/osrodek-daje/portrait-rys.png"
+     "media/postacie/osrodek-daje/portrait-rys.png",
+     "media/postacie/osrodek-daje/portrait-tata.png",
+     "media/postacie/osrodek-daje/tata-closeup.png"
     ]
    },
    {

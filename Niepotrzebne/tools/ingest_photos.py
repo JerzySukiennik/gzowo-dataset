@@ -136,13 +136,13 @@ if os.path.exists(ap):
     result['map'].append({'file': 'media/mapa-pikselowa/_cala-mapa.webp', 'bytes': os.path.getsize(d)})
 
 rend = os.path.join(PROJ, 'Osrodek-Daje/Niepotrzebne/blender/renders')
-for f in ('portrait-ks.png', 'portrait-jurek.png', 'portrait-rys.png', 'portrait-dropsik.png', 'characters-front.png', 'ks-closeup.png'):
+for f, name in (('portrait-ks.png', 'portrait-tata.png'), ('portrait-jurek.png', 'portrait-jurek.png'), ('portrait-rys.png', 'portrait-rys.png'), ('portrait-dropsik.png', 'portrait-dropsik.png'), ('characters-front.png', 'characters-front.png'), ('ks-closeup.png', 'tata-closeup.png')):
     s = os.path.join(rend, f)
     if os.path.exists(s):
-        d = os.path.join(MEDIA, 'postacie/osrodek-daje', f)
+        d = os.path.join(MEDIA, 'postacie/osrodek-daje', name)
         os.makedirs(os.path.dirname(d), exist_ok=True)
         shutil.copy2(s, d)
-        result['characters'].append({'file': 'media/postacie/osrodek-daje/' + f, 'bytes': os.path.getsize(d)})
+        result['characters'].append({'file': 'media/postacie/osrodek-daje/' + name, 'bytes': os.path.getsize(d)})
 s = os.path.join(PROJ, 'Narew-Mascot/renders/narek_hero.png')
 if os.path.exists(s):
     d = os.path.join(MEDIA, 'postacie/narek/narek_hero.png')

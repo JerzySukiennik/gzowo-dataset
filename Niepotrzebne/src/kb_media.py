@@ -125,7 +125,7 @@ VIDEOS = [
 EXTRA = [
     {"dir": "media/geo", "what": "Geodane okolicy: ortofotomapa kwadratu 1 x 1 km (północ u góry, środek 52.612456 N, 21.112375 E, Gzowo 34 leży 245 m na wschód i 39 m na północ od środka), zbliżenie na działkę z żółtym kółkiem, rzeźba terenu, mapa pokrycia terenu i szerszy widok okolicy."},
     {"dir": "media/mapa-pikselowa", "what": "Pikselowe sprite'y z mapy działki na gzowo.fun: arcade, warsztat, lab, wyrzutnia, rakieta, hangar, pomost, skrzynka, znak, sosny, chmury, mewa, woda i inne. Plik _cala-mapa.webp pokazuje złożoną mapę."},
-    {"dir": "media/postacie/osrodek-daje", "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: KS (tata) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków."},
+    {"dir": "media/postacie/osrodek-daje", "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: tata (Kierownik Ośrodka) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków."},
     {"dir": "media/postacie/narek", "what": "Render maskotki Narek."},
     {"dir": "media/brand/gzowo-labs", "what": "Pełny kit logo Gzowo Labs (Wschód): SVG i PNG we wszystkich układach i kolorach, favicony, naklejki na rakiety, awatary, animacje MP4 oraz płonący GIF i grafika og ze strony."},
     {"dir": "media/brand/gsp", "what": "Kit Gzowo Space Program: logo PNG, gify, zakończenia filmów, awatary."},

@@ -311,7 +311,7 @@ body = ''
 for g, label in (('rodzina', 'Rodzina'), ('przyjaciele', 'Przyjaciele i goście'), ('okolica', 'Okolica')):
     body += f'<h4>{label}</h4><div class="g">' + ''.join(card(p['name'], p['role'], ul(p.get('facts', [])) + (f'<p class="s"><b>Wygląd:</b> {E(p["looks"])}</p>' if p.get('looks') else '') + (f'<p class="s"><b>W grach:</b> {E(p["in_games"])}</p>' if p.get('in_games') else ''), p) for p in F.PEOPLE if p['group'] == g) + '</div>'
 body += '<h4>Postacie zmyślone</h4><div class="g">' + ''.join(card(x['name'], x['from'], f'<p>{E(x["what"])}</p>') for x in F.FICTIONAL) + '</div>'
-body += '<a class="wide" href="media/postacie/osrodek-daje/characters-front.png" target="_blank" rel="noopener"><img src="media/postacie/osrodek-daje/characters-front.png" alt="KS, Jurek, Ryś i Dropsik jako postacie low-poly z gry Ośrodek Daje" loading="lazy" width="1280" height="800"></a><p class="s">KS, Jurek, Ryś i Dropsik w wersji z gry Ośrodek Daje.</p>'
+body += '<a class="wide" href="media/postacie/osrodek-daje/characters-front.png" target="_blank" rel="noopener"><img src="media/postacie/osrodek-daje/characters-front.png" alt="Tata, Jurek, Ryś i Dropsik jako postacie low-poly z gry Ośrodek Daje" loading="lazy" width="1280" height="800"></a><p class="s">Tata, Jurek, Ryś i Dropsik w wersji z gry Ośrodek Daje.</p>'
 S.append(sec('ludzie', 'Ludzie', body))
 
 S.append(sec('zwierzeta', 'Zwierzęta', '<div class="g">' + ''.join(card(a['name'], f"{a['kind']}, {a['status']}", ul(a.get('facts', [])) + (f'<p class="s"><b>W grach:</b> {E(a["in_games"])}</p>' if a.get('in_games') else ''), a) for a in F.ANIMALS) + '</div>'))

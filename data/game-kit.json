@@ -25,7 +25,7 @@
  "characters": [
   "Jurek (konstruktor rakiet)",
   "Rysio (czerwona bluza Spider-Man)",
-  "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)",
+  "Jan, Kierownik Ośrodka (białe futro, buty z krokodyla)",
   "Zofia (Mama)",
   "Waldek (operator koparki, przyjaciel)",
   "Bożena",
@@ -112,11 +112,11 @@
    "a": "Dziesięć, zostały trzy."
   },
   {
-   "q": "Co znaczy KS?",
-   "a": "Kierownik Ośrodka, czyli tata."
+   "q": "Kto jest Kierownikiem Ośrodka?",
+   "a": "Tata, Jan Sukiennik."
   },
   {
-   "q": "Jak brzmi zasada nr 1 KS-a?",
+   "q": "Jak brzmi zasada nr 1 Kierownika Ośrodka?",
    "a": "Ośrodek daje, Ośrodek daje."
   },
   {

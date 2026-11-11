@@ -2387,15 +2387,15 @@
   },
   {
    "dir": "media/postacie/osrodek-daje",
-   "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: KS (tata) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.",
+   "what": "Kanciaste low-poly portrety postaci z gry Ośrodek Daje: tata (Kierownik Ośrodka) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.",
    "count": 6,
    "files": [
     "media/postacie/osrodek-daje/characters-front.png",
-    "media/postacie/osrodek-daje/ks-closeup.png",
     "media/postacie/osrodek-daje/portrait-dropsik.png",
     "media/postacie/osrodek-daje/portrait-jurek.png",
-    "media/postacie/osrodek-daje/portrait-ks.png",
-    "media/postacie/osrodek-daje/portrait-rys.png"
+    "media/postacie/osrodek-daje/portrait-rys.png",
+    "media/postacie/osrodek-daje/portrait-tata.png",
+    "media/postacie/osrodek-daje/tata-closeup.png"
    ]
   },
   {

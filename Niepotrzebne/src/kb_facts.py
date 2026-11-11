@@ -2,7 +2,7 @@
 
 META = {
     "name": "Gzowo Dataset",
-    "version": "1.2",
+    "version": "1.3",
     "updated": "2026-11-11",
     "language": "pl",
     "site": "https://dataset.gzowo.fun",
@@ -119,8 +119,8 @@ PEOPLE = [
         "source": ["notatki", "galeria", "gzowo.fun", "obserwacja"], "confidence": "pewne",
     },
     {
-        "id": "jan", "name": "Jan Sukiennik", "aliases": ["Tata", "KS", "Kierownik Ośrodka"], "group": "rodzina",
-        "role": "Tata. Zabawowo i śmiesznie: KS, czyli Kierownik Ośrodka (bo działka to dawny ośrodek).",
+        "id": "jan", "name": "Jan Sukiennik", "aliases": ["Tata", "Kierownik Ośrodka"], "group": "rodzina",
+        "role": "Tata. Zabawowo i śmiesznie: Kierownik Ośrodka (bo działka to dawny ośrodek).",
         "facts": [
             "Jego złota myśl i zasada nr 1: \"Ośrodek daje, Ośrodek daje\" (od \"Bóg daje, Bóg zabiera\").",
             "Jak mówi i jaki jest (wg Jurka): siup do przodu, nie uważa, wyluzowany, kocha lustra, wizjoner, prosty, elegancki.",
@@ -133,7 +133,7 @@ PEOPLE = [
             "Jest ilustracja \"Jan Sukiennik z kozą nad Narwią\": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie.",
         ],
         "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
-        "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
+        "in_games": "W Ośrodek Daje jest Kierownikiem Ośrodka w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
         "source": ["jurek-2026-11-10", "notatki", "galeria", "gra-narew", "gzowo.fun"], "confidence": "pewne",
     },
     {"id": "zofia", "name": "Zofia", "aliases": ["Mama"], "group": "rodzina", "role": "Mama Jurka i Rysia.", "facts": ["08.07.2023 stoi o zmierzchu na Cyplu w długim stroju, cała oświetlona na czerwono, i patrzy na Narew.", "15.07.2023 jest z Rysiem na Cyplu, kiedy Szamborski wisi helikopterem nad wodą.", "Jest na filmie ze świąt w Gzowie z kozą."], "source": ["jurek-2026-11-11"], "confidence": "pewne"},
@@ -246,7 +246,7 @@ OBJECTS = [
     {"id": "pianino", "name": "Pianino cyfrowe", "ours": True, "facts": ["Stoi w domu. Jurek gra na zaawansowanym poziomie."], "source": ["notatki"]},
     {"id": "stol", "name": "Duży stół na limonkowych kozłach", "ours": True, "facts": ["Blat ze sklejki. Miejsce porannych śniadań."], "source": ["jurek-2026-11-10", "notatki"]},
     {"id": "fotel", "name": "Pasiasty fotel pod wiatą", "ours": True, "facts": ["Mieści tatę i trójkę dzieci naraz (\"Wspólny czas na fotelu\")."], "source": ["galeria", "obserwacja"]},
-    {"id": "futro", "name": "Białe futro i buty z krokodyla", "ours": True, "facts": ["Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."], "source": ["notatki", "galeria", "wniosek"]},
+    {"id": "futro", "name": "Białe futro i buty z krokodyla", "ours": True, "facts": ["Strój taty, Kierownika Ośrodka. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."], "source": ["notatki", "galeria", "wniosek"]},
     {"id": "skuter", "name": "Żółty skuter wodny", "ours": False, "facts": ["Widać go na zdjęciach plaży, ale NIE jest Sukienników.", "W grze Rysia można nim pływać i robić fale."], "source": ["jurek-2026-11-10", "obserwacja", "gra-narew"]},
     {"id": "polo", "name": "Czerwone VW Polo", "ours": False, "facts": ["Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników."], "source": ["jurek-2026-11-10", "obserwacja"]},
     {"id": "helikopter", "name": "Helikopter Szamborskiego", "ours": False, "facts": ["Czasem ląduje w Gzowie, przylatuje nim Szamborski.", "Granatowy Airbus, rejestracja SP-MMM. Stał na skarpie (2022) i wisiał nad Narwią przy Cyplu (2023)."], "source": ["jurek-2026-11-10"]},
@@ -267,7 +267,7 @@ RITUALS = [
 ]
 
 SAYINGS = [
-    {"text": "Ośrodek daje, Ośrodek daje.", "who": "KS (tata)", "note": "Zasada nr 1, od \"Bóg daje, Bóg zabiera\". Od niej nazwa gry Ośrodek Daje.", "source": ["notatki"], "confidence": "pewne"},
+    {"text": "Ośrodek daje, Ośrodek daje.", "who": "Jan Sukiennik (tata)", "note": "Zasada nr 1, od \"Bóg daje, Bóg zabiera\". Od niej nazwa gry Ośrodek Daje.", "source": ["notatki"], "confidence": "pewne"},
     {"text": "Herbata nie wyklucza kawy.", "who": "Ciszewscy x Sukiennicy", "note": "Hasło pokoju Ciszewskich w Galerii.", "source": ["galeria"], "confidence": "pewne"},
     {"text": "Tak to czasem w życiu bywa, pies się topi, ła...", "who": "rodzinne powiedzonko", "note": "Tak podyktował Jurek, końcówka się urwała. Znane przysłowie brzmi: \"Tak to czasem w życiu bywa: pies się topi, łańcuch pływa\". Pełne brzmienie do potwierdzenia.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
     {"text": "Serce Gzowa - Narew!", "who": "Jurek", "note": "Podpis pokoju \"Nasza Narew\".", "source": ["galeria"], "confidence": "pewne"},
@@ -280,7 +280,7 @@ SAYINGS = [
 
 VOCABULARY = [
     {"word": "Ośrodek", "meaning": "Działka Gzowo 34, bo to dawny ośrodek FSO (wędkarski i wypoczynkowy)."},
-    {"word": "KS", "meaning": "Kierownik Ośrodka, czyli tata."},
+    {"word": "Kierownik Ośrodka", "meaning": "Tata, Jan Sukiennik. Tak zabawowo, bo działka to dawny ośrodek."},
     {"word": "Gzowiański", "meaning": "Przymiotnik od Gzowa: Gzowiański somsiad, Gzowiańskie momenty, Gzowiańskie klasyki."},
     {"word": "somsiad", "meaning": "Sąsiad, żartobliwie."},
     {"word": "Aminalsy", "meaning": "Zwierzaki (\"Nasi mali mieszkańcy Gzowa!\")."},
@@ -356,7 +356,7 @@ BRANDS = [
 GAMES_IN_GZOWO = [
     {"name": "NAREW, posesja nad jeziorem", "author": "Rysio", "url": "https://rysiosukiennik.github.io/backrooms-game/narew.html", "what": "Spacer 3D po działce: kopanie łopatą i koparką, Tesla, kajaki, skuter wodny, telewizor z własnym Narewflixem, szopy tańczące przy ognisku, wiewiórki do głaskania, tata wystrzeliwujący gracza z Narwi."},
     {"name": "Galeria Gzowo", "author": "Jurek", "url": "https://galeria-gzowo.netlify.app", "what": "Galeria 3D zdjęć z działki, prezent na Dzień Ojca 2026. Pokoje tematyczne, kino z salami A1, 2B i 3C, ukryty Żabi raj."},
-    {"name": "Ośrodek Daje", "author": "Jurek", "url": "https://osrodek-daje.gzowo.fun", "what": "Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: KS, Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost."},
+    {"name": "Ośrodek Daje", "author": "Jurek", "url": "https://osrodek-daje.gzowo.fun", "what": "Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: Kierownik Ośrodka (tata), Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost."},
     {"name": "Rybna Wyspa", "author": "Jurek", "url": "https://rybna-wyspa.gzowo.fun", "what": "Farma ryb z Narwi na małej wyspie. Sekretne gatunki: Rakieta GSP, Ognista, Wydrukowana, G-Micro, Złoty Sum z Gzowa, Potwór z Narwi."},
     {"name": "Gzowo Meadow", "author": "Jurek", "url": "", "what": "Wierna rekonstrukcja prawdziwego Gzowa 1 x 1 km z prawdziwą pogodą, słońcem i gwiazdami. Stąd pochodzą dane terenu w tym datasecie."},
     {"name": "Gzowo ASCII", "author": "Jurek", "url": "https://gzowo-ascii.gzowo.fun", "what": "Spacer po prawdziwym Gzowie narysowanym znakami ASCII."},
@@ -367,7 +367,7 @@ GAMES_IN_GZOWO = [
 GAME_KIT = {
     "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
     "board_spaces": ["Dom (śniadanie przy dużym stole)", "Taras", "Wiata z pasiastym fotelem", "Trzy domki FSO", "Panele słoneczne", "Ognisko", "Hamak w sosnach", "Skarpa i stary skład", "Plaża", "Narew", "Mur z gabionów", "GL Launch Site", "Dom Waldka", "Stacja Moya", "Sklep", "Aleja Lipowa", "Cypel", "Kocia Wyspa", "Kanał", "Lądowisko helikoptera"],
-    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Zofia (Mama)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "Panie ze stacji Moya", "Dropsik", "Kropka (pies Waldka)", "Koza (gość na święta)", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
+    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "Jan, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Zofia (Mama)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "Panie ze stacji Moya", "Dropsik", "Kropka (pies Waldka)", "Koza (gość na święta)", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
     "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "stara tablica FSO", "mapa geodezyjna", "niewypał", "helikopter", "wędka", "drewno z wycinki", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
     "mechanics": ["Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."],
     "event_cards": [
@@ -401,8 +401,8 @@ GAME_KIT = {
     "quiz": [
         {"q": "Czym była działka, zanim trafiła do Sukienników?", "a": "Ośrodkiem wypoczynkowym FSO."},
         {"q": "Ile domków stało kiedyś w ośrodku i ile zostało?", "a": "Dziesięć, zostały trzy."},
-        {"q": "Co znaczy KS?", "a": "Kierownik Ośrodka, czyli tata."},
-        {"q": "Jak brzmi zasada nr 1 KS-a?", "a": "Ośrodek daje, Ośrodek daje."},
+        {"q": "Kto jest Kierownikiem Ośrodka?", "a": "Tata, Jan Sukiennik."},
+        {"q": "Jak brzmi zasada nr 1 Kierownika Ośrodka?", "a": "Ośrodek daje, Ośrodek daje."},
         {"q": "Kto głównie pracuje koparką?", "a": "Waldek."},
         {"q": "Jak ma na imię głuchy biały kot i czyj jest?", "a": "Beethoven, kot Czupryńskich."},
         {"q": "Co jest logo Gzowa 34?", "a": "Ośmiornica."},

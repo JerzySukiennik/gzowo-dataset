@@ -2,7 +2,7 @@
 
 > Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
 
-Wersja 1.2, 2026-11-11. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
+Wersja 1.3, 2026-11-11. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
 
 ## Jak z tego korzystać (dla AI)
 
@@ -99,7 +99,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Wygląd: Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.
 - W grach: W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.
 
-**Jan Sukiennik**, inaczej: Tata, KS, Kierownik Ośrodka. Tata. Zabawowo i śmiesznie: KS, czyli Kierownik Ośrodka (bo działka to dawny ośrodek). _(źródło: jurek-2026-11-10, notatki, galeria, gra-narew, gzowo.fun; pewne)_
+**Jan Sukiennik**, inaczej: Tata, Kierownik Ośrodka. Tata. Zabawowo i śmiesznie: Kierownik Ośrodka (bo działka to dawny ośrodek). _(źródło: jurek-2026-11-10, notatki, galeria, gra-narew, gzowo.fun; pewne)_
 - Jego złota myśl i zasada nr 1: "Ośrodek daje, Ośrodek daje" (od "Bóg daje, Bóg zabiera").
 - Jak mówi i jaki jest (wg Jurka): siup do przodu, nie uważa, wyluzowany, kocha lustra, wizjoner, prosty, elegancki.
 - Pilotuje drona DJI Avata (zdjęcie "Pilot Jan": stoi nad Narwią z kontrolerem w rękach).
@@ -110,7 +110,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - To dla niego powstała Galeria Gzowo (Dzień Ojca 2026).
 - Jest ilustracja "Jan Sukiennik z kozą nad Narwią": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie.
 - Wygląd: Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.
-- W grach: W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.
+- W grach: W Ośrodek Daje jest Kierownikiem Ośrodka w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.
 
 **Zofia**, inaczej: Mama. Mama Jurka i Rysia. _(źródło: jurek-2026-11-11; pewne)_
 - 08.07.2023 stoi o zmierzchu na Cyplu w długim stroju, cała oświetlona na czerwono, i patrzy na Narew.
@@ -312,7 +312,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Pianino cyfrowe** (nasze): Stoi w domu. Jurek gra na zaawansowanym poziomie. _(źródło: notatki)_
 - **Duży stół na limonkowych kozłach** (nasze): Blat ze sklejki. Miejsce porannych śniadań. _(źródło: jurek-2026-11-10, notatki)_
 - **Pasiasty fotel pod wiatą** (nasze): Mieści tatę i trójkę dzieci naraz ("Wspólny czas na fotelu"). _(źródło: galeria, obserwacja)_
-- **Białe futro i buty z krokodyla** (nasze): Strój KS-a. "Alligator included" w podpisie zdjęcia "Krowi chłopiec" to najpewniej te buty. _(źródło: notatki, galeria, wniosek)_
+- **Białe futro i buty z krokodyla** (nasze): Strój taty, Kierownika Ośrodka. "Alligator included" w podpisie zdjęcia "Krowi chłopiec" to najpewniej te buty. _(źródło: notatki, galeria, wniosek)_
 - **Żółty skuter wodny** (NIE nasze): Widać go na zdjęciach plaży, ale NIE jest Sukienników. W grze Rysia można nim pływać i robić fale. _(źródło: jurek-2026-11-10, obserwacja, gra-narew)_
 - **Czerwone VW Polo** (NIE nasze): Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników. _(źródło: jurek-2026-11-10, obserwacja)_
 - **Helikopter Szamborskiego** (NIE nasze): Czasem ląduje w Gzowie, przylatuje nim Szamborski. Granatowy Airbus, rejestracja SP-MMM. Stał na skarpie (2022) i wisiał nad Narwią przy Cyplu (2023). _(źródło: jurek-2026-11-10)_
@@ -333,7 +333,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 ## 8. Powiedzonka i słownik
 
-- "Ośrodek daje, Ośrodek daje." (KS (tata)). Zasada nr 1, od "Bóg daje, Bóg zabiera". Od niej nazwa gry Ośrodek Daje. _(źródło: notatki; pewne)_
+- "Ośrodek daje, Ośrodek daje." (Jan Sukiennik (tata)). Zasada nr 1, od "Bóg daje, Bóg zabiera". Od niej nazwa gry Ośrodek Daje. _(źródło: notatki; pewne)_
 - "Herbata nie wyklucza kawy." (Ciszewscy x Sukiennicy). Hasło pokoju Ciszewskich w Galerii. _(źródło: galeria; pewne)_
 - "Tak to czasem w życiu bywa, pies się topi, ła..." (rodzinne powiedzonko). Tak podyktował Jurek, końcówka się urwała. Znane przysłowie brzmi: "Tak to czasem w życiu bywa: pies się topi, łańcuch pływa". Pełne brzmienie do potwierdzenia. _(źródło: jurek-2026-11-10; niepewne)_
 - "Serce Gzowa - Narew!" (Jurek). Podpis pokoju "Nasza Narew". _(źródło: galeria; pewne)_
@@ -344,7 +344,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - "Mmm, yummy!" (Jurek). O jedzeniu lodu z Narwi. _(źródło: galeria; pewne)_
 
 - **Ośrodek**: Działka Gzowo 34, bo to dawny ośrodek FSO (wędkarski i wypoczynkowy).
-- **KS**: Kierownik Ośrodka, czyli tata.
+- **Kierownik Ośrodka**: Tata, Jan Sukiennik. Tak zabawowo, bo działka to dawny ośrodek.
 - **Gzowiański**: Przymiotnik od Gzowa: Gzowiański somsiad, Gzowiańskie momenty, Gzowiańskie klasyki.
 - **somsiad**: Sąsiad, żartobliwie.
 - **Aminalsy**: Zwierzaki ("Nasi mali mieszkańcy Gzowa!").
@@ -514,7 +514,7 @@ Dawny nick Jurka z czasów nagrywania filmików z kamerką (ramka "Kalakasan yt"
 
 - **NAREW, posesja nad jeziorem** (Rysio): Spacer 3D po działce: kopanie łopatą i koparką, Tesla, kajaki, skuter wodny, telewizor z własnym Narewflixem, szopy tańczące przy ognisku, wiewiórki do głaskania, tata wystrzeliwujący gracza z Narwi. https://rysiosukiennik.github.io/backrooms-game/narew.html
 - **Galeria Gzowo** (Jurek): Galeria 3D zdjęć z działki, prezent na Dzień Ojca 2026. Pokoje tematyczne, kino z salami A1, 2B i 3C, ukryty Żabi raj. https://galeria-gzowo.netlify.app
-- **Ośrodek Daje** (Jurek): Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: KS, Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost. https://osrodek-daje.gzowo.fun
+- **Ośrodek Daje** (Jurek): Kanapowy co-op: dziury w ziemi sterowane telefonami połykają senny ośrodek nad Narwią. Postacie: Kierownik Ośrodka (tata), Jurek, Ryś, Dropsik. Poziomy: Piknik, Ognisko, Pomost. https://osrodek-daje.gzowo.fun
 - **Rybna Wyspa** (Jurek): Farma ryb z Narwi na małej wyspie. Sekretne gatunki: Rakieta GSP, Ognista, Wydrukowana, G-Micro, Złoty Sum z Gzowa, Potwór z Narwi. https://rybna-wyspa.gzowo.fun
 - **Gzowo Meadow** (Jurek): Wierna rekonstrukcja prawdziwego Gzowa 1 x 1 km z prawdziwą pogodą, słońcem i gwiazdami. Stąd pochodzą dane terenu w tym datasecie. 
 - **Gzowo ASCII** (Jurek): Spacer po prawdziwym Gzowie narysowanym znakami ASCII. https://gzowo-ascii.gzowo.fun
@@ -642,7 +642,7 @@ Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja mie
 
 - `media/geo/` (5 plików): Geodane okolicy: ortofotomapa kwadratu 1 x 1 km (północ u góry, środek 52.612456 N, 21.112375 E, Gzowo 34 leży 245 m na wschód i 39 m na północ od środka), zbliżenie na działkę z żółtym kółkiem, rzeźba terenu, mapa pokrycia terenu i szerszy widok okolicy.
 - `media/mapa-pikselowa/` (37 plików): Pikselowe sprite'y z mapy działki na gzowo.fun: arcade, warsztat, lab, wyrzutnia, rakieta, hangar, pomost, skrzynka, znak, sosny, chmury, mewa, woda i inne. Plik _cala-mapa.webp pokazuje złożoną mapę.
-- `media/postacie/osrodek-daje/` (6 plików): Kanciaste low-poly portrety postaci z gry Ośrodek Daje: KS (tata) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.
+- `media/postacie/osrodek-daje/` (6 plików): Kanciaste low-poly portrety postaci z gry Ośrodek Daje: tata (Kierownik Ośrodka) w białym futrze, Jurek, Ryś, Dropsik. Gotowe jako inspiracja wyglądu pionków.
 - `media/postacie/narek/` (1 plików): Render maskotki Narek.
 - `media/brand/gzowo-labs/` (80 plików): Pełny kit logo Gzowo Labs (Wschód): SVG i PNG we wszystkich układach i kolorach, favicony, naklejki na rakiety, awatary, animacje MP4 oraz płonący GIF i grafika og ze strony.
 - `media/brand/gsp/` (88 plików): Kit Gzowo Space Program: logo PNG, gify, zakończenia filmów, awatary.
@@ -655,7 +655,7 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 
 **Pola planszy:** Dom (śniadanie przy dużym stole); Taras; Wiata z pasiastym fotelem; Trzy domki FSO; Panele słoneczne; Ognisko; Hamak w sosnach; Skarpa i stary skład; Plaża; Narew; Mur z gabionów; GL Launch Site; Dom Waldka; Stacja Moya; Sklep; Aleja Lipowa; Cypel; Kocia Wyspa; Kanał; Lądowisko helikoptera.
 
-**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Zofia (Mama); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; Panie ze stacji Moya; Dropsik; Kropka (pies Waldka); Koza (gość na święta); Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
+**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); Jan, Kierownik Ośrodka (białe futro, buty z krokodyla); Zofia (Mama); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; Panie ze stacji Moya; Dropsik; Kropka (pies Waldka); Koza (gość na święta); Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
 
 **Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, stara tablica FSO, mapa geodezyjna, niewypał, helikopter, wędka, drewno z wycinki, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
 
@@ -693,8 +693,8 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 **Pytania quizowe:**
 - Czym była działka, zanim trafiła do Sukienników? → Ośrodkiem wypoczynkowym FSO.
 - Ile domków stało kiedyś w ośrodku i ile zostało? → Dziesięć, zostały trzy.
-- Co znaczy KS? → Kierownik Ośrodka, czyli tata.
-- Jak brzmi zasada nr 1 KS-a? → Ośrodek daje, Ośrodek daje.
+- Kto jest Kierownikiem Ośrodka? → Tata, Jan Sukiennik.
+- Jak brzmi zasada nr 1 Kierownika Ośrodka? → Ośrodek daje, Ośrodek daje.
 - Kto głównie pracuje koparką? → Waldek.
 - Jak ma na imię głuchy biały kot i czyj jest? → Beethoven, kot Czupryńskich.
 - Co jest logo Gzowa 34? → Ośmiornica.

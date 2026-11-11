@@ -1,0 +1,29 @@
+{
+ "meta": {
+  "name": "Gzowo Dataset",
+  "version": "1.2",
+  "updated": "2026-11-11",
+  "language": "pl",
+  "site": "https://dataset.gzowo.fun",
+  "repo": "https://github.com/JerzySukiennik/gzowo-dataset",
+  "author": "Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude",
+  "purpose": "Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.",
+  "truth_policy": "Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany."
+ },
+ "sources": {
+  "jurek-2026-11-10": "Odpowiedzi Jurka na pytania, rozmowa z 10.11.2026 (najświeższe i najważniejsze źródło).",
+  "jurek-2026-11-11": "Opisy zdjęć i filmów oraz notatka, które Jurek wpisał 11.11.2026 na stronie do opisywania mediów.",
+  "galeria": "Podpisy i tytuły z Galerii Gzowo (prezent Jurka dla taty na Dzień Ojca, czerwiec 2026). Pisał je Jurek.",
+  "notatki": "Notatki projektowe Jurka z lat 2025-2026 (opisy jego gier i projektów osadzonych w Gzowie).",
+  "gra-narew": "Gra Rysia 'NAREW, posesja nad jeziorem' (narew.html). Świat gry jest wzorowany na działce, ale to fikcja.",
+  "gzowo.fun": "Dane ze strony Gzowo Labs (gzowo.fun).",
+  "geodane": "Numeryczny model terenu i ortofotomapa z Geoportalu oraz OpenStreetMap, pobrane w lipcu 2026.",
+  "obserwacja": "Opis tego, co widać na zdjęciu albo filmie (opisał Claude).",
+  "wniosek": "Wniosek Claude'a z kilku źródeł. Niepotwierdzony przez rodzinę."
+ },
+ "confidence": {
+  "pewne": "Powiedziane wprost przez Jurka albo widoczne w materiale.",
+  "prawdopodobne": "Wynika ze źródeł, ale nikt tego wprost nie potwierdził.",
+  "niepewne": "Jurek sam zaznaczył niepewność (\"chyba\", \"najprawdopodobniej\") albo źródła się różnią."
+ }
+}

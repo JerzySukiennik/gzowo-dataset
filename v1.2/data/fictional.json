@@ -1,0 +1,26 @@
+[
+ {
+  "id": "edward-warchocki",
+  "name": "Edward Warchocki",
+  "from": "gra Rysia NAREW",
+  "what": "Postać z gry: chodzi w kółko po posesji i zagaduje. Jego kwestie: \"dziki znowu zryły łąkę za płotem\", \"szopy tańczą przy ognisku, sam zobacz\", \"Waldek jeździ tu konno, odkąd pamiętam\", \"woda w Narwi dziś czysta, można nalać\". Ma też własne rolki na telefonie w grze (@edward.warchocki)."
+ },
+ {
+  "id": "michael-jackson",
+  "name": "Michael Jackson",
+  "from": "gra Rysia NAREW",
+  "what": "Tancerz w domu, sunie moonwalkiem tam i z powrotem. Jurek jest fanem MJ."
+ },
+ {
+  "id": "narek",
+  "name": "Narek",
+  "from": "Narew Labs (projekt Jurka)",
+  "what": "Celowo dziwna maskotka 3D: pień-ciało w kolorze #E8A93A, nogi-patyki, jedno oko większe, jedna długa makaronowa ręka i jeden kikut, antenka z żarówką. W planowanym filmiku pisze kredą na ścianie domu \"Gzowo Jest Najlepsze <3\" i przytula dom. Render: media/postacie/narek/narek_hero.png."
+ },
+ {
+  "id": "zabi-raj",
+  "name": "Mieszkańcy Żabiego raju",
+  "from": "Galeria Gzowo",
+  "what": "Ukryty pokój-łąka ze stawem (\"Nasze małe zoo\"): żaby, pies, ośmiornica, koza i osioł, które można głaskać i karmić, a ośmiornicę posadzić sobie na głowie."
+ }
+]

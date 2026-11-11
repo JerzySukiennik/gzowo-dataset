@@ -1,0 +1,106 @@
+{
+ "note": "Gzowo Space Program (GSP) to rakiety modelarskie budowane ręcznie i drukowane w 3D, odpalane z pól pod Gzowem, z kamerami pokładowymi, spadochronami i czekaniem, aż ucichnie wiatr. Od listopada 2026 GSP jest scalone z Gzowo Labs. Zespół: Jerzy Sukiennik (CEO), Jan Sukiennik (Founding Partner).",
+ "fleet": [
+  {
+   "id": "architektoniczny-wiezowiec",
+   "name": "Architektoniczny wieżowiec",
+   "owner": "tata",
+   "state": "latała",
+   "facts": [
+    "Ciemnozielona, wydrukowana w 3D, ostre stateczniki, \"architektoniczna budowa oraz wygląd\".",
+    "Starty 18-19.10.2025 z szutrowej drogi."
+   ],
+   "source": [
+    "galeria",
+    "obserwacja"
+   ]
+  },
+  {
+   "id": "gzofajfus-mini-mk1",
+   "name": "Gzofajfus Mini Mk I",
+   "owner": "Jurek",
+   "state": "latała",
+   "facts": [
+    "Pierwsza rakieta serii Mini, miniaturowa platforma eksperymentalna o bardzo małej masie. Lot udany."
+   ],
+   "source": [
+    "gzowo.fun"
+   ]
+  },
+  {
+   "id": "gzofajfus-classic-mk2",
+   "name": "Gzofajfus Classic Mk II",
+   "owner": "Jurek",
+   "state": "latała",
+   "facts": [
+    "Pierwsza pełnowymiarowa z serii Classic. Lot 21.03.2026, spadochron otworzył się za pierwszym razem."
+   ],
+   "source": [
+    "gzowo.fun"
+   ]
+  },
+  {
+   "id": "gzofajfus-classic-mk3",
+   "name": "Gzofajfus Classic Mk III",
+   "owner": "Jurek",
+   "state": "latała",
+   "facts": [
+    "Silnik F35-4 TSP. W nosie ma komorę na AirTaga, żeby dało się ją znaleźć po lądowaniu."
+   ],
+   "source": [
+    "gzowo.fun"
+   ]
+  },
+  {
+   "id": "gzofajfus-classic-mk4",
+   "name": "Gzofajfus Classic Mk IV",
+   "owner": "Jurek",
+   "state": "latała",
+   "facts": [
+    "Zdjęcie \"po wielkim sukcesie\": leży na trawie z niebieskim spadochronem."
+   ],
+   "source": [
+    "galeria"
+   ]
+  },
+  {
+   "id": "the-orange-beauty",
+   "name": "The Orange Beauty",
+   "owner": "Jurek",
+   "state": "latała",
+   "facts": [
+    "Jedyna taka we flocie: czerwono-pomarańczowy dół, czarny czubek. Najlepsze nagrania startu. Lot udany, spadochron się nie otworzył.",
+    "Najpierw powstał jej render w Blenderze (\"Pomarańczowa piękność\")."
+   ],
+   "source": [
+    "gzowo.fun",
+    "galeria",
+    "obserwacja"
+   ]
+  },
+  {
+   "id": "tbh-mk1",
+   "name": "TBH Mk I (The Black Hawks)",
+   "owner": "Jurek",
+   "state": "planowana",
+   "facts": [
+    "Pierwsza z całkiem czarnych rakiet. Jedyna misja: bezpiecznie wylądować na spadochronie. Silnik TSP F35-4."
+   ],
+   "source": [
+    "gzowo.fun"
+   ]
+  },
+  {
+   "id": "gzofajfus-4",
+   "name": "Gzofajfus 4",
+   "owner": "Jurek",
+   "state": "w budowie",
+   "facts": [
+    "Drukowana rakieta o średnicy 60 mm na silnik F41-5W, cała z PLA, projekt w OpenSCAD i OpenRocket. Wydrukowana sekcja nosa."
+   ],
+   "source": [
+    "notatki"
+   ]
+  }
+ ]
+}

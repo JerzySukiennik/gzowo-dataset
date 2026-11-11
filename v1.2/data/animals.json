@@ -1,0 +1,183 @@
+[
+ {
+  "id": "dropsik",
+  "name": "Dropsik",
+  "kind": "pies",
+  "status": "nie ma go już w Gzowie",
+  "facts": [
+   "Mały, młody, czarno-karmelowy, bardzo energiczny i \"mega zabawny\".",
+   "Bardziej pies Waldka niż Sukienników.",
+   "Został porwany niedługo po tym, jak się pojawił. W Galerii podpisany jako \"śp. Dropsik\".",
+   "Jurek go kochał (zdjęcie \"Jurek z Dropsikiem. Letnie przytulanie psa\").",
+   "Film DANCE: szczeniak bawi się na liściach i na śniegu przy wiacie i stercie kamieni."
+  ],
+  "in_games": "W Ośrodek Daje jest pomocnikiem Jurka: jedno ucho stojące, drugie klapnięte, język na wierzchu, czerwona obroża (model zrobiony z opisu, bez zdjęcia).",
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "notatki",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "beethoven",
+  "name": "Beethoven",
+  "kind": "kot",
+  "status": "kot Czupryńskich",
+  "facts": [
+   "Biały, głuchy, \"mega fajny\".",
+   "\"Beethoven nie boi się Jurka (podejrzane)\": siedzi spokojnie przed Jurkiem na plaży.",
+   "\"Kontemplujący Beethoven\": siedzi tyłem na trawie i wita słońce nad zamgloną Narwią."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "koza",
+  "name": "Koza",
+  "kind": "koza",
+  "status": "gość na jedne święta",
+  "facts": [
+   "Była w Gzowie przez jedne święta Bożego Narodzenia, rodzina przywiozła ją na chwilę z Warszawy.",
+   "Brązowo-biała, z czerwoną obrożą. Na filmie ze świąt stoi przy beli siana i przytula się do niej chłopiec.",
+   "Jest też na ilustracji z Janem Sukiennikiem w białym futrze nad Narwią."
+  ],
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "kropka",
+  "name": "Kropka",
+  "kind": "pies",
+  "status": "pies Waldka, zmarła ok. 2024",
+  "facts": [
+   "Pies Waldka. Zmarła mniej więcej dwa lata przed listopadem 2026.",
+   "Na zdjęciu z 06.09.2022 stoi pod helikopterem na skarpie."
+  ],
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "szopy",
+  "name": "Szopy pracze",
+  "kind": "dzikie",
+  "status": "ważne dla Gzowa",
+  "facts": [
+   "Jurek zaznaczył je jako ważne.",
+   "W grze Rysia pięć szopów tańczy w kręgu wokół ogniska, szybciej, gdy ogień płonie."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "gra-narew"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "koty",
+  "name": "Koty i małe kotki",
+  "kind": "dzikie i półdzikie",
+  "status": "ważne dla Gzowa",
+  "facts": [
+   "Kręcą się po działce, także kocięta. Jurek zaznaczył je jako ważne."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "losie",
+  "name": "Łosie",
+  "kind": "dzikie",
+  "status": "spotykane",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "kuny",
+  "name": "Kuny",
+  "kind": "dzikie",
+  "status": "spotykane",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "lisy",
+  "name": "Lisy",
+  "kind": "dzikie",
+  "status": "spotykane",
+  "facts": [],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "labedzie",
+  "name": "Łabędzie",
+  "kind": "ptaki",
+  "status": "na Narwi",
+  "facts": [
+   "Na zdjęciu \"Nad wodą\" łabędź płynie tuż obok kopiących w piasku dzieci."
+  ],
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "ptaki",
+  "name": "Klucze ptaków",
+  "kind": "ptaki",
+  "status": "wiosną",
+  "facts": [
+   "Zdjęcie \"Klucz Ptaków\": ptaki wracające w szyku V na wiosennym niebie."
+  ],
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "dziki",
+  "name": "Dziki",
+  "kind": "dzikie",
+  "status": "tylko w grze Rysia",
+  "facts": [
+   "W grze Rysia: \"dziki znowu zryły łąkę za płotem\", \"trzeci raz w tym tygodniu\". Jurek ich nie wymienił."
+  ],
+  "source": [
+   "gra-narew"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "id": "osmiornica",
+  "name": "Ośmiornica",
+  "kind": "symbol",
+  "status": "logo Gzowa 34",
+  "facts": [
+   "Logo Gzowa 34 to ośmiornica.",
+   "Pojawia się w Żabim raju w Galerii (można ją posadzić sobie na głowie) i w pomyśle na Gzowo Car (znak: ośmiornica + napis Car)."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "notatki"
+  ],
+  "confidence": "pewne"
+ }
+]

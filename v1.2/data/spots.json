@@ -1,0 +1,257 @@
+[
+ {
+  "id": "dom",
+  "name": "Dom",
+  "aliases": [
+   "kloc (w grze Rysia)"
+  ],
+  "where": "na działce, wbudowany w skarpę, wśród sosen",
+  "facts": [
+   "Zwykły graniastosłup. Bryłą nawiązuje do dawnych łazienek ośrodka FSO.",
+   "Z zewnątrz (film z 28.07.2026): niska bryła wsunięta w skarpę, na dole otwarty garaż albo schowek, na górze przeszklony prostopadłościan, dookoła sosny i łąka.",
+   "W środku jeden open space ok. 12 x 8 m: ściana z płyt OSB, marmurowa podłoga, sufit ze sklejki na czarnych szynach, przeszklenie na całą wysokość z widokiem na taras, trawę, sosny i Narew.",
+   "Wyposażenie: czarny kominek-koza z rurą, pianino cyfrowe na stojaku, telewizor (LG OLED bez internetu), długa czarna wisząca półka z konsolą PlayStation, modelem z klocków i kulą śnieżną, szafa z lustrem, czarna sofa, duży stół ze sklejki na limonkowych kozłach, kuchnia ze stali nierdzewnej z boomboxem, lampa podłogowa, zasłona, podświetlany pas onyksu przy podłodze.",
+   "Przy dużym stole rodzina prawie zawsze je rano śniadania.",
+   "Na filmie ze świąt, gdy dom był jeszcze surowy: na ścianie z OSB świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, stoi choinka."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "notatki",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "taras",
+  "name": "Taras",
+  "where": "przy domu",
+  "facts": [
+   "Drewniany, z desek, duży.",
+   "Zdjęcie \"Praca nad tarasem. Konsultacja tarasu\": Jan z pracownikiem na piasku budowy."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "domki",
+  "name": "Trzy domki",
+  "where": "na działce",
+  "facts": [
+   "Zostały 3 z 10 domków dawnego ośrodka FSO.",
+   "Na filmie z 2025 widać jeden: ciemny, drewniany, z czerwonymi drzwiami, obok drewno na opał.",
+   "Domki mają numery. Domek nr 1 (zdjęcie z 13.06.2021): ciemne deski, czerwone drzwi, okno w czerwonej ramie, betonowe bloczki, biała tabliczka \"Ośrodek Wypoczynkowy\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "wiata",
+  "name": "Wiata",
+  "where": "na działce",
+  "facts": [
+   "Stoi od czasów ośrodka.",
+   "Pod nią pasiasty fotel i drewno na opał. Tu powstały zdjęcia \"Wspólny czas\" i \"Krowi chłopiec\".",
+   "W grze Rysia przy wiacie stoją koparka, łopata oparta o słup i palenisko."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "gra-narew",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "panele",
+  "name": "Panele słoneczne",
+  "where": "na działce",
+  "facts": [
+   "Stoją tam, gdzie kiedyś były domki."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "ognisko",
+  "name": "Ognisko",
+  "where": "na działce",
+  "facts": [
+   "\"Ogień + Gzowo to niepokonane combo!\"",
+   "Miejsce malowania światłem po zmroku."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "hamak",
+  "name": "Hamak",
+  "where": "między sosnami",
+  "facts": [
+   "\"Odpoczynek wśród sosen\", w tle prześwituje woda."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "plaza",
+  "name": "Plaża",
+  "aliases": [
+   "Plaża Gzowo 34"
+  ],
+  "where": "na dole, nad Narwią",
+  "facts": [
+   "Trawiasto-piaszczysty stok schodzący do płytkiej wody, trzciny, łódki leżące dnem do góry.",
+   "Dojazd piaszczystą drogą wzdłuż muru z gabionów (kosze z kamieniem).",
+   "Tu się kopie w piasku i woduje SUP-a, kajaki i motorówkę.",
+   "Na zdjęciach z 08.08.2026 cumuje żółty skuter wodny, ale nie jest Sukienników."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "skarpa",
+  "name": "Skarpa i stary skład",
+  "where": "górna część działki",
+  "facts": [
+   "Stroma skarpa nadnarwiańska.",
+   "Pod ziemią najprawdopodobniej stary skład bomb i broni.",
+   "W ziemi na działce trafiają się niewypały z czasów wojny.",
+   "Na skarpie ląduje helikopter (zdjęcie z 06.09.2022)."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "geodane"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "id": "sosny",
+  "name": "Kępa sosen",
+  "where": "środek działki",
+  "facts": [
+   "Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym."
+  ],
+  "source": [
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "cypel",
+  "name": "Cypel",
+  "where": "nad Narwią przy działce",
+  "facts": [
+   "Jurek wymienił Cypel jako osobne miejsce i podpisał nim cztery nagrania i ilustrację.",
+   "Miejsce na zachody słońca nad samą wodą: Rysio rzuca coś do Narwi (2021), Zofia stoi o zmierzchu w czerwonym świetle (2023).",
+   "Jest tu palenisko i czerwone krzesła. 15.07.2023 tuż przy brzegu wisiał nad wodą helikopter Szamborskiego.",
+   "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "wniosek"
+  ],
+  "confidence": "prawdopodobne"
+ },
+ {
+  "id": "kocia-wyspa",
+  "name": "Kocia Wyspa",
+  "where": "w okolicy, obok kanału",
+  "facts": [
+   "Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.",
+   "Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek)."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "wniosek"
+  ],
+  "confidence": "prawdopodobne"
+ },
+ {
+  "id": "kanal",
+  "name": "Kanał",
+  "where": "obok Kociej Wyspy",
+  "facts": [
+   "Stąd jest Paweł."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "gl-launch-site",
+  "name": "GL Launch Site",
+  "aliases": [
+   "GSP Launch Site (stara nazwa)"
+  ],
+  "where": "pola, łąki i szutrowa droga w okolicy Gzowa",
+  "facts": [
+   "Miejsce startów rakiet. Nazwa GL, bo GSP jest już scalone z Gzowo Labs.",
+   "Na filmach: wyrzutnia na statywie, start z szutrowej drogi, z brzegu zaoranego pola i z łąki."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria",
+   "obserwacja"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "dom-waldka",
+  "name": "Dom Waldka",
+  "where": "w okolicy",
+  "facts": [
+   "Zdjęcie \"Słońce nad polem\" (Jurek doświadcza zachodu słońca) zrobiono w okolicach domu Waldka."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "moya",
+  "name": "Stacja Moya",
+  "where": "stacja benzynowa obok Gzowa",
+  "facts": [
+   "Bardzo ważna dla rodziny. Często chodzi się tam na lody i napoje.",
+   "Pracują tam bardzo miłe panie, często przychodzi też pewien pan.",
+   "Idzie się na przełaj: \"Ciężka droga do stacji Moya. Przedzieranie się przez trawy\"."
+  ],
+  "source": [
+   "jurek-2026-11-10",
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "sklep",
+  "name": "Sklep",
+  "where": "\"w Nieporęcie\" (nazwa z dyktowania, niepewna)",
+  "facts": [
+   "Sklep, do którego rodzina często chodzi. Jurek podyktował \"w Nieporęcie\", a Nieporęt leży ok. 30 km od Gzowa, więc nazwa miejscowości wymaga potwierdzenia."
+  ],
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "niepewne"
+ }
+]

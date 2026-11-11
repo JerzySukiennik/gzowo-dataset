@@ -11,6 +11,8 @@ import kb_media as M
 BASE = F.META['site'] + '/'
 ING = json.load(open(os.path.join(ROOT, 'Niepotrzebne/src/ingest_photos.json'), encoding='utf-8'))
 LABS = '/Users/jurek/Downloads/Claude/Projects/gzowo-labs/site/data/projects.json'
+OPI_PATH = os.path.join(ROOT, 'Niepotrzebne/src/ingest_opisy.json')
+OPI = json.load(open(OPI_PATH, encoding='utf-8')) if os.path.exists(OPI_PATH) else {'photos': [], 'videos': []}
 
 
 def w(rel, text):
@@ -55,8 +57,12 @@ for group, key in (('galeria', 'gallery'), ('plaza', 'beach'), ('rakiety', 'rock
             'sees': d.get('sees', ''), 'people': d.get('people', []), 'tags': d.get('tags', []),
         })
 
+for rec in OPI['photos']:
+    photos.append({'id': rec['id'], 'group': 'archiwum', 'file': rec['file'], 'url': BASE + rec['file'], 'thumb': thumb(rec['file']), 'w': rec['w'], 'h': rec['h'], 'title': rec['title'], 'caption': rec['caption'], 'who_text': rec['who'], 'where': rec['where'], 'date': rec['date'], 'rooms': [], 'sees': rec['sees'], 'people': rec['people'], 'tags': rec['tags'], 'gps': rec['gps']})
+
+described = [{'id': r['id'], 'title': r['title'], 'date': r['date'] or 'data nieznana', 'where': r['where'], 'who': [x.strip() for x in r['who'].split(',') if x.strip()], 'sees': r['caption'] or r['sees'], 'note': ('GPS z pliku: ' + r['gps'] + '. ' if r['gps'] else '') + ('Opisał Jurek.' if r['caption'] else 'Tytuł, kto i gdzie podał Jurek, opis kadru Claude.'), 'tags': r['tags']} for r in OPI['videos']]
 videos = []
-for v in M.VIDEOS:
+for v in M.VIDEOS + described:
     rel = f"media/wideo/{v['id']}.mp4"
     p = os.path.join(ROOT, rel)
     if not os.path.exists(p):
@@ -128,7 +134,7 @@ for h in F.HISTORY:
 A('')
 
 A("## 3. Ludzie\n")
-for g, label in (('rodzina', 'Rodzina (tylko te trzy osoby)'), ('przyjaciele', 'Przyjaciele i goście'), ('okolica', 'Okolica')):
+for g, label in (('rodzina', 'Rodzina'), ('przyjaciele', 'Przyjaciele i goście'), ('okolica', 'Okolica')):
     A(f"### {label}\n")
     for p in [x for x in F.PEOPLE if x['group'] == g]:
         names = p['name'] + (f" ({p['full_name']})" if p.get('full_name') and p['full_name'] != p['name'] else '')
@@ -197,6 +203,8 @@ for b in F.BRANDS:
     for k, label in (('tagline', 'Hasło'), ('signature', 'Podpis strony'), ('site', 'Strona'), ('economy_on_site', 'Ekonomia na stronie'), ('fire_gif', 'Płonący GIF'), ('files', 'Pliki'), ('note', 'Uwaga')):
         if b.get(k):
             A(f"- {label}: {b[k]}")
+    if b.get('media'):
+        A("- Media: " + ', '.join(BASE + m for m in b['media']))
     if b.get('sections'):
         A("- Działy: " + '; '.join(f"{k} (\"{v}\")" for k, v in b['sections'].items()))
     if b.get('logo'):
@@ -217,11 +225,11 @@ A('')
 A("## 13. Zdjęcia\n")
 A(M.ROOMS_NOTE + '\n')
 A("Pokoje Galerii: " + '; '.join(f"{v['title']} (\"{v['motto']}\")" for v in rooms.values()) + '\n')
-for g in ('galeria', 'rakiety', 'plaza'):
+for g in ('archiwum', 'galeria', 'rakiety', 'plaza'):
     A(f"### {g}\n\n{M.GROUPS[g]}\n")
     for p in [x for x in photos if x['group'] == g]:
         head = f"**{p['title']}**. " if p['title'] else ''
-        bits = [f"\"{p['caption']}\"" if p['caption'] else '', f"Kto: {p['who_text']}." if p['who_text'] else '', f"Gdzie: {p['where']}." if p['where'] else '', f"Data: {p['date']}." if p['date'] else '', f"Pokoje: {', '.join(p['rooms'])}." if p['rooms'] else '', f"Widać: {p['sees']}" if p['sees'] else '']
+        bits = [f"\"{p['caption']}\"" if p['caption'] else '', f"Kto: {p['who_text']}." if p['who_text'] else '', f"Gdzie: {p['where']}." if p['where'] else '', f"Data: {p['date']}." if p['date'] else '', f"Pokoje: {', '.join(p['rooms'])}." if p['rooms'] else '', f"GPS z pliku: {p['gps']}." if p.get('gps') else '', f"Widać: {p['sees']}" if p['sees'] else '']
         A(f"- {head}{' '.join(b for b in bits if b)} Plik: {p['url']}")
     A('')
 
@@ -254,7 +262,7 @@ ll = [f"# Gzowo Dataset\n", f"> {F.META['purpose']}\n", f"Język: polski. Wersja
       "## Dane"]
 for k, label in (('place', 'Miejsce, Narew, teren, współrzędne'), ('history', 'Oś czasu'), ('people', 'Ludzie'), ('animals', 'Zwierzęta'), ('spots', 'Miejsca na działce i w okolicy'), ('objects', 'Sprzęt i rzeczy'), ('rituals', 'Rytuały'), ('sayings', 'Powiedzonka'), ('vocabulary', 'Słownik'), ('stories', 'Historie i wspomnienia'), ('rockets', 'Rakiety'), ('brands', 'Marki, logo, kolory'), ('games-in-gzowo', 'Gry osadzone w Gzowie'), ('fictional', 'Postacie zmyślone z gier'), ('game-kit', 'Propozycje pod grę (nie fakty)'), ('open-questions', 'Czego jeszcze nie wiemy'), ('gzowo-labs-projects', 'Lista projektów Gzowo Labs'), ('meta', 'Źródła i poziomy pewności')):
     ll.append(f"- [{label}]({BASE}data/{k}.json)")
-ll += ["\n## Media", f"- [Logo Gzowo Labs, SVG poziome]({BASE}media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg)", f"- [Logo Gzowo Labs, sam znak SVG]({BASE}media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg)", f"- [Zdjęcie lotnicze działki]({BASE}media/geo/ortofoto-dzialka-zblizenie.jpg)", f"- [Ortofotomapa 1 x 1 km]({BASE}media/geo/ortofoto-1km.jpg)", f"- [Pikselowa mapa działki z gzowo.fun]({BASE}media/mapa-pikselowa/_cala-mapa.webp)", f"- [Postacie low-poly]({BASE}media/postacie/osrodek-daje/characters-front.png)", f"- Zdjęcia: `{BASE}media/photos/<grupa>/<plik>.jpg`, filmy: `{BASE}media/wideo/<id>.mp4`, kadry: `{BASE}media/klatki/<id>/`. Pełna lista w media.json.", "\n## Strona dla ludzi", f"- [Strona główna]({BASE})"]
+ll += ["\n## Media", f"- [Logo Gzowo Labs, SVG poziome]({BASE}media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg)", f"- [Logo Gzowo Labs, sam znak SVG]({BASE}media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg)", f"- [Logo Gzowa 34, ośmiornica (zdjęcie)]({BASE}media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg)", f"- [Zdjęcie lotnicze działki]({BASE}media/geo/ortofoto-dzialka-zblizenie.jpg)", f"- [Ortofotomapa 1 x 1 km]({BASE}media/geo/ortofoto-1km.jpg)", f"- [Pikselowa mapa działki z gzowo.fun]({BASE}media/mapa-pikselowa/_cala-mapa.webp)", f"- [Postacie low-poly]({BASE}media/postacie/osrodek-daje/characters-front.png)", f"- Zdjęcia: `{BASE}media/photos/<grupa>/<plik>.jpg`, filmy: `{BASE}media/wideo/<id>.mp4`, kadry: `{BASE}media/klatki/<id>/`. Pełna lista w media.json.", "\n## Strona dla ludzi", f"- [Strona główna]({BASE})"]
 w('llms.txt', '\n'.join(ll) + '\n')
 
 E = html.escape
@@ -317,6 +325,8 @@ S.append(sec('rakiety', 'Rakiety', f'<p>{E(F.ROCKETS_NOTE)}</p><div class="g">' 
 body = ''
 for b in F.BRANDS:
     inner = f'<p>{E(b["what"])}</p>'
+    if b['id'] == 'gzowo-34' and b.get('media'):
+        inner += f'<div class="logos"><a class="dark" href="{E(b["media"][0])}" target="_blank" rel="noopener"><img src="{E(b["media"][0])}" alt="Logo Gzowa 34: biała ośmiornica na czarnym tle" loading="lazy" width="200" height="200"></a></div>'
     if b['id'] == 'gzowo-labs':
         L = b['logo']
         inner += f'<div class="logos"><a href="media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg"><img src="media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg" alt="Logo Gzowo Labs poziome" loading="lazy" width="320" height="120"></a><a href="media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg"><img src="media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg" alt="Znak Gzowo Labs" loading="lazy" width="120" height="120"></a><a class="dark" href="media/brand/gzowo-labs/svg/gzowo-labs-pionowe-ciemne-tlo.svg"><img src="media/brand/gzowo-labs/svg/gzowo-labs-pionowe-ciemne-tlo.svg" alt="Logo Gzowo Labs pionowe na ciemnym tle" loading="lazy" width="160" height="160"></a><a class="dark" href="media/brand/gzowo-labs/strona/gzowo-labs-fire.gif"><img src="media/brand/gzowo-labs/strona/gzowo-labs-fire.gif" alt="Płonący napis Gzowo Labs" loading="lazy" width="300" height="80"></a></div>'
@@ -332,7 +342,9 @@ S.append(sec('marki', 'Marki i logo', body))
 S.append(sec('gry', 'Gry i projekty osadzone w Gzowie', '<div class="g">' + ''.join(card(g['name'], g['author'], f'<p>{E(g["what"])}</p>' + (f'<p class="s"><a href="{E(g["url"])}" target="_blank" rel="noopener">{E(g["url"].replace("https://", ""))}</a></p>' if g['url'] else '')) for g in F.GAMES_IN_GZOWO) + '</div>'))
 
 body = f'<p>{E(M.ROOMS_NOTE)} Kliknięcie otwiera pełne zdjęcie, najechanie pokazuje podpis Jurka.</p>'
-used = set()
+arch = [p for p in photos if p['group'] == 'archiwum']
+if arch:
+    body += f'<h4>Archiwum <span>{E(M.GROUPS["archiwum"])}</span></h4><div class="pg">' + ''.join(fig(p) for p in arch) + '</div>'
 for slug, r in rooms.items():
     ps = [p for p in photos if p['group'] == 'galeria' and slug in p['rooms']]
     if not ps:

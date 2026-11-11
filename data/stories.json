@@ -38,7 +38,7 @@
  {
   "id": "helikopter",
   "title": "Helikopter nad Gzowem",
-  "what": "Szamborski czasem przylatuje do Gzowa helikopterem.",
+  "what": "Szamborski czasem przylatuje do Gzowa helikopterem. Granatowy Airbus SP-MMM stał w 2022 na skarpie (pozował przy nim Waldek, pod spodem stała Kropka), a w lipcu 2023 wisiał nisko nad Narwią przy Cyplu.",
   "source": [
    "jurek-2026-11-10"
   ],
@@ -54,9 +54,27 @@
   "confidence": "pewne"
  },
  {
+  "id": "swieta-z-koza",
+  "title": "Święta z kozą",
+  "what": "Na jedne święta Bożego Narodzenia rodzina przywiozła do Gzowa kozę z Warszawy. Dom był jeszcze surowy: kominek, choinka, bela siana i świąteczny stół ze świeczkami.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "czerwona-noc",
+  "title": "Czerwona postać na Cyplu",
+  "what": "Lipcowy zmierzch 2023: Zofia stoi w trawie nad Narwią, cała oświetlona na czerwono, i patrzy na wodę.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "id": "osrodek-fso",
   "title": "Dziesięć domków FSO",
-  "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.",
+  "what": "Działka była ośrodkiem FSO z dziesięcioma domkami (na starej tablicy: Ośrodek Wędkarski w Gzowie). Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.",
   "source": [
    "jurek-2026-11-10"
   ],

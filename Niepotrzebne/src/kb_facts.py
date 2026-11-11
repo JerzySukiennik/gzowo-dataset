@@ -2,8 +2,8 @@
 
 META = {
     "name": "Gzowo Dataset",
-    "version": "1.1",
-    "updated": "2026-11-10",
+    "version": "1.2",
+    "updated": "2026-11-11",
     "language": "pl",
     "site": "https://dataset.gzowo.fun",
     "repo": "https://github.com/JerzySukiennik/gzowo-dataset",
@@ -14,6 +14,7 @@ META = {
 
 SOURCES = {
     "jurek-2026-11-10": "Odpowiedzi Jurka na pytania, rozmowa z 10.11.2026 (najświeższe i najważniejsze źródło).",
+    "jurek-2026-11-11": "Opisy zdjęć i filmów oraz notatka, które Jurek wpisał 11.11.2026 na stronie do opisywania mediów.",
     "galeria": "Podpisy i tytuły z Galerii Gzowo (prezent Jurka dla taty na Dzień Ojca, czerwiec 2026). Pisał je Jurek.",
     "notatki": "Notatki projektowe Jurka z lat 2025-2026 (opisy jego gier i projektów osadzonych w Gzowie).",
     "gra-narew": "Gra Rysia 'NAREW, posesja nad jeziorem' (narew.html). Świat gry jest wzorowany na działce, ale to fikcja.",
@@ -32,7 +33,7 @@ CONFIDENCE = {
 PLACE = {
     "name": "Gzowo 34",
     "nicknames": ["Gzowo", "Ośrodek", "Ośrodek Gzowo", "działka", "posesja nad Narwią"],
-    "what": "Rodzinna działka Sukienników nad Narwią, dawny ośrodek wypoczynkowy FSO. Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.",
+    "what": "Rodzinna działka Sukienników nad Narwią, dawny ośrodek FSO (Fabryki Samochodów Osobowych). Na starej tablicy stoi \"Ośrodek Wędkarski w Gzowie\", na tabliczce domku \"Ośrodek Wypoczynkowy\". Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.",
     "address": "Gzowo 34, wieś Gzowo, gmina Pokrzywnica, powiat pułtuski, województwo mazowieckie, Polska",
     "coordinates": {"lat": 52.612806, "lon": 21.116000, "note": "Punkt Gzowo 34 użyty w projekcie Gzowo Meadow."},
     "from_warsaw": "Ok. 45 km w linii prostej na północ od centrum Warszawy (wyliczone ze współrzędnych). Rodzina mieszka w Warszawie i przyjeżdża na działkę.",
@@ -58,13 +59,22 @@ PLACE = {
 }
 
 HISTORY = [
-    {"when": "przed 2021", "what": "Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"when": "przed 2021", "what": "Na tym terenie działał ośrodek FSO (Fabryki Samochodów Osobowych). Stara czerwona tablica mówi \"Ośrodek Wędkarski w Gzowie\", tabliczka na domku \"Ośrodek Wypoczynkowy\". Stało tu 10 domków i wiata, był też budynek łazienek.", "source": ["jurek-2026-11-10", "jurek-2026-11-11", "obserwacja"], "confidence": "pewne"},
     {"when": "nieznane, dawniej", "what": "Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
     {"when": "po wojnie i do dziś", "what": "To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "2020-11-30", "what": "Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem.", "source": ["obserwacja", "jurek-2026-11-10"], "confidence": "pewne"},
+    {"when": "2021-05-17", "what": "Zdjęcie papierowej mapy geodezyjnej okolicy, zrobione w Warszawie miesiąc przed tym, jak działka trafiła do Sukienników.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {"when": "2021-06", "what": "Od tego miesiąca Sukiennicy mają działkę Gzowo 34.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"when": "2021-06-13", "what": "Jedno z pierwszych zdjęć z działki: Domek nr 1, ciemny drewniany domek z czerwonymi drzwiami i tabliczką \"Ośrodek Wypoczynkowy\". W tle siedzi Rysio.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"when": "2021-07-10", "what": "Rysio stoi o zachodzie słońca na Cyplu i rzuca coś do Narwi.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"when": "2021-10-23", "what": "Zdjęcie starej czerwonej tablicy \"Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie\".", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {"when": "po 2021", "what": "Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"when": "jedne święta, rok nieznany", "what": "Boże Narodzenie w Gzowie z kozą przywiezioną na chwilę z Warszawy. Dom jest jeszcze w surowym stanie, są Jurek, Rysio, Zofia i tata.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"when": "2022-09-06", "what": "Na skarpie stoi granatowy helikopter SP-MMM. Waldek pozuje przy nim z nogą na płozie, pod helikopterem stoi jego pies Kropka.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {"when": "ok. zimy 2022/2023", "what": "Czas Dropsika, małego czarno-karmelowego psa. Film DANCE z nim został zmontowany 28.01.2023. Niedługo po tym, jak się pojawił, został porwany.", "source": ["jurek-2026-11-10", "obserwacja"], "confidence": "prawdopodobne"},
+    {"when": "2023-06-07", "what": "Zdjęcie logo Gzowa 34: biała ośmiornica na czarnym tle.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"when": "2023-07-08", "what": "Zofia stoi o zmierzchu na Cyplu, cała oświetlona na czerwono, i patrzy na Narew.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"when": "2023-07-15", "what": "Szamborski wisi helikopterem nisko nad Narwią przy Cyplu, na brzegu są Rysio i Zofia.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {"when": "2023-08-29", "what": "Jurek jako KALAKASANYT nagrywa w Warszawie reakcję na '200 memes in 1 song'.", "source": ["obserwacja", "jurek-2026-11-10"], "confidence": "pewne"},
     {"when": "2025-05-25", "what": "Ktoś w zielonej bluzie z kapturem maluje na ziemi przed domkiem wielkie kolorowe płótno szczotką na długim kiju (film z sali 3C Galerii).", "source": ["obserwacja"], "confidence": "pewne"},
     {"when": "2025, lato albo jesień", "what": "Powstaje Gzowo Space Program (GSP), rakiety modelarskie Jurka i taty. Notatki mówią o lecie 2025, strona o jesieni 2025.", "source": ["notatki", "gzowo.fun"], "confidence": "niepewne"},
@@ -102,6 +112,7 @@ PEOPLE = [
             "Autor gry 'NAREW, posesja nad jeziorem', w której chodzi się po działce.",
             "Na zdjęciach: pływa na desce SUP w kapoku, łapie wiatr na motorówce, pozuje w okrągłych okularach (\"Rysio lubi Old School\"), zimą trzyma wielką taflę lodu (\"Zimowy obiad Rysia\") i staje w pozie Supermana w świetle reflektora (\"Strike a pose!\").",
             "Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia).",
+            "W czerwcu 2021 siedzi w tle zdjęcia Domku nr 1, w lipcu 2021 rzuca coś do Narwi o zachodzie słońca na Cyplu.",
         ],
         "looks": "Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.",
         "in_games": "W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.",
@@ -119,11 +130,13 @@ PEOPLE = [
             "Czyta dzieciom książki na działce (\"Letnia lektura\"), konsultował budowę tarasu.",
             "Prowadzi firmę R&D Studio (rd.studio).",
             "To dla niego powstała Galeria Gzowo (Dzień Ojca 2026).",
+            "Jest ilustracja \"Jan Sukiennik z kozą nad Narwią\": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie.",
         ],
         "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
         "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
         "source": ["jurek-2026-11-10", "notatki", "galeria", "gra-narew", "gzowo.fun"], "confidence": "pewne",
     },
+    {"id": "zofia", "name": "Zofia", "aliases": ["Mama"], "group": "rodzina", "role": "Mama Jurka i Rysia.", "facts": ["08.07.2023 stoi o zmierzchu na Cyplu w długim stroju, cała oświetlona na czerwono, i patrzy na Narew.", "15.07.2023 jest z Rysiem na Cyplu, kiedy Szamborski wisi helikopterem nad wodą.", "Jest na filmie ze świąt w Gzowie z kozą."], "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {
         "id": "waldek", "name": "Waldek", "full_name": "Waldemar Otton", "group": "przyjaciele",
         "role": "Pracownik i pomocnik w Gzowie, ale też bardzo przyjaciel.",
@@ -132,6 +145,8 @@ PEOPLE = [
             "Ma swój dom w okolicy (miejsce \"dom Waldka\").",
             "Dropsik był bardziej jego psem niż Sukienników.",
             "W Galerii ma własny pokój \"Ottonowie. Wierni członkowie Gzowa\" z portretem z żoną Bożeną, zatytułowanym \"Dziadkowie\".",
+            "Na zdjęciu z 06.09.2022 pozuje przy helikopterze na skarpie: żółta czapka, zielona wzorzysta marynarka, noga na płozie.",
+            "Miał psa Kropkę (zmarła ok. 2024).",
         ],
         "in_games": "W grze Rysia Waldek przyjeżdża konno, kiedy wpisze się poprawny kod na ścianie (\"Waldek jeździ tu konno, odkąd pamiętam\"), jest też \"zakład z Waldkiem\" o kopanie.",
         "source": ["jurek-2026-11-10", "galeria", "gra-narew"], "confidence": "pewne",
@@ -156,7 +171,7 @@ PEOPLE = [
     {"id": "benny", "name": "Benny", "group": "okolica", "role": "Lokalna postać, lubiana przez rodzinę.", "facts": ["Znany z tego, że często chodzi z puszką piwa, nawet w deszczu."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "moya-ekipa", "name": "Ekipa stacji Moya", "group": "okolica", "role": "Bardzo miłe panie, które pracują na stacji Moya, i pan, który często tam przychodzi.", "facts": [], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "major", "name": "Major", "group": "okolica", "role": "Łowi ryby, ale też robi u Sukienników wycinki drzew.", "facts": ["Nie wiadomo, czy Major to ksywka, stopień czy nazwisko."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
-    {"id": "szamborski", "name": "Szamborski", "group": "przyjaciele", "role": "Czasem przylatuje do Gzowa helikopterem.", "facts": ["Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "pewne"},
+    {"id": "szamborski", "name": "Szamborski", "group": "przyjaciele", "role": "Czasem przylatuje do Gzowa helikopterem.", "facts": ["15.07.2023 wisiał helikopterem nisko nad Narwią przy Cyplu (film).", "Granatowy helikopter Airbus z rejestracją SP-MMM stał na skarpie 06.09.2022. To najpewniej jego maszyna (wniosek).", "Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "pewne"},
     {"id": "pawel", "name": "Paweł", "group": "okolica", "role": "Łysy gość z kanału obok Kociej Wyspy.", "facts": ["Jurek opisał go jako \"jakiś łysy gość\", więcej o nim nie wiadomo."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "wojt", "name": "Wójt", "group": "okolica", "role": "Wójt, czyli szef gminy. Jurek wymienił go jako postać Gzowa, bez szczegółów.", "facts": [], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
 ]
@@ -176,6 +191,8 @@ ANIMALS = [
     {"id": "beethoven", "name": "Beethoven", "kind": "kot", "status": "kot Czupryńskich",
      "facts": ["Biały, głuchy, \"mega fajny\".", "\"Beethoven nie boi się Jurka (podejrzane)\": siedzi spokojnie przed Jurkiem na plaży.", "\"Kontemplujący Beethoven\": siedzi tyłem na trawie i wita słońce nad zamgloną Narwią."],
      "source": ["jurek-2026-11-10", "galeria"], "confidence": "pewne"},
+    {"id": "koza", "name": "Koza", "kind": "koza", "status": "gość na jedne święta", "facts": ["Była w Gzowie przez jedne święta Bożego Narodzenia, rodzina przywiozła ją na chwilę z Warszawy.", "Brązowo-biała, z czerwoną obrożą. Na filmie ze świąt stoi przy beli siana i przytula się do niej chłopiec.", "Jest też na ilustracji z Janem Sukiennikiem w białym futrze nad Narwią."], "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"id": "kropka", "name": "Kropka", "kind": "pies", "status": "pies Waldka, zmarła ok. 2024", "facts": ["Pies Waldka. Zmarła mniej więcej dwa lata przed listopadem 2026.", "Na zdjęciu z 06.09.2022 stoi pod helikopterem na skarpie."], "source": ["jurek-2026-11-11"], "confidence": "pewne"},
     {"id": "szopy", "name": "Szopy pracze", "kind": "dzikie", "status": "ważne dla Gzowa",
      "facts": ["Jurek zaznaczył je jako ważne.", "W grze Rysia pięć szopów tańczy w kręgu wokół ogniska, szybciej, gdy ogień płonie."],
      "source": ["jurek-2026-11-10", "gra-narew"], "confidence": "pewne"},
@@ -193,10 +210,10 @@ ANIMALS = [
 
 SPOTS = [
     {"id": "dom", "name": "Dom", "aliases": ["kloc (w grze Rysia)"], "where": "na działce, wbudowany w skarpę, wśród sosen",
-     "facts": ["Zwykły graniastosłup. Bryłą nawiązuje do dawnych łazienek ośrodka FSO.", "Z zewnątrz (film z 28.07.2026): niska bryła wsunięta w skarpę, na dole otwarty garaż albo schowek, na górze przeszklony prostopadłościan, dookoła sosny i łąka.", "W środku jeden open space ok. 12 x 8 m: ściana z płyt OSB, marmurowa podłoga, sufit ze sklejki na czarnych szynach, przeszklenie na całą wysokość z widokiem na taras, trawę, sosny i Narew.", "Wyposażenie: czarny kominek-koza z rurą, pianino cyfrowe na stojaku, telewizor (LG OLED bez internetu), długa czarna wisząca półka z konsolą PlayStation, modelem z klocków i kulą śnieżną, szafa z lustrem, czarna sofa, duży stół ze sklejki na limonkowych kozłach, kuchnia ze stali nierdzewnej z boomboxem, lampa podłogowa, zasłona, podświetlany pas onyksu przy podłodze.", "Przy dużym stole rodzina prawie zawsze je rano śniadania."],
+     "facts": ["Zwykły graniastosłup. Bryłą nawiązuje do dawnych łazienek ośrodka FSO.", "Z zewnątrz (film z 28.07.2026): niska bryła wsunięta w skarpę, na dole otwarty garaż albo schowek, na górze przeszklony prostopadłościan, dookoła sosny i łąka.", "W środku jeden open space ok. 12 x 8 m: ściana z płyt OSB, marmurowa podłoga, sufit ze sklejki na czarnych szynach, przeszklenie na całą wysokość z widokiem na taras, trawę, sosny i Narew.", "Wyposażenie: czarny kominek-koza z rurą, pianino cyfrowe na stojaku, telewizor (LG OLED bez internetu), długa czarna wisząca półka z konsolą PlayStation, modelem z klocków i kulą śnieżną, szafa z lustrem, czarna sofa, duży stół ze sklejki na limonkowych kozłach, kuchnia ze stali nierdzewnej z boomboxem, lampa podłogowa, zasłona, podświetlany pas onyksu przy podłodze.", "Przy dużym stole rodzina prawie zawsze je rano śniadania.", "Na filmie ze świąt, gdy dom był jeszcze surowy: na ścianie z OSB świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, stoi choinka."],
      "source": ["jurek-2026-11-10", "notatki", "obserwacja"], "confidence": "pewne"},
     {"id": "taras", "name": "Taras", "where": "przy domu", "facts": ["Drewniany, z desek, duży.", "Zdjęcie \"Praca nad tarasem. Konsultacja tarasu\": Jan z pracownikiem na piasku budowy."], "source": ["jurek-2026-11-10", "galeria"], "confidence": "pewne"},
-    {"id": "domki", "name": "Trzy domki", "where": "na działce", "facts": ["Zostały 3 z 10 domków dawnego ośrodka FSO.", "Na filmie z 2025 widać jeden: ciemny, drewniany, z czerwonymi drzwiami, obok drewno na opał."], "source": ["jurek-2026-11-10", "obserwacja"], "confidence": "pewne"},
+    {"id": "domki", "name": "Trzy domki", "where": "na działce", "facts": ["Zostały 3 z 10 domków dawnego ośrodka FSO.", "Na filmie z 2025 widać jeden: ciemny, drewniany, z czerwonymi drzwiami, obok drewno na opał.", "Domki mają numery. Domek nr 1 (zdjęcie z 13.06.2021): ciemne deski, czerwone drzwi, okno w czerwonej ramie, betonowe bloczki, biała tabliczka \"Ośrodek Wypoczynkowy\"."], "source": ["jurek-2026-11-10", "obserwacja"], "confidence": "pewne"},
     {"id": "wiata", "name": "Wiata", "where": "na działce", "facts": ["Stoi od czasów ośrodka.", "Pod nią pasiasty fotel i drewno na opał. Tu powstały zdjęcia \"Wspólny czas\" i \"Krowi chłopiec\".", "W grze Rysia przy wiacie stoją koparka, łopata oparta o słup i palenisko."], "source": ["jurek-2026-11-10", "galeria", "gra-narew", "obserwacja"], "confidence": "pewne"},
     {"id": "panele", "name": "Panele słoneczne", "where": "na działce", "facts": ["Stoją tam, gdzie kiedyś były domki."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "ognisko", "name": "Ognisko", "where": "na działce", "facts": ["\"Ogień + Gzowo to niepokonane combo!\"", "Miejsce malowania światłem po zmroku."], "source": ["jurek-2026-11-10", "galeria"], "confidence": "pewne"},
@@ -204,9 +221,9 @@ SPOTS = [
     {"id": "plaza", "name": "Plaża", "aliases": ["Plaża Gzowo 34"], "where": "na dole, nad Narwią",
      "facts": ["Trawiasto-piaszczysty stok schodzący do płytkiej wody, trzciny, łódki leżące dnem do góry.", "Dojazd piaszczystą drogą wzdłuż muru z gabionów (kosze z kamieniem).", "Tu się kopie w piasku i woduje SUP-a, kajaki i motorówkę.", "Na zdjęciach z 08.08.2026 cumuje żółty skuter wodny, ale nie jest Sukienników."],
      "source": ["jurek-2026-11-10", "galeria", "obserwacja"], "confidence": "pewne"},
-    {"id": "skarpa", "name": "Skarpa i stary skład", "where": "górna część działki", "facts": ["Stroma skarpa nadnarwiańska.", "Pod ziemią najprawdopodobniej stary skład bomb i broni.", "W ziemi na działce trafiają się niewypały z czasów wojny."], "source": ["jurek-2026-11-10", "geodane"], "confidence": "niepewne"},
+    {"id": "skarpa", "name": "Skarpa i stary skład", "where": "górna część działki", "facts": ["Stroma skarpa nadnarwiańska.", "Pod ziemią najprawdopodobniej stary skład bomb i broni.", "W ziemi na działce trafiają się niewypały z czasów wojny.", "Na skarpie ląduje helikopter (zdjęcie z 06.09.2022)."], "source": ["jurek-2026-11-10", "geodane"], "confidence": "niepewne"},
     {"id": "sosny", "name": "Kępa sosen", "where": "środek działki", "facts": ["Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym."], "source": ["obserwacja"], "confidence": "pewne"},
-    {"id": "cypel", "name": "Cypel", "where": "nad Narwią przy działce", "facts": ["Jurek wymienił Cypel jako osobne miejsce.", "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "prawdopodobne"},
+    {"id": "cypel", "name": "Cypel", "where": "nad Narwią przy działce", "facts": ["Jurek wymienił Cypel jako osobne miejsce i podpisał nim cztery nagrania i ilustrację.", "Miejsce na zachody słońca nad samą wodą: Rysio rzuca coś do Narwi (2021), Zofia stoi o zmierzchu w czerwonym świetle (2023).", "Jest tu palenisko i czerwone krzesła. 15.07.2023 tuż przy brzegu wisiał nad wodą helikopter Szamborskiego.", "Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "prawdopodobne"},
     {"id": "kocia-wyspa", "name": "Kocia Wyspa", "where": "w okolicy, obok kanału", "facts": ["Wyspa znana rodzinie, obok niej jest kanał, przy którym bywa Paweł.", "Skąd nazwa i gdzie dokładnie leży, jeszcze nie wiadomo. Koty są w Gzowie ważne, więc nazwa pewnie nie jest przypadkowa (wniosek)."], "source": ["jurek-2026-11-10", "wniosek"], "confidence": "prawdopodobne"},
     {"id": "kanal", "name": "Kanał", "where": "obok Kociej Wyspy", "facts": ["Stąd jest Paweł."], "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "gl-launch-site", "name": "GL Launch Site", "aliases": ["GSP Launch Site (stara nazwa)"], "where": "pola, łąki i szutrowa droga w okolicy Gzowa",
@@ -232,7 +249,9 @@ OBJECTS = [
     {"id": "futro", "name": "Białe futro i buty z krokodyla", "ours": True, "facts": ["Strój KS-a. \"Alligator included\" w podpisie zdjęcia \"Krowi chłopiec\" to najpewniej te buty."], "source": ["notatki", "galeria", "wniosek"]},
     {"id": "skuter", "name": "Żółty skuter wodny", "ours": False, "facts": ["Widać go na zdjęciach plaży, ale NIE jest Sukienników.", "W grze Rysia można nim pływać i robić fale."], "source": ["jurek-2026-11-10", "obserwacja", "gra-narew"]},
     {"id": "polo", "name": "Czerwone VW Polo", "ours": False, "facts": ["Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników."], "source": ["jurek-2026-11-10", "obserwacja"]},
-    {"id": "helikopter", "name": "Helikopter Szamborskiego", "ours": False, "facts": ["Czasem ląduje w Gzowie, przylatuje nim Szamborski."], "source": ["jurek-2026-11-10"]},
+    {"id": "helikopter", "name": "Helikopter Szamborskiego", "ours": False, "facts": ["Czasem ląduje w Gzowie, przylatuje nim Szamborski.", "Granatowy Airbus, rejestracja SP-MMM. Stał na skarpie (2022) i wisiał nad Narwią przy Cyplu (2023)."], "source": ["jurek-2026-11-10"]},
+    {"id": "tablica-fso", "name": "Stara tablica ośrodka FSO", "ours": True, "facts": ["Czerwona, pordzewiała blacha z białym napisem: FABRYKA SAMOCHODÓW OSOBOWYCH, OŚRODEK WĘDKARSKI W GZOWIE.", "Pamiątka po dawnym ośrodku."], "source": ["jurek-2026-11-11"]},
+    {"id": "mapa-geodezyjna", "name": "Mapa geodezyjna", "ours": True, "facts": ["Papierowa mapa z działkami, budynkami i drogami okolicy, z czerwonymi pieczątkami. Sfotografowana w maju 2021."], "source": ["jurek-2026-11-11"]},
 ]
 
 RITUALS = [
@@ -260,7 +279,7 @@ SAYINGS = [
 ]
 
 VOCABULARY = [
-    {"word": "Ośrodek", "meaning": "Działka Gzowo 34, bo to dawny ośrodek wypoczynkowy FSO."},
+    {"word": "Ośrodek", "meaning": "Działka Gzowo 34, bo to dawny ośrodek FSO (wędkarski i wypoczynkowy)."},
     {"word": "KS", "meaning": "Kierownik Ośrodka, czyli tata."},
     {"word": "Gzowiański", "meaning": "Przymiotnik od Gzowa: Gzowiański somsiad, Gzowiańskie momenty, Gzowiańskie klasyki."},
     {"word": "somsiad", "meaning": "Sąsiad, żartobliwie."},
@@ -279,9 +298,11 @@ STORIES = [
     {"id": "porwanie-dropsika", "title": "Porwanie Dropsika", "what": "Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "sklad-bomb", "title": "Skład pod skarpą", "what": "Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni.", "source": ["jurek-2026-11-10"], "confidence": "niepewne"},
     {"id": "niewypaly", "title": "Niewypały i saperzy", "what": "Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
-    {"id": "helikopter", "title": "Helikopter nad Gzowem", "what": "Szamborski czasem przylatuje do Gzowa helikopterem.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "helikopter", "title": "Helikopter nad Gzowem", "what": "Szamborski czasem przylatuje do Gzowa helikopterem. Granatowy Airbus SP-MMM stał w 2022 na skarpie (pozował przy nim Waldek, pod spodem stała Kropka), a w lipcu 2023 wisiał nisko nad Narwią przy Cyplu.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "wycinka", "title": "Wycinka Majora", "what": "Major, który na co dzień łowi ryby, robi na działce wycinki drzew.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
-    {"id": "osrodek-fso", "title": "Dziesięć domków FSO", "what": "Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
+    {"id": "swieta-z-koza", "title": "Święta z kozą", "what": "Na jedne święta Bożego Narodzenia rodzina przywiozła do Gzowa kozę z Warszawy. Dom był jeszcze surowy: kominek, choinka, bela siana i świąteczny stół ze świeczkami.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"id": "czerwona-noc", "title": "Czerwona postać na Cyplu", "what": "Lipcowy zmierzch 2023: Zofia stoi w trawie nad Narwią, cała oświetlona na czerwono, i patrzy na wodę.", "source": ["jurek-2026-11-11"], "confidence": "pewne"},
+    {"id": "osrodek-fso", "title": "Dziesięć domków FSO", "what": "Działka była ośrodkiem FSO z dziesięcioma domkami (na starej tablicy: Ośrodek Wędkarski w Gzowie). Zostały trzy, a nowy dom wziął kształt od dawnych łazienek.", "source": ["jurek-2026-11-10"], "confidence": "pewne"},
     {"id": "orange-beauty", "title": "Lot The Orange Beauty", "what": "Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył.", "source": ["gzowo.fun", "obserwacja"], "confidence": "pewne"},
     {"id": "mk2", "title": "Pierwszy spadochron", "what": "Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026).", "source": ["gzowo.fun"], "confidence": "pewne"},
     {"id": "mk4", "title": "Mk IV po wielkim sukcesie", "what": "Zdjęcie: rakieta Gzofajfus Classic Mk IV leży na trawie po locie, obok niebieski spadochron.", "source": ["galeria"], "confidence": "pewne"},
@@ -306,7 +327,7 @@ ROCKETS = [
 ]
 
 BRANDS = [
-    {"id": "gzowo-34", "name": "Gzowo 34 (Ośrodek)", "what": "Sama działka. Jej logo to ośmiornica.", "media": [], "note": "Pliku z ośmiornicą jeszcze nie ma w datasecie (nie znaleziono go na komputerze Jurka).", "source": ["jurek-2026-11-10"]},
+    {"id": "gzowo-34", "name": "Gzowo 34 (Ośrodek)", "what": "Sama działka. Jej logo to ośmiornica.", "media": ["media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg"], "note": "Jest zdjęcie logo: biała ośmiornica z długimi, wygiętymi mackami na czarnym tle (media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg). Czystego pliku wektorowego jeszcze nie ma.", "source": ["jurek-2026-11-10", "jurek-2026-11-11"]},
     {"id": "gzowo-labs", "name": "Gzowo Labs", "url": "https://gzowo.fun", "instagram": "@gzowo_labs", "github": "https://github.com/JerzySukiennik",
      "what": "Marka i portfolio Jurka: rakiety, druk 3D, gry i software z AI, wszystko w jednym miejscu. Od listopada 2026 obejmuje też GSP.",
      "tagline": "I build things that fly. And a few that don't crash.",
@@ -346,8 +367,8 @@ GAMES_IN_GZOWO = [
 GAME_KIT = {
     "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
     "board_spaces": ["Dom (śniadanie przy dużym stole)", "Taras", "Wiata z pasiastym fotelem", "Trzy domki FSO", "Panele słoneczne", "Ognisko", "Hamak w sosnach", "Skarpa i stary skład", "Plaża", "Narew", "Mur z gabionów", "GL Launch Site", "Dom Waldka", "Stacja Moya", "Sklep", "Aleja Lipowa", "Cypel", "Kocia Wyspa", "Kanał", "Lądowisko helikoptera"],
-    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "Panie ze stacji Moya", "Dropsik", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
-    "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "niewypał", "helikopter", "wędka", "drewno z wycinki", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
+    "characters": ["Jurek (konstruktor rakiet)", "Rysio (czerwona bluza Spider-Man)", "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)", "Zofia (Mama)", "Waldek (operator koparki, przyjaciel)", "Bożena", "Ciszewscy: Bartek, Clu, Ignacy, Helena", "Czupryńscy", "Janek Kunstler", "Benny", "Major (wędkarz i drwal)", "Szamborski (przylatuje helikopterem)", "Paweł (łysy gość z kanału)", "Wójt", "Panie ze stacji Moya", "Dropsik", "Kropka (pies Waldka)", "Koza (gość na święta)", "Beethoven (głuchy biały kot)", "szopy pracze", "ośmiornica (logo)"],
+    "items": ["koparka", "Tesla", "motorówka", "kajak", "deska SUP", "dron Avata", "rakieta Gzofajfus", "spadochron", "AirTag z nosa rakiety", "łopata", "stara tablica FSO", "mapa geodezyjna", "niewypał", "helikopter", "wędka", "drewno z wycinki", "tafla lodu", "lody ze stacji Moya", "szyszki (waluta)", "puszka", "hamak", "pianino", "białe futro", "buty z krokodyla"],
     "mechanics": ["Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."],
     "event_cards": [
         "Ośrodek daje: dostajesz coś za nic.",
@@ -362,6 +383,9 @@ GAME_KIT = {
         "Major złowił rybę: kolacja nad Narwią.",
         "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
         "Paweł macha z kanału obok Kociej Wyspy.",
+        "Koza przyjechała z Warszawy na święta: wszyscy zbierają się przy choince.",
+        "Znajdujesz starą tablicę FSO: poznajesz historię ośrodka.",
+        "Czerwona noc na Cyplu: ktoś stoi nad wodą i patrzy w zmierzch.",
         "Narew zamarzła: można przejść po lodzie.",
         "Zimowy obiad: zjadasz taflę lodu.",
         "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
@@ -389,11 +413,15 @@ GAME_KIT = {
         {"q": "Jakie hasło mają Ciszewscy i Sukiennicy?", "a": "Herbata nie wyklucza kawy."},
         {"q": "Od kiedy Sukiennicy mają działkę?", "a": "Od czerwca 2021."},
         {"q": "Co to jest zimowy obiad?", "a": "Tafla lodu z Narwi."},
+        {"q": "Co jest napisane na starej czerwonej tablicy?", "a": "Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie."},
+        {"q": "Jakie zwierzę przyjechało do Gzowa na jedne święta?", "a": "Koza, przywieziona z Warszawy."},
+        {"q": "Jaką rejestrację ma granatowy helikopter?", "a": "SP-MMM."},
+        {"q": "Jak miał na imię pies Waldka, który stał pod helikopterem?", "a": "Kropka."},
     ],
 }
 
 OPEN_QUESTIONS = [
-    "Plik z logo Gzowa 34 (ośmiornica): nie ma go w datasecie, trzeba go dostać od Jurka.",
+    "Czysty plik logo Gzowa 34: na razie jest tylko zdjęcie białej ośmiornicy.",
     "Pełne brzmienie powiedzonka \"Tak to czasem w życiu bywa, pies się topi, ła...\".",
     "Gdzie dokładnie jest sklep, do którego chodzi rodzina (podyktowane \"w Nieporęcie\").",
     "Imię śp. Gzowiańskiego somsiada (Jurek: \"chyba Arek\").",
@@ -407,4 +435,7 @@ OPEN_QUESTIONS = [
     "Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).",
     "Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.",
     "Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa.",
+    "W którym roku były święta z kozą.",
+    "Gdzie wiszą stara tablica FSO i ośmiornica: Jurek podpisał je jako Dom, a GPS obu zdjęć wskazuje okolice Warszawy.",
+    "Czy helikopter SP-MMM z 2022 to na pewno maszyna Szamborskiego."
 ]

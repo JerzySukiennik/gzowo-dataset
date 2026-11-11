@@ -26,6 +26,7 @@
   "Jurek (konstruktor rakiet)",
   "Rysio (czerwona bluza Spider-Man)",
   "KS, Kierownik Ośrodka (białe futro, buty z krokodyla)",
+  "Zofia (Mama)",
   "Waldek (operator koparki, przyjaciel)",
   "Bożena",
   "Ciszewscy: Bartek, Clu, Ignacy, Helena",
@@ -38,6 +39,8 @@
   "Wójt",
   "Panie ze stacji Moya",
   "Dropsik",
+  "Kropka (pies Waldka)",
+  "Koza (gość na święta)",
   "Beethoven (głuchy biały kot)",
   "szopy pracze",
   "ośmiornica (logo)"
@@ -53,6 +56,8 @@
   "spadochron",
   "AirTag z nosa rakiety",
   "łopata",
+  "stara tablica FSO",
+  "mapa geodezyjna",
   "niewypał",
   "helikopter",
   "wędka",
@@ -82,6 +87,9 @@
   "Major złowił rybę: kolacja nad Narwią.",
   "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
   "Paweł macha z kanału obok Kociej Wyspy.",
+  "Koza przyjechała z Warszawy na święta: wszyscy zbierają się przy choince.",
+  "Znajdujesz starą tablicę FSO: poznajesz historię ośrodka.",
+  "Czerwona noc na Cyplu: ktoś stoi nad wodą i patrzy w zmierzch.",
   "Narew zamarzła: można przejść po lodzie.",
   "Zimowy obiad: zjadasz taflę lodu.",
   "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
@@ -150,6 +158,22 @@
   {
    "q": "Co to jest zimowy obiad?",
    "a": "Tafla lodu z Narwi."
+  },
+  {
+   "q": "Co jest napisane na starej czerwonej tablicy?",
+   "a": "Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie."
+  },
+  {
+   "q": "Jakie zwierzę przyjechało do Gzowa na jedne święta?",
+   "a": "Koza, przywieziona z Warszawy."
+  },
+  {
+   "q": "Jaką rejestrację ma granatowy helikopter?",
+   "a": "SP-MMM."
+  },
+  {
+   "q": "Jak miał na imię pies Waldka, który stał pod helikopterem?",
+   "a": "Kropka."
   }
  ]
 }

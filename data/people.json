@@ -36,7 +36,8 @@
   "facts": [
    "Autor gry 'NAREW, posesja nad jeziorem', w której chodzi się po działce.",
    "Na zdjęciach: pływa na desce SUP w kapoku, łapie wiatr na motorówce, pozuje w okrągłych okularach (\"Rysio lubi Old School\"), zimą trzyma wielką taflę lodu (\"Zimowy obiad Rysia\") i staje w pozie Supermana w świetle reflektora (\"Strike a pose!\").",
-   "Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia)."
+   "Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia).",
+   "W czerwcu 2021 siedzi w tle zdjęcia Domku nr 1, w lipcu 2021 rzuca coś do Narwi o zachodzie słońca na Cyplu."
   ],
   "looks": "Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.",
   "in_games": "W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.",
@@ -66,7 +67,8 @@
    "W GSP ma tytuł Founding Partner. Jego rakieta to zielony 'Architektoniczny wieżowiec'.",
    "Czyta dzieciom książki na działce (\"Letnia lektura\"), konsultował budowę tarasu.",
    "Prowadzi firmę R&D Studio (rd.studio).",
-   "To dla niego powstała Galeria Gzowo (Dzień Ojca 2026)."
+   "To dla niego powstała Galeria Gzowo (Dzień Ojca 2026).",
+   "Jest ilustracja \"Jan Sukiennik z kozą nad Narwią\": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie."
   ],
   "looks": "Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.",
   "in_games": "W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.",
@@ -80,6 +82,24 @@
   "confidence": "pewne"
  },
  {
+  "id": "zofia",
+  "name": "Zofia",
+  "aliases": [
+   "Mama"
+  ],
+  "group": "rodzina",
+  "role": "Mama Jurka i Rysia.",
+  "facts": [
+   "08.07.2023 stoi o zmierzchu na Cyplu w długim stroju, cała oświetlona na czerwono, i patrzy na Narew.",
+   "15.07.2023 jest z Rysiem na Cyplu, kiedy Szamborski wisi helikopterem nad wodą.",
+   "Jest na filmie ze świąt w Gzowie z kozą."
+  ],
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "id": "waldek",
   "name": "Waldek",
   "full_name": "Waldemar Otton",
@@ -89,7 +109,9 @@
    "To głównie on pracuje koparką i kopie na działce.",
    "Ma swój dom w okolicy (miejsce \"dom Waldka\").",
    "Dropsik był bardziej jego psem niż Sukienników.",
-   "W Galerii ma własny pokój \"Ottonowie. Wierni członkowie Gzowa\" z portretem z żoną Bożeną, zatytułowanym \"Dziadkowie\"."
+   "W Galerii ma własny pokój \"Ottonowie. Wierni członkowie Gzowa\" z portretem z żoną Bożeną, zatytułowanym \"Dziadkowie\".",
+   "Na zdjęciu z 06.09.2022 pozuje przy helikopterze na skarpie: żółta czapka, zielona wzorzysta marynarka, noga na płozie.",
+   "Miał psa Kropkę (zmarła ok. 2024)."
   ],
   "in_games": "W grze Rysia Waldek przyjeżdża konno, kiedy wpisze się poprawny kod na ścianie (\"Waldek jeździ tu konno, odkąd pamiętam\"), jest też \"zakład z Waldkiem\" o kopanie.",
   "source": [
@@ -213,6 +235,8 @@
   "group": "przyjaciele",
   "role": "Czasem przylatuje do Gzowa helikopterem.",
   "facts": [
+   "15.07.2023 wisiał helikopterem nisko nad Narwią przy Cyplu (film).",
+   "Granatowy helikopter Airbus z rejestracją SP-MMM stał na skarpie 06.09.2022. To najpewniej jego maszyna (wniosek).",
    "Pusty pokój \"Heli\" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony)."
   ],
   "source": [

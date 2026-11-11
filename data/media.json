@@ -1,5 +1,6 @@
 {
  "groups": {
+  "archiwum": "Zdjęcia dosłane przez Jurka 11.11.2026. Tytuł, opis, kto i gdzie wpisał Jurek, data i GPS pochodzą z pliku.",
   "galeria": "Zdjęcia z Galerii Gzowo. Tytuły, podpisy, kto i gdzie pochodzą od Jurka (czerwiec 2026). Daty zdjęć z iPhone'a nie zachowały się.",
   "plaza": "Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja miejsca do odwzorowania w 3D. Bez ludzi.",
   "rakiety": "Zdjęcia z folderu Rakietomania (WhatsApp, jesień 2025), których nie było w Galerii."
@@ -1523,6 +1524,143 @@
     "rakieta",
     "warsztat"
    ]
+  },
+  {
+   "id": "archiwum/2021-05-17_mapa-geodezyjna-dzialki",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg",
+   "thumb": "media/miniatury/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg",
+   "w": 1200,
+   "h": 1600,
+   "title": "Mapa geodezyjna działki",
+   "caption": "Papierowa mapa geodezyjna z działkami, budynkami i drogami, rozłożona na stole, z czerwonymi pieczątkami w rogu. Zdjęcie zrobione w Warszawie, miesiąc przed tym, jak działka była Sukienników.",
+   "who_text": "",
+   "where": "Warszawa",
+   "date": "2021-05-17",
+   "rooms": [],
+   "sees": "",
+   "people": [],
+   "tags": [
+    "warszawa"
+   ],
+   "gps": "46 km od Gzowa"
+  },
+  {
+   "id": "archiwum/2021-06-13_domek-nr-1",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/2021-06-13_domek-nr-1.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/2021-06-13_domek-nr-1.jpg",
+   "thumb": "media/miniatury/archiwum/2021-06-13_domek-nr-1.jpg",
+   "w": 1600,
+   "h": 1200,
+   "title": "Domek nr 1",
+   "caption": "Ciemny drewniany domek z czerwonymi drzwiami i oknem w czerwonej ramie, na betonowych bloczkach, pod sosnami. Na ścianie biała tabliczka z napisem OŚRODEK WYPOCZYNKOWY. W tle po lewej siedzi Rysio Sukiennik. Domek nr. 1",
+   "who_text": "Rysio",
+   "where": "Domki",
+   "date": "2021-06-13",
+   "rooms": [],
+   "sees": "",
+   "people": [
+    "rysio"
+   ],
+   "tags": [
+    "domki",
+    "rysio"
+   ],
+   "gps": "Gzowo 34"
+  },
+  {
+   "id": "archiwum/2021-10-23_stara-tablica-osrodka-fso",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg",
+   "thumb": "media/miniatury/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg",
+   "w": 1600,
+   "h": 877,
+   "title": "Stara tablica ośrodka FSO",
+   "caption": "Stara, czerwona, pordzewiała blaszana tablica z białym napisem: FABRYKA SAMOCHODÓW OSOBOWYCH, OŚRODEK WĘDKARSKI W GZOWIE. Zdjęcie zrobione poza Gzowem (GPS z okolic Warszawy).",
+   "who_text": "",
+   "where": "Dom",
+   "date": "2021-10-23",
+   "rooms": [],
+   "sees": "",
+   "people": [],
+   "tags": [
+    "dom"
+   ],
+   "gps": "47 km od Gzowa"
+  },
+  {
+   "id": "archiwum/2022-09-06_waldek-pozuje-z-helikopterem",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg",
+   "thumb": "media/miniatury/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg",
+   "w": 1200,
+   "h": 1600,
+   "title": "Waldek pozuje z helikopterem",
+   "caption": "Granatowy helikopter Airbus z rejestracją SP-MMM stoi na trawie pod drzewami. Waldek w żółtej czapce i zielonej wzorzystej marynarce pozuje z nogą na płozie, pod helikopterem stoi pies Kropka.",
+   "who_text": "Waldek, Kropka",
+   "where": "Skarpa",
+   "date": "2022-09-06",
+   "rooms": [],
+   "sees": "",
+   "people": [
+    "waldek"
+   ],
+   "tags": [
+    "kropka",
+    "skarpa",
+    "waldek"
+   ],
+   "gps": "Gzowo 34"
+  },
+  {
+   "id": "archiwum/2023-06-07_logo-gzowo-34",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg",
+   "thumb": "media/miniatury/archiwum/2023-06-07_logo-gzowo-34.jpg",
+   "w": 808,
+   "h": 974,
+   "title": "Logo Gzowo 34",
+   "caption": "Biała ośmiornica z długimi, wygiętymi mackami na czarnym tle, czarno-białe zdjęcie. Logo Gzowo 34",
+   "who_text": "",
+   "where": "Dom",
+   "date": "2023-06-07",
+   "rooms": [],
+   "sees": "",
+   "people": [],
+   "tags": [
+    "dom"
+   ],
+   "gps": "46 km od Gzowa"
+  },
+  {
+   "id": "archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia",
+   "group": "archiwum",
+   "file": "media/photos/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg",
+   "url": "https://dataset.gzowo.fun/media/photos/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg",
+   "thumb": "media/miniatury/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg",
+   "w": 1536,
+   "h": 1024,
+   "title": "Jan Sukiennik z kozą nad Narwią",
+   "caption": "Ilustracja w malarskim stylu: Jan Sukiennik w białym kudłatym futrze i czarnej czapce stoi tyłem nad zamgloną rzeką o złotym świcie i trzyma na smyczy brązowo-białą kozę z czerwoną obrożą. Na trawie jesienne liście.",
+   "who_text": "Tata, Koza",
+   "where": "Cypel",
+   "date": "",
+   "rooms": [],
+   "sees": "",
+   "people": [
+    "jan"
+   ],
+   "tags": [
+    "cypel",
+    "koza",
+    "tata"
+   ],
+   "gps": ""
   }
  ],
  "videos": [
@@ -2055,6 +2193,139 @@
     "media/klatki/rakieta_2025-11-29_start-z-daleka-2/06_0022s.jpg"
    ],
    "poster": "media/klatki/rakieta_2025-11-29_start-z-daleka-2/04_0014s.jpg"
+  },
+  {
+   "id": "2021-07-10_rysio-nad-woda",
+   "title": "Rysio nad wodą",
+   "date": "2021-07-10",
+   "where": "Cypel",
+   "who": [
+    "Rysio"
+   ],
+   "sees": "Zachód słońca nad Narwią. Ciemna sylwetka dziecka stoi na brzegu wśród traw i rzuca coś do wody.",
+   "note": "GPS z pliku: Gzowo 34. Opisał Jurek.",
+   "tags": [
+    "cypel",
+    "rysio"
+   ],
+   "w": 720,
+   "h": 1280,
+   "duration_s": 12.9,
+   "file": "media/wideo/2021-07-10_rysio-nad-woda.mp4",
+   "url": "https://dataset.gzowo.fun/media/wideo/2021-07-10_rysio-nad-woda.mp4",
+   "bytes": 2879206,
+   "frames": [
+    "media/klatki/2021-07-10_rysio-nad-woda/01_0001s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/02_0004s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/03_0008s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/04_0011s.jpg"
+   ],
+   "poster": "media/klatki/2021-07-10_rysio-nad-woda/03_0008s.jpg"
+  },
+  {
+   "id": "2023-07-08_czerwona-postac-nad-narwia",
+   "title": "Czerwona postać nad Narwią",
+   "date": "2023-07-08",
+   "where": "Cypel",
+   "who": [
+    "Zofia"
+   ],
+   "sees": "Zmierzch nad Narwią, niebo jeszcze pomarańczowe przy horyzoncie. W wysokiej trawie stoi tyłem postać w długim stroju, cała oświetlona na czerwono, i patrzy na wodę. Pod koniec filmu postaci już nie ma.",
+   "note": "GPS z pliku: Gzowo 34. Opisał Jurek.",
+   "tags": [
+    "cypel",
+    "zofia"
+   ],
+   "w": 1280,
+   "h": 720,
+   "duration_s": 47.3,
+   "file": "media/wideo/2023-07-08_czerwona-postac-nad-narwia.mp4",
+   "url": "https://dataset.gzowo.fun/media/wideo/2023-07-08_czerwona-postac-nad-narwia.mp4",
+   "bytes": 10202439,
+   "frames": [
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/01_0002s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/02_0007s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/03_0013s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/04_0018s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/05_0023s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/06_0028s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/07_0034s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/08_0039s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/09_0044s.jpg"
+   ],
+   "poster": "media/klatki/2023-07-08_czerwona-postac-nad-narwia/05_0023s.jpg"
+  },
+  {
+   "id": "2023-07-15_helikopter-nad-narwia",
+   "title": "Helikopter nad Narwią",
+   "date": "2023-07-15",
+   "where": "Cypel",
+   "who": [
+    "Rysio",
+    "Zofia",
+    "Szamborski"
+   ],
+   "sees": "Granatowy helikopter wisi nisko nad Narwią tuż przy brzegu i marszczy wodę. Na skarpie stoi osoba w stroju kąpielowym i macha rękami, obok czerwone krzesła i turkusowy ręcznik, na pierwszym planie popiół z ogniska.",
+   "note": "GPS z pliku: Gzowo 34. Tytuł, kto i gdzie podał Jurek, opis kadru Claude.",
+   "tags": [
+    "cypel",
+    "rysio",
+    "szamborski",
+    "zofia"
+   ],
+   "w": 720,
+   "h": 1280,
+   "duration_s": 9.8,
+   "file": "media/wideo/2023-07-15_helikopter-nad-narwia.mp4",
+   "url": "https://dataset.gzowo.fun/media/wideo/2023-07-15_helikopter-nad-narwia.mp4",
+   "bytes": 2121779,
+   "frames": [
+    "media/klatki/2023-07-15_helikopter-nad-narwia/01_0001s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/02_0003s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/03_0006s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/04_0008s.jpg"
+   ],
+   "poster": "media/klatki/2023-07-15_helikopter-nad-narwia/03_0006s.jpg"
+  },
+  {
+   "id": "bez-daty_swieta-w-gzowie-z-kozami",
+   "title": "Święta w Gzowie z Kozami",
+   "date": "data nieznana",
+   "where": "Dom",
+   "who": [
+    "Koza",
+    "Jurek",
+    "Zofia",
+    "Rysio",
+    "Tata"
+   ],
+   "sees": "Montaż pod muzykę z zimowego wieczoru w domu, jeszcze w surowym stanie (ściany z OSB i pustaków). Po kolei: pali się kominek-koza, na ścianie świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, przy nim stos drewna. Potem choinka z lampkami i paczkami, chłopiec przytulony do kozy z czerwoną obrożą przy beli siana, świąteczny stół ze świeczkami i talerzami, przy którym siedzi chłopiec w niebieskiej bluzie. Na końcu selfie mężczyzny w czarnej czapce i grubych czarnych okularach, z kręconymi włosami (tata).",
+   "note": "Opisał Jurek.",
+   "tags": [
+    "dom",
+    "jurek",
+    "koza",
+    "rysio",
+    "tata",
+    "zofia"
+   ],
+   "w": 608,
+   "h": 1080,
+   "duration_s": 40.0,
+   "file": "media/wideo/bez-daty_swieta-w-gzowie-z-kozami.mp4",
+   "url": "https://dataset.gzowo.fun/media/wideo/bez-daty_swieta-w-gzowie-z-kozami.mp4",
+   "bytes": 8708741,
+   "frames": [
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/01_0002s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/02_0007s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/03_0012s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/04_0017s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/05_0022s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/06_0027s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/07_0032s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/08_0037s.jpg"
+   ],
+   "poster": "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/05_0022s.jpg"
   }
  ],
  "folders": [
@@ -2320,8 +2591,33 @@
   {
    "dir": "media/klatki",
    "what": "Kadry wycięte w równych odstępach z każdego filmu (nazwa pliku to numer i sekunda). Dla modeli, które nie oglądają wideo.",
-   "count": 125,
+   "count": 150,
    "files": [
+    "media/klatki/2021-07-10_rysio-nad-woda/01_0001s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/02_0004s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/03_0008s.jpg",
+    "media/klatki/2021-07-10_rysio-nad-woda/04_0011s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/01_0002s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/02_0007s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/03_0013s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/04_0018s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/05_0023s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/06_0028s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/07_0034s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/08_0039s.jpg",
+    "media/klatki/2023-07-08_czerwona-postac-nad-narwia/09_0044s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/01_0001s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/02_0003s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/03_0006s.jpg",
+    "media/klatki/2023-07-15_helikopter-nad-narwia/04_0008s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/01_0002s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/02_0007s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/03_0012s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/04_0017s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/05_0022s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/06_0027s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/07_0032s.jpg",
+    "media/klatki/bez-daty_swieta-w-gzowie-z-kozami/08_0037s.jpg",
     "media/klatki/dom-wnetrze_2026-07-28/01_0003s.jpg",
     "media/klatki/dom-wnetrze_2026-07-28/02_0009s.jpg",
     "media/klatki/dom-wnetrze_2026-07-28/03_0016s.jpg",
@@ -2417,39 +2713,20 @@
     "media/klatki/rakieta_2025-11-01_WA0009/05_0006s.jpg",
     "media/klatki/rakieta_2025-11-01_WA0009/06_0007s.jpg",
     "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/01_0000s.jpg",
-    "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/02_0000s.jpg",
-    "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/03_0001s.jpg",
-    "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/04_0001s.jpg",
-    "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/05_0002s.jpg",
-    "media/klatki/rakieta_2025-11-01_start-z-daleka-laka/06_0002s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/01_0002s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/02_0008s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/03_0013s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/04_0018s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/05_0024s.jpg",
-    "media/klatki/rakieta_2025-11-29_WA0002/06_0029s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/01_0002s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/02_0006s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/03_0010s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/04_0014s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/05_0018s.jpg",
-    "media/klatki/rakieta_2025-11-29_start-z-daleka-2/06_0022s.jpg",
-    "media/klatki/sala-3c_2025-05-25/01_0004s.jpg",
-    "media/klatki/sala-3c_2025-05-25/02_0014s.jpg",
-    "media/klatki/sala-3c_2025-05-25/03_0023s.jpg",
-    "media/klatki/sala-3c_2025-05-25/04_0033s.jpg",
-    "media/klatki/sala-3c_2025-05-25/05_0043s.jpg",
-    "media/klatki/sala-3c_2025-05-25/06_0052s.jpg",
-    "media/klatki/sala-3c_2025-05-25/07_0062s.jpg",
-    "media/klatki/sala-3c_2025-05-25/08_0071s.jpg",
     "..."
    ]
   },
   {
    "dir": "media/miniatury",
    "what": "Małe wersje zdjęć (480 px) do szybkiego podglądu.",
-   "count": 61,
+   "count": 67,
    "files": [
+    "media/miniatury/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg",
+    "media/miniatury/archiwum/2021-06-13_domek-nr-1.jpg",
+    "media/miniatury/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg",
+    "media/miniatury/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg",
+    "media/miniatury/archiwum/2023-06-07_logo-gzowo-34.jpg",
+    "media/miniatury/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg",
     "media/miniatury/galeria/IMG-20251019-WA0000_architektoniczny-wiezowiec.jpg",
     "media/miniatury/galeria/IMG-20251019-WA0001_architektoniczny-wiezowiec-gotow-do-startu.jpg",
     "media/miniatury/galeria/IMG-20251019-WA0003_architektoniczny-wiezowiec-gotow-do-startu-v2.jpg",

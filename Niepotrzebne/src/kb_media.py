@@ -1,6 +1,7 @@
 """Gzowo Dataset media descriptions: what is visible in every photo and video (content in Polish)."""
 
 GROUPS = {
+    "archiwum": "Zdjęcia dosłane przez Jurka 11.11.2026. Tytuł, opis, kto i gdzie wpisał Jurek, data i GPS pochodzą z pliku.",
     "galeria": "Zdjęcia z Galerii Gzowo. Tytuły, podpisy, kto i gdzie pochodzą od Jurka (czerwiec 2026). Daty zdjęć z iPhone'a nie zachowały się.",
     "plaza": "Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja miejsca do odwzorowania w 3D. Bez ludzi.",
     "rakiety": "Zdjęcia z folderu Rakietomania (WhatsApp, jesień 2025), których nie było w Galerii.",

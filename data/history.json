@@ -1,9 +1,11 @@
 [
  {
   "when": "przed 2021",
-  "what": "Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek.",
+  "what": "Na tym terenie działał ośrodek FSO (Fabryki Samochodów Osobowych). Stara czerwona tablica mówi \"Ośrodek Wędkarski w Gzowie\", tabliczka na domku \"Ośrodek Wypoczynkowy\". Stało tu 10 domków i wiata, był też budynek łazienek.",
   "source": [
-   "jurek-2026-11-10"
+   "jurek-2026-11-10",
+   "jurek-2026-11-11",
+   "obserwacja"
   ],
   "confidence": "pewne"
  },
@@ -33,10 +35,42 @@
   "confidence": "pewne"
  },
  {
+  "when": "2021-05-17",
+  "what": "Zdjęcie papierowej mapy geodezyjnej okolicy, zrobione w Warszawie miesiąc przed tym, jak działka trafiła do Sukienników.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "when": "2021-06",
   "what": "Od tego miesiąca Sukiennicy mają działkę Gzowo 34.",
   "source": [
    "jurek-2026-11-10"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2021-06-13",
+  "what": "Jedno z pierwszych zdjęć z działki: Domek nr 1, ciemny drewniany domek z czerwonymi drzwiami i tabliczką \"Ośrodek Wypoczynkowy\". W tle siedzi Rysio.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2021-07-10",
+  "what": "Rysio stoi o zachodzie słońca na Cyplu i rzuca coś do Narwi.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2021-10-23",
+  "what": "Zdjęcie starej czerwonej tablicy \"Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie\".",
+  "source": [
+   "jurek-2026-11-11"
   ],
   "confidence": "pewne"
  },
@@ -49,6 +83,22 @@
   "confidence": "pewne"
  },
  {
+  "when": "jedne święta, rok nieznany",
+  "what": "Boże Narodzenie w Gzowie z kozą przywiezioną na chwilę z Warszawy. Dom jest jeszcze w surowym stanie, są Jurek, Rysio, Zofia i tata.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2022-09-06",
+  "what": "Na skarpie stoi granatowy helikopter SP-MMM. Waldek pozuje przy nim z nogą na płozie, pod helikopterem stoi jego pies Kropka.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "when": "ok. zimy 2022/2023",
   "what": "Czas Dropsika, małego czarno-karmelowego psa. Film DANCE z nim został zmontowany 28.01.2023. Niedługo po tym, jak się pojawił, został porwany.",
   "source": [
@@ -56,6 +106,30 @@
    "obserwacja"
   ],
   "confidence": "prawdopodobne"
+ },
+ {
+  "when": "2023-06-07",
+  "what": "Zdjęcie logo Gzowa 34: biała ośmiornica na czarnym tle.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2023-07-08",
+  "what": "Zofia stoi o zmierzchu na Cyplu, cała oświetlona na czerwono, i patrzy na Narew.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "when": "2023-07-15",
+  "what": "Szamborski wisi helikopterem nisko nad Narwią przy Cyplu, na brzegu są Rysio i Zofia.",
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
  },
  {
   "when": "2023-08-29",

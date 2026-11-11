@@ -37,6 +37,35 @@
   "confidence": "pewne"
  },
  {
+  "id": "koza",
+  "name": "Koza",
+  "kind": "koza",
+  "status": "gość na jedne święta",
+  "facts": [
+   "Była w Gzowie przez jedne święta Bożego Narodzenia, rodzina przywiozła ją na chwilę z Warszawy.",
+   "Brązowo-biała, z czerwoną obrożą. Na filmie ze świąt stoi przy beli siana i przytula się do niej chłopiec.",
+   "Jest też na ilustracji z Janem Sukiennikiem w białym futrze nad Narwią."
+  ],
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "id": "kropka",
+  "name": "Kropka",
+  "kind": "pies",
+  "status": "pies Waldka, zmarła ok. 2024",
+  "facts": [
+   "Pies Waldka. Zmarła mniej więcej dwa lata przed listopadem 2026.",
+   "Na zdjęciu z 06.09.2022 stoi pod helikopterem na skarpie."
+  ],
+  "source": [
+   "jurek-2026-11-11"
+  ],
+  "confidence": "pewne"
+ },
+ {
   "id": "szopy",
   "name": "Szopy pracze",
   "kind": "dzikie",

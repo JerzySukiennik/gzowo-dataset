@@ -2,7 +2,7 @@
 
 > Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
 
-Wersja 1.1, 2026-11-10. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
+Wersja 1.2, 2026-11-11. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane i uporządkowane z Claude.
 
 ## Jak z tego korzystać (dla AI)
 
@@ -16,6 +16,7 @@ Wersja 1.1, 2026-11-10. Język: polski. Autor: Jurek (Jerzy) Sukiennik, spisane 
 
 Źródła:
 - `jurek-2026-11-10`: Odpowiedzi Jurka na pytania, rozmowa z 10.11.2026 (najświeższe i najważniejsze źródło).
+- `jurek-2026-11-11`: Opisy zdjęć i filmów oraz notatka, które Jurek wpisał 11.11.2026 na stronie do opisywania mediów.
 - `galeria`: Podpisy i tytuły z Galerii Gzowo (prezent Jurka dla taty na Dzień Ojca, czerwiec 2026). Pisał je Jurek.
 - `notatki`: Notatki projektowe Jurka z lat 2025-2026 (opisy jego gier i projektów osadzonych w Gzowie).
 - `gra-narew`: Gra Rysia 'NAREW, posesja nad jeziorem' (narew.html). Świat gry jest wzorowany na działce, ale to fikcja.
@@ -31,7 +32,7 @@ Pewność:
 
 ## 1. Miejsce
 
-**Gzowo 34** (Gzowo, Ośrodek, Ośrodek Gzowo, działka, posesja nad Narwią). Rodzinna działka Sukienników nad Narwią, dawny ośrodek wypoczynkowy FSO. Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.
+**Gzowo 34** (Gzowo, Ośrodek, Ośrodek Gzowo, działka, posesja nad Narwią). Rodzinna działka Sukienników nad Narwią, dawny ośrodek FSO (Fabryki Samochodów Osobowych). Na starej tablicy stoi "Ośrodek Wędkarski w Gzowie", na tabliczce domku "Ośrodek Wypoczynkowy". Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.
 
 - Adres: Gzowo 34, wieś Gzowo, gmina Pokrzywnica, powiat pułtuski, województwo mazowieckie, Polska
 - Współrzędne: 52.612806, 21.116
@@ -47,13 +48,22 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 ## 2. Historia i oś czasu
 
-- **przed 2021**: Na tym terenie działał ośrodek wypoczynkowy FSO (Fabryki Samochodów Osobowych). Stało tu 10 domków i wiata, był też budynek łazienek. _(źródło: jurek-2026-11-10; pewne)_
+- **przed 2021**: Na tym terenie działał ośrodek FSO (Fabryki Samochodów Osobowych). Stara czerwona tablica mówi "Ośrodek Wędkarski w Gzowie", tabliczka na domku "Ośrodek Wypoczynkowy". Stało tu 10 domków i wiata, był też budynek łazienek. _(źródło: jurek-2026-11-10, jurek-2026-11-11, obserwacja; pewne)_
 - **nieznane, dawniej**: Na skarpie, na górze działki, pod ziemią jest najprawdopodobniej stary skład bomb i broni. _(źródło: jurek-2026-11-10; niepewne)_
 - **po wojnie i do dziś**: To tereny powojenne. Na działce trafiają się niewypały i przyjeżdżają do nich saperzy. _(źródło: jurek-2026-11-10; pewne)_
 - **2020-11-30**: Jurek i Rysio wygłupiają się przed kamerką komputera w Warszawie (filmik 'Movie on 30-11-2020'). Jeszcze przed Gzowem. _(źródło: obserwacja, jurek-2026-11-10; pewne)_
+- **2021-05-17**: Zdjęcie papierowej mapy geodezyjnej okolicy, zrobione w Warszawie miesiąc przed tym, jak działka trafiła do Sukienników. _(źródło: jurek-2026-11-11; pewne)_
 - **2021-06**: Od tego miesiąca Sukiennicy mają działkę Gzowo 34. _(źródło: jurek-2026-11-10; pewne)_
+- **2021-06-13**: Jedno z pierwszych zdjęć z działki: Domek nr 1, ciemny drewniany domek z czerwonymi drzwiami i tabliczką "Ośrodek Wypoczynkowy". W tle siedzi Rysio. _(źródło: jurek-2026-11-11; pewne)_
+- **2021-07-10**: Rysio stoi o zachodzie słońca na Cyplu i rzuca coś do Narwi. _(źródło: jurek-2026-11-11; pewne)_
+- **2021-10-23**: Zdjęcie starej czerwonej tablicy "Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie". _(źródło: jurek-2026-11-11; pewne)_
 - **po 2021**: Z 10 domków zostały 3. Powstał dom (bryłą nawiązuje do dawnych łazienek ośrodka), drewniany taras z desek i panele słoneczne. Wiata została. _(źródło: jurek-2026-11-10; pewne)_
+- **jedne święta, rok nieznany**: Boże Narodzenie w Gzowie z kozą przywiezioną na chwilę z Warszawy. Dom jest jeszcze w surowym stanie, są Jurek, Rysio, Zofia i tata. _(źródło: jurek-2026-11-11; pewne)_
+- **2022-09-06**: Na skarpie stoi granatowy helikopter SP-MMM. Waldek pozuje przy nim z nogą na płozie, pod helikopterem stoi jego pies Kropka. _(źródło: jurek-2026-11-11; pewne)_
 - **ok. zimy 2022/2023**: Czas Dropsika, małego czarno-karmelowego psa. Film DANCE z nim został zmontowany 28.01.2023. Niedługo po tym, jak się pojawił, został porwany. _(źródło: jurek-2026-11-10, obserwacja; prawdopodobne)_
+- **2023-06-07**: Zdjęcie logo Gzowa 34: biała ośmiornica na czarnym tle. _(źródło: jurek-2026-11-11; pewne)_
+- **2023-07-08**: Zofia stoi o zmierzchu na Cyplu, cała oświetlona na czerwono, i patrzy na Narew. _(źródło: jurek-2026-11-11; pewne)_
+- **2023-07-15**: Szamborski wisi helikopterem nisko nad Narwią przy Cyplu, na brzegu są Rysio i Zofia. _(źródło: jurek-2026-11-11; pewne)_
 - **2023-08-29**: Jurek jako KALAKASANYT nagrywa w Warszawie reakcję na '200 memes in 1 song'. _(źródło: obserwacja, jurek-2026-11-10; pewne)_
 - **2025-05-25**: Ktoś w zielonej bluzie z kapturem maluje na ziemi przed domkiem wielkie kolorowe płótno szczotką na długim kiju (film z sali 3C Galerii). _(źródło: obserwacja; pewne)_
 - **2025, lato albo jesień**: Powstaje Gzowo Space Program (GSP), rakiety modelarskie Jurka i taty. Notatki mówią o lecie 2025, strona o jesieni 2025. _(źródło: notatki, gzowo.fun; niepewne)_
@@ -69,7 +79,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 
 ## 3. Ludzie
 
-### Rodzina (tylko te trzy osoby)
+### Rodzina
 
 **Jurek Sukiennik (Jerzy Sukiennik)**. Starszy syn. Autor tego datasetu, twórca Gzowo Labs, konstruktor rakiet. _(źródło: notatki, jurek-2026-11-10, gzowo.fun, obserwacja; pewne)_
 - Rocznik 2012, mieszka w Warszawie, w roku szkolnym 2026/27 chodzi do 8 klasy.
@@ -85,6 +95,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Autor gry 'NAREW, posesja nad jeziorem', w której chodzi się po działce.
 - Na zdjęciach: pływa na desce SUP w kapoku, łapie wiatr na motorówce, pozuje w okrągłych okularach ("Rysio lubi Old School"), zimą trzyma wielką taflę lodu ("Zimowy obiad Rysia") i staje w pozie Supermana w świetle reflektora ("Strike a pose!").
 - Jedno z dwóch ogniw w logo Gzowo Labs (ogniwa to dwaj bracia).
+- W czerwcu 2021 siedzi w tle zdjęcia Domku nr 1, w lipcu 2021 rzuca coś do Narwi o zachodzie słońca na Cyplu.
 - Wygląd: Ok. 145 cm, jasne, płaskie blond włosy. Znak rozpoznawczy: puchata czerwona bluza Spider-Man z czarną maską, niebieskie jeansy. Charakter: nakręcony młodszy brat.
 - W grach: W Ośrodek Daje stoi z rękami w górze w czerwonej bluzie.
 
@@ -97,8 +108,14 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Czyta dzieciom książki na działce ("Letnia lektura"), konsultował budowę tarasu.
 - Prowadzi firmę R&D Studio (rd.studio).
 - To dla niego powstała Galeria Gzowo (Dzień Ojca 2026).
+- Jest ilustracja "Jan Sukiennik z kozą nad Narwią": w białym futrze i czarnej czapce prowadzi kozę na smyczy o złotym świcie.
 - Wygląd: Ok. 185 cm, szczupły, ok. 45 lat, grube granatowe okulary (zawsze), jasnobrązowe włosy (w jednym opisie długie do ramion, w drugim zaczesane do tyłu). Stroje-legendy: białe kudłate futro do kolan, kozaki z krokodyla (ciemna skóra z łuską, jest też wersja limonkowa), czerwona czapka z daszkiem, kowbojskie buty, żółta kurtka, cytrynowe japonki z flagą Brazylii, szlafrok granatowo-fioletowy.
 - W grach: W Ośrodek Daje jest KS w białym futrze i butach z krokodyla. W grze Rysia stoi w Narwi i klawiszem R wystrzeliwuje gracza w górę, a potem siedzi na kanapie w domu.
+
+**Zofia**, inaczej: Mama. Mama Jurka i Rysia. _(źródło: jurek-2026-11-11; pewne)_
+- 08.07.2023 stoi o zmierzchu na Cyplu w długim stroju, cała oświetlona na czerwono, i patrzy na Narew.
+- 15.07.2023 jest z Rysiem na Cyplu, kiedy Szamborski wisi helikopterem nad wodą.
+- Jest na filmie ze świąt w Gzowie z kozą.
 
 ### Przyjaciele i goście
 
@@ -107,6 +124,8 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Ma swój dom w okolicy (miejsce "dom Waldka").
 - Dropsik był bardziej jego psem niż Sukienników.
 - W Galerii ma własny pokój "Ottonowie. Wierni członkowie Gzowa" z portretem z żoną Bożeną, zatytułowanym "Dziadkowie".
+- Na zdjęciu z 06.09.2022 pozuje przy helikopterze na skarpie: żółta czapka, zielona wzorzysta marynarka, noga na płozie.
+- Miał psa Kropkę (zmarła ok. 2024).
 - W grach: W grze Rysia Waldek przyjeżdża konno, kiedy wpisze się poprawny kod na ścianie ("Waldek jeździ tu konno, odkąd pamiętam"), jest też "zakład z Waldkiem" o kopanie.
 
 **Bożena Otton**. Żona Waldka. Razem z nim na portrecie "Dziadkowie" w cieniu drzew. _(źródło: galeria; pewne)_
@@ -125,6 +144,8 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 **Janek Kunstler**. Kolega Jurka. Był w Gzowie podczas wielkiej burzy z gradem. _(źródło: jurek-2026-11-10; pewne)_
 
 **Szamborski**. Czasem przylatuje do Gzowa helikopterem. _(źródło: jurek-2026-11-10, wniosek; pewne)_
+- 15.07.2023 wisiał helikopterem nisko nad Narwią przy Cyplu (film).
+- Granatowy helikopter Airbus z rejestracją SP-MMM stał na skarpie 06.09.2022. To najpewniej jego maszyna (wniosek).
 - Pusty pokój "Heli" w Galerii Gzowo najpewniej czeka na zdjęcia jego helikoptera (wniosek, niepotwierdzony).
 
 ### Okolica
@@ -167,6 +188,15 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - "Beethoven nie boi się Jurka (podejrzane)": siedzi spokojnie przed Jurkiem na plaży.
 - "Kontemplujący Beethoven": siedzi tyłem na trawie i wita słońce nad zamgloną Narwią.
 
+**Koza** (koza, gość na jedne święta) _(źródło: jurek-2026-11-11; pewne)_
+- Była w Gzowie przez jedne święta Bożego Narodzenia, rodzina przywiozła ją na chwilę z Warszawy.
+- Brązowo-biała, z czerwoną obrożą. Na filmie ze świąt stoi przy beli siana i przytula się do niej chłopiec.
+- Jest też na ilustracji z Janem Sukiennikiem w białym futrze nad Narwią.
+
+**Kropka** (pies, pies Waldka, zmarła ok. 2024) _(źródło: jurek-2026-11-11; pewne)_
+- Pies Waldka. Zmarła mniej więcej dwa lata przed listopadem 2026.
+- Na zdjęciu z 06.09.2022 stoi pod helikopterem na skarpie.
+
 **Szopy pracze** (dzikie, ważne dla Gzowa) _(źródło: jurek-2026-11-10, gra-narew; pewne)_
 - Jurek zaznaczył je jako ważne.
 - W grze Rysia pięć szopów tańczy w kręgu wokół ogniska, szybciej, gdy ogień płonie.
@@ -201,6 +231,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - W środku jeden open space ok. 12 x 8 m: ściana z płyt OSB, marmurowa podłoga, sufit ze sklejki na czarnych szynach, przeszklenie na całą wysokość z widokiem na taras, trawę, sosny i Narew.
 - Wyposażenie: czarny kominek-koza z rurą, pianino cyfrowe na stojaku, telewizor (LG OLED bez internetu), długa czarna wisząca półka z konsolą PlayStation, modelem z klocków i kulą śnieżną, szafa z lustrem, czarna sofa, duży stół ze sklejki na limonkowych kozłach, kuchnia ze stali nierdzewnej z boomboxem, lampa podłogowa, zasłona, podświetlany pas onyksu przy podłodze.
 - Przy dużym stole rodzina prawie zawsze je rano śniadania.
+- Na filmie ze świąt, gdy dom był jeszcze surowy: na ścianie z OSB świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, stoi choinka.
 
 **Taras**, przy domu _(źródło: jurek-2026-11-10, galeria; pewne)_
 - Drewniany, z desek, duży.
@@ -209,6 +240,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 **Trzy domki**, na działce _(źródło: jurek-2026-11-10, obserwacja; pewne)_
 - Zostały 3 z 10 domków dawnego ośrodka FSO.
 - Na filmie z 2025 widać jeden: ciemny, drewniany, z czerwonymi drzwiami, obok drewno na opał.
+- Domki mają numery. Domek nr 1 (zdjęcie z 13.06.2021): ciemne deski, czerwone drzwi, okno w czerwonej ramie, betonowe bloczki, biała tabliczka "Ośrodek Wypoczynkowy".
 
 **Wiata**, na działce _(źródło: jurek-2026-11-10, galeria, gra-narew, obserwacja; pewne)_
 - Stoi od czasów ośrodka.
@@ -235,12 +267,15 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - Stroma skarpa nadnarwiańska.
 - Pod ziemią najprawdopodobniej stary skład bomb i broni.
 - W ziemi na działce trafiają się niewypały z czasów wojny.
+- Na skarpie ląduje helikopter (zdjęcie z 06.09.2022).
 
 **Kępa sosen**, środek działki _(źródło: obserwacja; pewne)_
 - Wysokie sosny widać na prawie każdym zdjęciu i na zdjęciu lotniczym.
 
 **Cypel**, nad Narwią przy działce _(źródło: jurek-2026-11-10, wniosek; prawdopodobne)_
-- Jurek wymienił Cypel jako osobne miejsce.
+- Jurek wymienił Cypel jako osobne miejsce i podpisał nim cztery nagrania i ilustrację.
+- Miejsce na zachody słońca nad samą wodą: Rysio rzuca coś do Narwi (2021), Zofia stoi o zmierzchu w czerwonym świetle (2023).
+- Jest tu palenisko i czerwone krzesła. 15.07.2023 tuż przy brzegu wisiał nad wodą helikopter Szamborskiego.
 - Na zdjęciu lotniczym na wschód od działki widać małą zatoczkę i zalesiony język lądu wchodzący w wodę. To najpewniej Cypel (wniosek, do potwierdzenia).
 
 **Kocia Wyspa**, w okolicy, obok kanału _(źródło: jurek-2026-11-10, wniosek; prawdopodobne)_
@@ -280,7 +315,9 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Białe futro i buty z krokodyla** (nasze): Strój KS-a. "Alligator included" w podpisie zdjęcia "Krowi chłopiec" to najpewniej te buty. _(źródło: notatki, galeria, wniosek)_
 - **Żółty skuter wodny** (NIE nasze): Widać go na zdjęciach plaży, ale NIE jest Sukienników. W grze Rysia można nim pływać i robić fale. _(źródło: jurek-2026-11-10, obserwacja, gra-narew)_
 - **Czerwone VW Polo** (NIE nasze): Stoi na zdjęciu z Beethovenem, ale NIE jest Sukienników. _(źródło: jurek-2026-11-10, obserwacja)_
-- **Helikopter Szamborskiego** (NIE nasze): Czasem ląduje w Gzowie, przylatuje nim Szamborski. _(źródło: jurek-2026-11-10)_
+- **Helikopter Szamborskiego** (NIE nasze): Czasem ląduje w Gzowie, przylatuje nim Szamborski. Granatowy Airbus, rejestracja SP-MMM. Stał na skarpie (2022) i wisiał nad Narwią przy Cyplu (2023). _(źródło: jurek-2026-11-10)_
+- **Stara tablica ośrodka FSO** (nasze): Czerwona, pordzewiała blacha z białym napisem: FABRYKA SAMOCHODÓW OSOBOWYCH, OŚRODEK WĘDKARSKI W GZOWIE. Pamiątka po dawnym ośrodku. _(źródło: jurek-2026-11-11)_
+- **Mapa geodezyjna** (nasze): Papierowa mapa z działkami, budynkami i drogami okolicy, z czerwonymi pieczątkami. Sfotografowana w maju 2021. _(źródło: jurek-2026-11-11)_
 
 ## 7. Rytuały
 
@@ -306,7 +343,7 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - "Gzowo Jest Najlepsze <3" (Jurek). Napis kredą, który maskotka Narek ma pisać na ścianie domu. _(źródło: notatki; pewne)_
 - "Mmm, yummy!" (Jurek). O jedzeniu lodu z Narwi. _(źródło: galeria; pewne)_
 
-- **Ośrodek**: Działka Gzowo 34, bo to dawny ośrodek wypoczynkowy FSO.
+- **Ośrodek**: Działka Gzowo 34, bo to dawny ośrodek FSO (wędkarski i wypoczynkowy).
 - **KS**: Kierownik Ośrodka, czyli tata.
 - **Gzowiański**: Przymiotnik od Gzowa: Gzowiański somsiad, Gzowiańskie momenty, Gzowiańskie klasyki.
 - **somsiad**: Sąsiad, żartobliwie.
@@ -325,9 +362,11 @@ Pokrycie terenu w kwadracie 1 x 1 km: pola uprawne 32.4%, łąka 21.1%, woda 17.
 - **Porwanie Dropsika**: Dropsik, młody i zabawny pies (bardziej Waldka niż Sukienników), został porwany niedługo po tym, jak się pojawił. _(źródło: jurek-2026-11-10; pewne)_
 - **Skład pod skarpą**: Na górze działki, pod ziemią w skarpie, ma być stary skład bomb i broni. _(źródło: jurek-2026-11-10; niepewne)_
 - **Niewypały i saperzy**: Gzowo leży na terenach powojennych. Na działce znajdowano niewypały i przyjeżdżali do nich saperzy. Jurek chce tego w grze jako motywu (niewypał i przyjazd saperów), nie jako postaci. _(źródło: jurek-2026-11-10; pewne)_
-- **Helikopter nad Gzowem**: Szamborski czasem przylatuje do Gzowa helikopterem. _(źródło: jurek-2026-11-10; pewne)_
+- **Helikopter nad Gzowem**: Szamborski czasem przylatuje do Gzowa helikopterem. Granatowy Airbus SP-MMM stał w 2022 na skarpie (pozował przy nim Waldek, pod spodem stała Kropka), a w lipcu 2023 wisiał nisko nad Narwią przy Cyplu. _(źródło: jurek-2026-11-10; pewne)_
 - **Wycinka Majora**: Major, który na co dzień łowi ryby, robi na działce wycinki drzew. _(źródło: jurek-2026-11-10; pewne)_
-- **Dziesięć domków FSO**: Działka była ośrodkiem FSO z dziesięcioma domkami. Zostały trzy, a nowy dom wziął kształt od dawnych łazienek. _(źródło: jurek-2026-11-10; pewne)_
+- **Święta z kozą**: Na jedne święta Bożego Narodzenia rodzina przywiozła do Gzowa kozę z Warszawy. Dom był jeszcze surowy: kominek, choinka, bela siana i świąteczny stół ze świeczkami. _(źródło: jurek-2026-11-11; pewne)_
+- **Czerwona postać na Cyplu**: Lipcowy zmierzch 2023: Zofia stoi w trawie nad Narwią, cała oświetlona na czerwono, i patrzy na wodę. _(źródło: jurek-2026-11-11; pewne)_
+- **Dziesięć domków FSO**: Działka była ośrodkiem FSO z dziesięcioma domkami (na starej tablicy: Ośrodek Wędkarski w Gzowie). Zostały trzy, a nowy dom wziął kształt od dawnych łazienek. _(źródło: jurek-2026-11-10; pewne)_
 - **Lot The Orange Beauty**: Start udany i najlepiej nagrany w całej flocie, ale spadochron się nie otworzył. _(źródło: gzowo.fun, obserwacja; pewne)_
 - **Pierwszy spadochron**: Gzofajfus Classic Mk II: spadochron otworzył się już w pierwszym locie (21.03.2026). _(źródło: gzowo.fun; pewne)_
 - **Mk IV po wielkim sukcesie**: Zdjęcie: rakieta Gzofajfus Classic Mk IV leży na trawie po locie, obok niebieski spadochron. _(źródło: galeria; pewne)_
@@ -356,7 +395,8 @@ Gzowo Space Program (GSP) to rakiety modelarskie budowane ręcznie i drukowane w
 
 Sama działka. Jej logo to ośmiornica.
 
-- Uwaga: Pliku z ośmiornicą jeszcze nie ma w datasecie (nie znaleziono go na komputerze Jurka).
+- Uwaga: Jest zdjęcie logo: biała ośmiornica z długimi, wygiętymi mackami na czarnym tle (media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg). Czystego pliku wektorowego jeszcze nie ma.
+- Media: https://dataset.gzowo.fun/media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg
 
 ### Gzowo Labs
 
@@ -487,6 +527,17 @@ Pokoje Galerii Gzowo to gotowy podział tematyczny wspomnień. Puste pokoje (Hel
 
 Pokoje Galerii: The Early Days ("Gdzie wszystko się zaczęło"); Ciszewscy x Sukiennicy ("Herbata nie wyklucza kawy"); Nasza Narew ("Serce Gzowa - Narew!"); Zima ("Mróz, lód i śnieg oraz zimowe przygody!"); Aminalsy ("Nasi mali mieszkańcy Gzowa!"); Black n' White ("Kolekcja Gzowiańskich czarno-białych klasyków"); Sunsety ("Złota godzina nad wodą - ciepłe światło na koniec dnia."); Gzowo Space Program ("Drony, rakiety i postęp technologiczny Gzowa"); Fire ("Ogień + Gzowo to niepokonane combo!"); Pan Senek musi poczekać ("Wszystkie ciche Gzowiańskie momenty"); Ottonowie ("Wierni członkowie Gzowa"); Wiosna! ("Wiosenne!"); Heli ("Wkrótce"); Taras ("Wkrótce"); The New Era ("Wkrótce"); Hol ("Hol kinowy - Polecam popcorn!"); Sala A1 ("Gzowo Space Program History — wielki ekran i rakiety w locie. Usiądź (G), kliknij ekran i oglądaj."); Sala 2B ("The Early Days of Gzowo — usiądź (G), kliknij ekran i oglądaj."); Sala 3C ("Wkrótce — nowy seans w przygotowaniu. Usiądź (G) i zaczekaj."); Żabi raj ("Nasze małe zoo")
 
+### archiwum
+
+Zdjęcia dosłane przez Jurka 11.11.2026. Tytuł, opis, kto i gdzie wpisał Jurek, data i GPS pochodzą z pliku.
+
+- **Mapa geodezyjna działki**. "Papierowa mapa geodezyjna z działkami, budynkami i drogami, rozłożona na stole, z czerwonymi pieczątkami w rogu. Zdjęcie zrobione w Warszawie, miesiąc przed tym, jak działka była Sukienników." Gdzie: Warszawa. Data: 2021-05-17. GPS z pliku: 46 km od Gzowa. Plik: https://dataset.gzowo.fun/media/photos/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg
+- **Domek nr 1**. "Ciemny drewniany domek z czerwonymi drzwiami i oknem w czerwonej ramie, na betonowych bloczkach, pod sosnami. Na ścianie biała tabliczka z napisem OŚRODEK WYPOCZYNKOWY. W tle po lewej siedzi Rysio Sukiennik. Domek nr. 1" Kto: Rysio. Gdzie: Domki. Data: 2021-06-13. GPS z pliku: Gzowo 34. Plik: https://dataset.gzowo.fun/media/photos/archiwum/2021-06-13_domek-nr-1.jpg
+- **Stara tablica ośrodka FSO**. "Stara, czerwona, pordzewiała blaszana tablica z białym napisem: FABRYKA SAMOCHODÓW OSOBOWYCH, OŚRODEK WĘDKARSKI W GZOWIE. Zdjęcie zrobione poza Gzowem (GPS z okolic Warszawy)." Gdzie: Dom. Data: 2021-10-23. GPS z pliku: 47 km od Gzowa. Plik: https://dataset.gzowo.fun/media/photos/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg
+- **Waldek pozuje z helikopterem**. "Granatowy helikopter Airbus z rejestracją SP-MMM stoi na trawie pod drzewami. Waldek w żółtej czapce i zielonej wzorzystej marynarce pozuje z nogą na płozie, pod helikopterem stoi pies Kropka." Kto: Waldek, Kropka. Gdzie: Skarpa. Data: 2022-09-06. GPS z pliku: Gzowo 34. Plik: https://dataset.gzowo.fun/media/photos/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg
+- **Logo Gzowo 34**. "Biała ośmiornica z długimi, wygiętymi mackami na czarnym tle, czarno-białe zdjęcie. Logo Gzowo 34" Gdzie: Dom. Data: 2023-06-07. GPS z pliku: 46 km od Gzowa. Plik: https://dataset.gzowo.fun/media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg
+- **Jan Sukiennik z kozą nad Narwią**. "Ilustracja w malarskim stylu: Jan Sukiennik w białym kudłatym futrze i czarnej czapce stoi tyłem nad zamgloną rzeką o złotym świcie i trzyma na smyczy brązowo-białą kozę z czerwoną obrożą. Na trawie jesienne liście." Kto: Tata, Koza. Gdzie: Cypel. Plik: https://dataset.gzowo.fun/media/photos/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg
+
 ### galeria
 
 Zdjęcia z Galerii Gzowo. Tytuły, podpisy, kto i gdzie pochodzą od Jurka (czerwiec 2026). Daty zdjęć z iPhone'a nie zachowały się.
@@ -582,6 +633,10 @@ Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja mie
 - **Zapłon z bliska** (2025-11-01, GL Launch Site, 8.5 s). Ujęcie od dołu: zielona rakieta na wyrzutni na tle chmur, iskry zapłonu i odlot.  Plik: https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-01_WA0009.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/rakieta_2025-11-01_WA0009/ (6 szt.)
 - **The Orange Beauty na wyrzutni (Insta360)** (2025-11-29, GL Launch Site, 32.1 s). Czerwono-czarna rakieta na wyrzutni z bliska, zapłon, dym. Potem obraz 360 stopni z oszronioną łąką i wygiętą wyrzutnią. Nagrane kamerą Insta360. Plik: https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-29_WA0002.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/rakieta_2025-11-29_WA0002/ (6 szt.)
 - **Start The Orange Beauty z daleka** (2025-11-29, GL Launch Site, 24.2 s). Rakieta startuje z oszronionej łąki, kamera śledzi smugę dymu w szarym niebie, na końcu pusta wyrzutnia. W Galerii: sala A1. Plik: https://dataset.gzowo.fun/media/wideo/rakieta_2025-11-29_start-z-daleka-2.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/rakieta_2025-11-29_start-z-daleka-2/ (6 szt.)
+- **Rysio nad wodą** (2021-07-10, Cypel, 12.9 s). Zachód słońca nad Narwią. Ciemna sylwetka dziecka stoi na brzegu wśród traw i rzuca coś do wody. GPS z pliku: Gzowo 34. Opisał Jurek. Plik: https://dataset.gzowo.fun/media/wideo/2021-07-10_rysio-nad-woda.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/2021-07-10_rysio-nad-woda/ (4 szt.)
+- **Czerwona postać nad Narwią** (2023-07-08, Cypel, 47.3 s). Zmierzch nad Narwią, niebo jeszcze pomarańczowe przy horyzoncie. W wysokiej trawie stoi tyłem postać w długim stroju, cała oświetlona na czerwono, i patrzy na wodę. Pod koniec filmu postaci już nie ma. GPS z pliku: Gzowo 34. Opisał Jurek. Plik: https://dataset.gzowo.fun/media/wideo/2023-07-08_czerwona-postac-nad-narwia.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/2023-07-08_czerwona-postac-nad-narwia/ (9 szt.)
+- **Helikopter nad Narwią** (2023-07-15, Cypel, 9.8 s). Granatowy helikopter wisi nisko nad Narwią tuż przy brzegu i marszczy wodę. Na skarpie stoi osoba w stroju kąpielowym i macha rękami, obok czerwone krzesła i turkusowy ręcznik, na pierwszym planie popiół z ogniska. GPS z pliku: Gzowo 34. Tytuł, kto i gdzie podał Jurek, opis kadru Claude. Plik: https://dataset.gzowo.fun/media/wideo/2023-07-15_helikopter-nad-narwia.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/2023-07-15_helikopter-nad-narwia/ (4 szt.)
+- **Święta w Gzowie z Kozami** (data nieznana, Dom, 40.0 s). Montaż pod muzykę z zimowego wieczoru w domu, jeszcze w surowym stanie (ściany z OSB i pustaków). Po kolei: pali się kominek-koza, na ścianie świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, przy nim stos drewna. Potem choinka z lampkami i paczkami, chłopiec przytulony do kozy z czerwoną obrożą przy beli siana, świąteczny stół ze świeczkami i talerzami, przy którym siedzi chłopiec w niebieskiej bluzie. Na końcu selfie mężczyzny w czarnej czapce i grubych czarnych okularach, z kręconymi włosami (tata). Opisał Jurek. Plik: https://dataset.gzowo.fun/media/wideo/bez-daty_swieta-w-gzowie-z-kozami.mp4 Kadry: https://dataset.gzowo.fun/media/klatki/bez-daty_swieta-w-gzowie-z-kozami/ (8 szt.)
 
 ## 15. Pozostałe foldery z mediami
 
@@ -591,8 +646,8 @@ Seria 23 zdjęć plaży z 08.08.2026, zrobiona przez Jurka jako dokumentacja mie
 - `media/postacie/narek/` (1 plików): Render maskotki Narek.
 - `media/brand/gzowo-labs/` (80 plików): Pełny kit logo Gzowo Labs (Wschód): SVG i PNG we wszystkich układach i kolorach, favicony, naklejki na rakiety, awatary, animacje MP4 oraz płonący GIF i grafika og ze strony.
 - `media/brand/gsp/` (88 plików): Kit Gzowo Space Program: logo PNG, gify, zakończenia filmów, awatary.
-- `media/klatki/` (125 plików): Kadry wycięte w równych odstępach z każdego filmu (nazwa pliku to numer i sekunda). Dla modeli, które nie oglądają wideo.
-- `media/miniatury/` (61 plików): Małe wersje zdjęć (480 px) do szybkiego podglądu.
+- `media/klatki/` (150 plików): Kadry wycięte w równych odstępach z każdego filmu (nazwa pliku to numer i sekunda). Dla modeli, które nie oglądają wideo.
+- `media/miniatury/` (67 plików): Małe wersje zdjęć (480 px) do szybkiego podglądu.
 
 ## 16. Pod grę (propozycje, nie fakty)
 
@@ -600,9 +655,9 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 
 **Pola planszy:** Dom (śniadanie przy dużym stole); Taras; Wiata z pasiastym fotelem; Trzy domki FSO; Panele słoneczne; Ognisko; Hamak w sosnach; Skarpa i stary skład; Plaża; Narew; Mur z gabionów; GL Launch Site; Dom Waldka; Stacja Moya; Sklep; Aleja Lipowa; Cypel; Kocia Wyspa; Kanał; Lądowisko helikoptera.
 
-**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; Panie ze stacji Moya; Dropsik; Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
+**Postacie:** Jurek (konstruktor rakiet); Rysio (czerwona bluza Spider-Man); KS, Kierownik Ośrodka (białe futro, buty z krokodyla); Zofia (Mama); Waldek (operator koparki, przyjaciel); Bożena; Ciszewscy: Bartek, Clu, Ignacy, Helena; Czupryńscy; Janek Kunstler; Benny; Major (wędkarz i drwal); Szamborski (przylatuje helikopterem); Paweł (łysy gość z kanału); Wójt; Panie ze stacji Moya; Dropsik; Kropka (pies Waldka); Koza (gość na święta); Beethoven (głuchy biały kot); szopy pracze; ośmiornica (logo).
 
-**Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, niewypał, helikopter, wędka, drewno z wycinki, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
+**Przedmioty:** koparka, Tesla, motorówka, kajak, deska SUP, dron Avata, rakieta Gzofajfus, spadochron, AirTag z nosa rakiety, łopata, stara tablica FSO, mapa geodezyjna, niewypał, helikopter, wędka, drewno z wycinki, tafla lodu, lody ze stacji Moya, szyszki (waluta), puszka, hamak, pianino, białe futro, buty z krokodyla.
 
 **Mechaniki:**
 - Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać.
@@ -620,6 +675,9 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 - Major złowił rybę: kolacja nad Narwią.
 - Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.
 - Paweł macha z kanału obok Kociej Wyspy.
+- Koza przyjechała z Warszawy na święta: wszyscy zbierają się przy choince.
+- Znajdujesz starą tablicę FSO: poznajesz historię ośrodka.
+- Czerwona noc na Cyplu: ktoś stoi nad wodą i patrzy w zmierzch.
 - Narew zamarzła: można przejść po lodzie.
 - Zimowy obiad: zjadasz taflę lodu.
 - Ciężka droga do stacji Moya: przedzierasz się przez trawy.
@@ -647,10 +705,14 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 - Jakie hasło mają Ciszewscy i Sukiennicy? → Herbata nie wyklucza kawy.
 - Od kiedy Sukiennicy mają działkę? → Od czerwca 2021.
 - Co to jest zimowy obiad? → Tafla lodu z Narwi.
+- Co jest napisane na starej czerwonej tablicy? → Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie.
+- Jakie zwierzę przyjechało do Gzowa na jedne święta? → Koza, przywieziona z Warszawy.
+- Jaką rejestrację ma granatowy helikopter? → SP-MMM.
+- Jak miał na imię pies Waldka, który stał pod helikopterem? → Kropka.
 
 ## 17. Czego jeszcze nie wiemy
 
-- Plik z logo Gzowa 34 (ośmiornica): nie ma go w datasecie, trzeba go dostać od Jurka.
+- Czysty plik logo Gzowa 34: na razie jest tylko zdjęcie białej ośmiornicy.
 - Pełne brzmienie powiedzonka "Tak to czasem w życiu bywa, pies się topi, ła...".
 - Gdzie dokładnie jest sklep, do którego chodzi rodzina (podyktowane "w Nieporęcie").
 - Imię śp. Gzowiańskiego somsiada (Jurek: "chyba Arek").
@@ -664,3 +726,6 @@ To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego dat
 - Kim dokładnie są Major, Szamborski i Paweł (pełne imiona, skąd się znają z rodziną).
 - Niewypały: kiedy je znajdowano, ile razy byli saperzy i gdzie na działce.
 - Wójt: jak się nazywa i jaką rolę gra w historiach z Gzowa.
+- W którym roku były święta z kozą.
+- Gdzie wiszą stara tablica FSO i ośmiornica: Jurek podpisał je jako Dom, a GPS obu zdjęć wskazuje okolice Warszawy.
+- Czy helikopter SP-MMM z 2022 to na pewno maszyna Szamborskiego.

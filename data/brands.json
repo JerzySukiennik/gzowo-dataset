@@ -3,10 +3,13 @@
   "id": "gzowo-34",
   "name": "Gzowo 34 (Ośrodek)",
   "what": "Sama działka. Jej logo to ośmiornica.",
-  "media": [],
-  "note": "Pliku z ośmiornicą jeszcze nie ma w datasecie (nie znaleziono go na komputerze Jurka).",
+  "media": [
+   "media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg"
+  ],
+  "note": "Jest zdjęcie logo: biała ośmiornica z długimi, wygiętymi mackami na czarnym tle (media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg). Czystego pliku wektorowego jeszcze nie ma.",
   "source": [
-   "jurek-2026-11-10"
+   "jurek-2026-11-10",
+   "jurek-2026-11-11"
   ]
  },
  {

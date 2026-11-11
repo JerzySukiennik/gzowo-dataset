@@ -2,7 +2,7 @@
 
 > Jedno miejsce z całą wiedzą o działce Gzowo 34 nad Narwią: miejsce, historia, ludzie, zwierzęta, sprzęt, rytuały, powiedzonka, wspomnienia, marki (Gzowo Labs, GSP) i media. Zrobione głównie pod grę o Gzowie (planszową albo komputerową), ale ma służyć każdemu projektowi, który potrzebuje prawdziwego Gzowa.
 
-Język: polski. Wersja 1.1 z 2026-11-10. Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany.
+Język: polski. Wersja 1.2 z 2026-11-11. Wszystko tutaj ma być prawdziwe. Każdy fakt ma źródło (pole source) i pewność (confidence). Rzeczy niepewne są oznaczone, niczego nie dopisano dla ozdoby. Jedyny dział z pomysłami zamiast faktów to game_kit i jest tak podpisany.
 
 ## Najpierw to
 - [Cały tekst datasetu](https://dataset.gzowo.fun/gzowo-dataset.md): wszystko w jednym pliku Markdown, czytaj w całości
@@ -33,6 +33,7 @@ Język: polski. Wersja 1.1 z 2026-11-10. Wszystko tutaj ma być prawdziwe. Każd
 ## Media
 - [Logo Gzowo Labs, SVG poziome](https://dataset.gzowo.fun/media/brand/gzowo-labs/svg/gzowo-labs-poziome-kolor.svg)
 - [Logo Gzowo Labs, sam znak SVG](https://dataset.gzowo.fun/media/brand/gzowo-labs/svg/gzowo-labs-znak-kolor.svg)
+- [Logo Gzowa 34, ośmiornica (zdjęcie)](https://dataset.gzowo.fun/media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg)
 - [Zdjęcie lotnicze działki](https://dataset.gzowo.fun/media/geo/ortofoto-dzialka-zblizenie.jpg)
 - [Ortofotomapa 1 x 1 km](https://dataset.gzowo.fun/media/geo/ortofoto-1km.jpg)
 - [Pikselowa mapa działki z gzowo.fun](https://dataset.gzowo.fun/media/mapa-pikselowa/_cala-mapa.webp)

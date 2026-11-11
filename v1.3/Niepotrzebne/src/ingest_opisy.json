@@ -1,0 +1,209 @@
+{
+ "note": "Dodaj postacie:\n\nKoza - była na święta jedne w Gzowie, przywieźliśmy ją z Warszawy na chwilę\nZofia - Inaczej Mama\nKropka - Pies Waldka, Umarła ~2 lata temu",
+ "photos": [
+  {
+   "id": "archiwum/2021-05-17_mapa-geodezyjna-dzialki",
+   "source_name": "3F84EFB6-9CFA-45C3-B0D8-129C41DCD404.HEIC",
+   "title": "Mapa geodezyjna działki",
+   "caption": "Papierowa mapa geodezyjna z działkami, budynkami i drogami, rozłożona na stole, z czerwonymi pieczątkami w rogu. Zdjęcie zrobione w Warszawie, miesiąc przed tym, jak działka była Sukienników.",
+   "sees": "",
+   "who": "",
+   "people": [],
+   "where": "Warszawa",
+   "date": "2021-05-17",
+   "gps": "46 km od Gzowa",
+   "tags": [
+    "warszawa"
+   ],
+   "file": "media/photos/archiwum/2021-05-17_mapa-geodezyjna-dzialki.jpg",
+   "w": 1200,
+   "h": 1600
+  },
+  {
+   "id": "archiwum/2021-06-13_domek-nr-1",
+   "source_name": "AF825351-250A-4BF4-90D3-D7CFFB7CDDE3.HEIC",
+   "title": "Domek nr 1",
+   "caption": "Ciemny drewniany domek z czerwonymi drzwiami i oknem w czerwonej ramie, na betonowych bloczkach, pod sosnami. Na ścianie biała tabliczka z napisem OŚRODEK WYPOCZYNKOWY. W tle po lewej siedzi Rysio Sukiennik. Domek nr. 1",
+   "sees": "",
+   "who": "Rysio",
+   "people": [
+    "rysio"
+   ],
+   "where": "Domki",
+   "date": "2021-06-13",
+   "gps": "Gzowo 34",
+   "tags": [
+    "domki",
+    "rysio"
+   ],
+   "file": "media/photos/archiwum/2021-06-13_domek-nr-1.jpg",
+   "w": 1600,
+   "h": 1200
+  },
+  {
+   "id": "archiwum/2021-10-23_stara-tablica-osrodka-fso",
+   "source_name": "83008311-D72C-4A62-ABA3-11967EE66174.HEIC",
+   "title": "Stara tablica ośrodka FSO",
+   "caption": "Stara, czerwona, pordzewiała blaszana tablica z białym napisem: FABRYKA SAMOCHODÓW OSOBOWYCH, OŚRODEK WĘDKARSKI W GZOWIE. Zdjęcie zrobione poza Gzowem (GPS z okolic Warszawy).",
+   "sees": "",
+   "who": "",
+   "people": [],
+   "where": "Dom",
+   "date": "2021-10-23",
+   "gps": "47 km od Gzowa",
+   "tags": [
+    "dom"
+   ],
+   "file": "media/photos/archiwum/2021-10-23_stara-tablica-osrodka-fso.jpg",
+   "w": 1600,
+   "h": 877
+  },
+  {
+   "id": "archiwum/2022-09-06_waldek-pozuje-z-helikopterem",
+   "source_name": "6AF1A053-8DAB-471D-80A0-24109B110CB4.HEIC",
+   "title": "Waldek pozuje z helikopterem",
+   "caption": "Granatowy helikopter Airbus z rejestracją SP-MMM stoi na trawie pod drzewami. Waldek w żółtej czapce i zielonej wzorzystej marynarce pozuje z nogą na płozie, pod helikopterem stoi pies Kropka.",
+   "sees": "",
+   "who": "Waldek, Kropka",
+   "people": [
+    "waldek"
+   ],
+   "where": "Skarpa",
+   "date": "2022-09-06",
+   "gps": "Gzowo 34",
+   "tags": [
+    "kropka",
+    "skarpa",
+    "waldek"
+   ],
+   "file": "media/photos/archiwum/2022-09-06_waldek-pozuje-z-helikopterem.jpg",
+   "w": 1200,
+   "h": 1600
+  },
+  {
+   "id": "archiwum/2023-06-07_logo-gzowo-34",
+   "source_name": "6B97E81F-81C4-4A89-A768-4D900511E07A.HEIC",
+   "title": "Logo Gzowo 34",
+   "caption": "Biała ośmiornica z długimi, wygiętymi mackami na czarnym tle, czarno-białe zdjęcie. Logo Gzowo 34",
+   "sees": "",
+   "who": "",
+   "people": [],
+   "where": "Dom",
+   "date": "2023-06-07",
+   "gps": "46 km od Gzowa",
+   "tags": [
+    "dom"
+   ],
+   "file": "media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg",
+   "w": 808,
+   "h": 974
+  },
+  {
+   "id": "archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia",
+   "source_name": "IMG_8030.PNG",
+   "title": "Jan Sukiennik z kozą nad Narwią",
+   "caption": "Ilustracja w malarskim stylu: Jan Sukiennik w białym kudłatym futrze i czarnej czapce stoi tyłem nad zamgloną rzeką o złotym świcie i trzyma na smyczy brązowo-białą kozę z czerwoną obrożą. Na trawie jesienne liście.",
+   "sees": "",
+   "who": "Tata, Koza",
+   "people": [
+    "jan"
+   ],
+   "where": "Cypel",
+   "date": "",
+   "gps": "",
+   "tags": [
+    "cypel",
+    "koza",
+    "tata"
+   ],
+   "file": "media/photos/archiwum/bez-daty_jan-sukiennik-z-koza-nad-narwia.jpg",
+   "w": 1536,
+   "h": 1024
+  }
+ ],
+ "videos": [
+  {
+   "id": "2021-07-10_rysio-nad-woda",
+   "source_name": "33848310-71FF-45EB-A10E-717DE00B86B2.MOV",
+   "title": "Rysio nad wodą",
+   "caption": "Zachód słońca nad Narwią. Ciemna sylwetka dziecka stoi na brzegu wśród traw i rzuca coś do wody.",
+   "sees": "",
+   "who": "Rysio",
+   "people": [
+    "rysio"
+   ],
+   "where": "Cypel",
+   "date": "2021-07-10",
+   "gps": "Gzowo 34",
+   "tags": [
+    "cypel",
+    "rysio"
+   ]
+  },
+  {
+   "id": "2023-07-08_czerwona-postac-nad-narwia",
+   "source_name": "C8AA179F-0228-4326-8EFC-0036A2DDC024.MOV",
+   "title": "Czerwona postać nad Narwią",
+   "caption": "Zmierzch nad Narwią, niebo jeszcze pomarańczowe przy horyzoncie. W wysokiej trawie stoi tyłem postać w długim stroju, cała oświetlona na czerwono, i patrzy na wodę. Pod koniec filmu postaci już nie ma.",
+   "sees": "",
+   "who": "Zofia",
+   "people": [
+    "zofia"
+   ],
+   "where": "Cypel",
+   "date": "2023-07-08",
+   "gps": "Gzowo 34",
+   "tags": [
+    "cypel",
+    "zofia"
+   ]
+  },
+  {
+   "id": "2023-07-15_helikopter-nad-narwia",
+   "source_name": "7EF60112-94D9-4845-8D95-184CB07216EB.MOV",
+   "title": "Helikopter nad Narwią",
+   "caption": "",
+   "sees": "Granatowy helikopter wisi nisko nad Narwią tuż przy brzegu i marszczy wodę. Na skarpie stoi osoba w stroju kąpielowym i macha rękami, obok czerwone krzesła i turkusowy ręcznik, na pierwszym planie popiół z ogniska.",
+   "who": "Rysio, Zofia, Szamborski",
+   "people": [
+    "rysio",
+    "szamborski",
+    "zofia"
+   ],
+   "where": "Cypel",
+   "date": "2023-07-15",
+   "gps": "Gzowo 34",
+   "tags": [
+    "cypel",
+    "rysio",
+    "szamborski",
+    "zofia"
+   ]
+  },
+  {
+   "id": "bez-daty_swieta-w-gzowie-z-kozami",
+   "source_name": "IMG_0333.MOV",
+   "title": "Święta w Gzowie z Kozami",
+   "caption": "Montaż pod muzykę z zimowego wieczoru w domu, jeszcze w surowym stanie (ściany z OSB i pustaków). Po kolei: pali się kominek-koza, na ścianie świeci niebieska ośmiokątna lampa, nad biurkiem wisi duży kolorowy obraz, przy nim stos drewna. Potem choinka z lampkami i paczkami, chłopiec przytulony do kozy z czerwoną obrożą przy beli siana, świąteczny stół ze świeczkami i talerzami, przy którym siedzi chłopiec w niebieskiej bluzie. Na końcu selfie mężczyzny w czarnej czapce i grubych czarnych okularach, z kręconymi włosami (tata).",
+   "sees": "",
+   "who": "Koza, Jurek, Zofia, Rysio, Tata",
+   "people": [
+    "jan",
+    "jurek",
+    "rysio",
+    "zofia"
+   ],
+   "where": "Dom",
+   "date": "",
+   "gps": "",
+   "tags": [
+    "dom",
+    "jurek",
+    "koza",
+    "rysio",
+    "tata",
+    "zofia"
+   ]
+  }
+ ]
+}

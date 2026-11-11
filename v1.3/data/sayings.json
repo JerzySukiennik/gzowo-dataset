@@ -1,0 +1,83 @@
+[
+ {
+  "text": "Ośrodek daje, Ośrodek daje.",
+  "who": "Jan Sukiennik (tata)",
+  "note": "Zasada nr 1, od \"Bóg daje, Bóg zabiera\". Od niej nazwa gry Ośrodek Daje.",
+  "source": [
+   "notatki"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Herbata nie wyklucza kawy.",
+  "who": "Ciszewscy x Sukiennicy",
+  "note": "Hasło pokoju Ciszewskich w Galerii.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Tak to czasem w życiu bywa, pies się topi, ła...",
+  "who": "rodzinne powiedzonko",
+  "note": "Tak podyktował Jurek, końcówka się urwała. Znane przysłowie brzmi: \"Tak to czasem w życiu bywa: pies się topi, łańcuch pływa\". Pełne brzmienie do potwierdzenia.",
+  "source": [
+   "jurek-2026-11-10"
+  ],
+  "confidence": "niepewne"
+ },
+ {
+  "text": "Serce Gzowa - Narew!",
+  "who": "Jurek",
+  "note": "Podpis pokoju \"Nasza Narew\".",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Ogień + Gzowo to niepokonane combo!",
+  "who": "Jurek",
+  "note": "Podpis pokoju \"Fire\".",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Pan Senek musi poczekać.",
+  "who": "Jurek",
+  "note": "Tytuł pokoju z nocnymi, cichymi momentami.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Piwko, Narew, wspólny czas. Czego by tu chcieć więcej!",
+  "who": "Jurek",
+  "note": "Podpis zdjęcia \"Letni odpoczynek\".",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Gzowo Jest Najlepsze <3",
+  "who": "Jurek",
+  "note": "Napis kredą, który maskotka Narek ma pisać na ścianie domu.",
+  "source": [
+   "notatki"
+  ],
+  "confidence": "pewne"
+ },
+ {
+  "text": "Mmm, yummy!",
+  "who": "Jurek",
+  "note": "O jedzeniu lodu z Narwi.",
+  "source": [
+   "galeria"
+  ],
+  "confidence": "pewne"
+ }
+]

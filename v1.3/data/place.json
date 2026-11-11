@@ -1,0 +1,64 @@
+{
+ "name": "Gzowo 34",
+ "nicknames": [
+  "Gzowo",
+  "Ośrodek",
+  "Ośrodek Gzowo",
+  "działka",
+  "posesja nad Narwią"
+ ],
+ "what": "Rodzinna działka Sukienników nad Narwią, dawny ośrodek FSO (Fabryki Samochodów Osobowych). Na starej tablicy stoi \"Ośrodek Wędkarski w Gzowie\", na tabliczce domku \"Ośrodek Wypoczynkowy\". Od niej pochodzą wszystkie marki z 'Gzowo' w nazwie.",
+ "address": "Gzowo 34, wieś Gzowo, gmina Pokrzywnica, powiat pułtuski, województwo mazowieckie, Polska",
+ "coordinates": {
+  "lat": 52.612806,
+  "lon": 21.116,
+  "note": "Punkt Gzowo 34 użyty w projekcie Gzowo Meadow."
+ },
+ "from_warsaw": "Ok. 45 km w linii prostej na północ od centrum Warszawy (wyliczone ze współrzędnych). Rodzina mieszka w Warszawie i przyjeżdża na działkę.",
+ "river": {
+  "name": "Narew",
+  "role": "\"Serce Gzowa - Narew!\" (podpis z galerii). Działka schodzi do samej wody.",
+  "character": "Rzeka jest tu szeroka i spokojna, wygląda jak jezioro. W rodzinnych podpisach bywa nazywana jeziorem (\"łabędź na jeziorze\"), gra Rysia ma podtytuł \"posesja nad jeziorem\". W dolinie są rozlewiska, starorzecze i piaszczyste łachy.",
+  "water_level_m": 79.3,
+  "uses": [
+   "kąpiel i brodzenie",
+   "SUP",
+   "kajaki",
+   "motorówka",
+   "kopanie w piasku na plaży",
+   "wędkowanie (wędkarze z okolicy)",
+   "zimą chodzenie po lodzie"
+  ]
+ },
+ "terrain": {
+  "summary": "Działka leży na samej krawędzi skarpy nadnarwiańskiej. Jest góra i dół: na górze terasa z polami, sadami i zabudową wsi, na dole dolina z rzeką, mokrymi łąkami i piaskiem.",
+  "elevation_in_1km_square_m": {
+   "min": 79.1,
+   "max": 104.1,
+   "difference": 25.0
+  },
+  "plot_ground_m": 87.2,
+  "scarp": "Skarpa biegnie z północy na południe, ok. 20 m różnicy wysokości na krótkim dystansie.",
+  "landcover_1km_square_pct": {
+   "pola uprawne": 32.4,
+   "łąka": 21.1,
+   "woda": 17.4,
+   "siedliska i ogrody": 16.1,
+   "las": 7.3,
+   "budynki": 1.8,
+   "drogi": 2.5,
+   "piach": 1.3
+  },
+  "trees": "Sosny (na działce rośnie kępa wysokich sosen), brzozy, dęby, przy wodzie wierzby i olchy.",
+  "neighbourhood": "W kwadracie 1 x 1 km wokół działki OpenStreetMap ma ok. 300 budynków, Aleję Lipową, plażę, mokradło, starorzecze i rowy melioracyjne."
+ },
+ "aerial_view": "Na zdjęciu lotniczym (media/geo/ortofoto-dzialka-zblizenie.jpg, żółte kółko = Gzowo 34): w środku działki ciemna kępa sosen, dookoła jasny piasek, od północnego wschodu i wschodu szeroka woda Narwi, na wschodzie mała zatoczka i zalesiony cypel, od południa i zachodu domy sąsiadów, dojazd drogą od południowego zachodu.",
+ "source": [
+  "jurek-2026-11-10",
+  "notatki",
+  "geodane",
+  "galeria",
+  "obserwacja"
+ ],
+ "confidence": "pewne"
+}

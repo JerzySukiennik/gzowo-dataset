@@ -1,0 +1,101 @@
+[
+ {
+  "id": "gzowo-34",
+  "name": "Gzowo 34 (Ośrodek)",
+  "what": "Sama działka. Jej logo to ośmiornica.",
+  "media": [
+   "media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg"
+  ],
+  "note": "Jest zdjęcie logo: biała ośmiornica z długimi, wygiętymi mackami na czarnym tle (media/photos/archiwum/2023-06-07_logo-gzowo-34.jpg). Czystego pliku wektorowego jeszcze nie ma.",
+  "source": [
+   "jurek-2026-11-10",
+   "jurek-2026-11-11"
+  ]
+ },
+ {
+  "id": "gzowo-labs",
+  "name": "Gzowo Labs",
+  "url": "https://gzowo.fun",
+  "instagram": "@gzowo_labs",
+  "github": "https://github.com/JerzySukiennik",
+  "what": "Marka i portfolio Jurka: rakiety, druk 3D, gry i software z AI, wszystko w jednym miejscu. Od listopada 2026 obejmuje też GSP.",
+  "tagline": "I build things that fly. And a few that don't crash.",
+  "signature": "Jerzy Sukiennik's Official Home Page ~ Gzowo 34, Poland ~ Est. 2025",
+  "site": "Strona gzowo.fun to pulpit Windows 98 nad żywą pikselową mapą działki. Budynki na mapie to działy: wyrzutnia = Rockets, warsztat = 3D Printing, Arcade = Games, Lab = Software and AI. Na mapie są też: znak Gzowo 34, skrzynka na listy (księga gości), ogródek do sadzenia, pomost do łowienia ryb, dwa kajaki na Narwi, hangar z flotą rakiet, nieskończony mur do malowania, pulpit startowy z licznikiem startów. Celowo w klimacie GeoCities 1998.",
+  "economy_on_site": "Waluta: szyszki. Dwie krypto-zabawki: Gzowium (GZM) i Gzofajfus (GZF), na \"Gzowo Street\".",
+  "sections": {
+   "Rockets": "Real ones. They really fly.",
+   "3D Printing": "Things made of plastic and stubbornness.",
+   "Games": "Play in your browser. No download.",
+   "Software and AI": "Apps, experiments and models trained from scratch."
+  },
+  "logo": {
+   "name": "Wschód",
+   "idea": "Dwa splecione ogniwa (dwóch braci) wschodzą zza horyzontu. Pod linią ich odbicie w paskach, jak w Narwi. Linia niesie napis GZOWO LABS, pod nią podpis ROCKETS · GAMES · 3D PRINTS · AI.",
+   "colors": {
+    "Atrament": "#141414",
+    "Zapłon": "#FF6A13 (tylko prawe ogniwo)",
+    "biel": "#FFFFFF"
+   },
+   "fonts": {
+    "napis": "Unbounded Bold",
+    "podpis": "Space Mono Bold"
+   },
+   "versions": "poziome, poziome bez podpisu, pionowe, sam napis (na korpus rakiety), znak, mały znak (favicon). Każda w 4 wariantach: kolor, ciemne tło, czarne, białe. SVG i PNG.",
+   "rules": "Pole ochronne równe promieniowi ogniwa. Minimum: poziome 140 px albo 35 mm, znak od 32 px, mały znak od 16 px.",
+   "files": "media/brand/gzowo-labs/svg/, png/, favicon/, naklejki/ (naklejki na korpus i statecznik rakiety), awatar/, filmy/ (animacje logo MP4)"
+  },
+  "fire_gif": "Stary tytuł strony: płonący napis GZOWO LABS (media/brand/gzowo-labs/strona/gzowo-labs-fire.gif). Dalej żyje na stronie i w zakończeniach rolek.",
+  "source": [
+   "notatki",
+   "gzowo.fun",
+   "jurek-2026-11-10"
+  ]
+ },
+ {
+  "id": "gsp",
+  "name": "GSP, Gzowo Space Program",
+  "url": "https://gspaerospace.pl",
+  "what": "Rakietowa marka Jurka i taty, założona w 2025. Od listopada 2026 scalona z Gzowo Labs. Styl: czarne tło, kroje Bebas Neue, Space Mono i DM Sans, kosmiczny brutalistyczny minimalizm.",
+  "files": "media/brand/gsp/ (logo PNG, gify, zakończenia filmów, awatary)",
+  "source": [
+   "notatki",
+   "gzowo.fun",
+   "jurek-2026-11-10"
+  ]
+ },
+ {
+  "id": "gzowo-industries",
+  "name": "Gzowo Industries",
+  "what": "Strona sprzętowa Gzowo Labs: inteligentne okulary Gzowo Glass i drukowany pies-robot Smendiłendi.",
+  "source": [
+   "gzowo.fun",
+   "notatki"
+  ]
+ },
+ {
+  "id": "narew-labs",
+  "name": "Narew Labs",
+  "what": "Parasol nad własnymi modelami AI Jurka z rodziny G (G-Micro, G-Mini i kolejne). Maskotka: Narek.",
+  "source": [
+   "notatki"
+  ]
+ },
+ {
+  "id": "gzowo-tv",
+  "name": "Gzowo TV",
+  "what": "Własny system telewizyjny Jurka dla domu w Gzowie (MacBook przy telewizorze, iPhone jako pilot).",
+  "source": [
+   "notatki"
+  ]
+ },
+ {
+  "id": "kalakasanyt",
+  "name": "KALAKASANYT",
+  "what": "Dawny nick Jurka z czasów nagrywania filmików z kamerką (ramka \"Kalakasan yt\").",
+  "source": [
+   "jurek-2026-11-10",
+   "obserwacja"
+  ]
+ }
+]

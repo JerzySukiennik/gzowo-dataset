@@ -1,0 +1,179 @@
+{
+ "note": "To NIE są wspomnienia, tylko propozycje Claude'a ułożone z faktów z tego datasetu, żeby łatwiej było zacząć grę. Każdą można zmienić albo wyrzucić.",
+ "board_spaces": [
+  "Dom (śniadanie przy dużym stole)",
+  "Taras",
+  "Wiata z pasiastym fotelem",
+  "Trzy domki FSO",
+  "Panele słoneczne",
+  "Ognisko",
+  "Hamak w sosnach",
+  "Skarpa i stary skład",
+  "Plaża",
+  "Narew",
+  "Mur z gabionów",
+  "GL Launch Site",
+  "Dom Waldka",
+  "Stacja Moya",
+  "Sklep",
+  "Aleja Lipowa",
+  "Cypel",
+  "Kocia Wyspa",
+  "Kanał",
+  "Lądowisko helikoptera"
+ ],
+ "characters": [
+  "Jurek (konstruktor rakiet)",
+  "Rysio (czerwona bluza Spider-Man)",
+  "Jan, Kierownik Ośrodka (białe futro, buty z krokodyla)",
+  "Zofia (Mama)",
+  "Waldek (operator koparki, przyjaciel)",
+  "Bożena",
+  "Ciszewscy: Bartek, Clu, Ignacy, Helena",
+  "Czupryńscy",
+  "Janek Kunstler",
+  "Benny",
+  "Major (wędkarz i drwal)",
+  "Szamborski (przylatuje helikopterem)",
+  "Paweł (łysy gość z kanału)",
+  "Wójt",
+  "Panie ze stacji Moya",
+  "Dropsik",
+  "Kropka (pies Waldka)",
+  "Koza (gość na święta)",
+  "Beethoven (głuchy biały kot)",
+  "szopy pracze",
+  "ośmiornica (logo)"
+ ],
+ "items": [
+  "koparka",
+  "Tesla",
+  "motorówka",
+  "kajak",
+  "deska SUP",
+  "dron Avata",
+  "rakieta Gzofajfus",
+  "spadochron",
+  "AirTag z nosa rakiety",
+  "łopata",
+  "stara tablica FSO",
+  "mapa geodezyjna",
+  "niewypał",
+  "helikopter",
+  "wędka",
+  "drewno z wycinki",
+  "tafla lodu",
+  "lody ze stacji Moya",
+  "szyszki (waluta)",
+  "puszka",
+  "hamak",
+  "pianino",
+  "białe futro",
+  "buty z krokodyla"
+ ],
+ "mechanics": [
+  "Niewypały i saperzy: na polu trafia się niewypał, pole jest zablokowane, dopóki nie przyjadą saperzy. Saperzy to mechanika gry, nie postać."
+ ],
+ "event_cards": [
+  "Ośrodek daje: dostajesz coś za nic.",
+  "Grad wielkości kostek lodu: wszyscy chowają się pod wiatę.",
+  "Spadochron się nie otworzył: szukasz rakiety w polu.",
+  "Spadochron otworzył się za pierwszym razem.",
+  "Dropsik zniknął: wszyscy ruszają na poszukiwania.",
+  "Niewypał! Pole jest zamknięte, dopóki nie przyjadą saperzy.",
+  "Saperzy zabierają niewypał: pole znów otwarte.",
+  "Szamborski ląduje helikopterem: przenosisz się na dowolne pole.",
+  "Major robi wycinkę: jedno drzewo mniej, drewno na ognisko dla wszystkich.",
+  "Major złowił rybę: kolacja nad Narwią.",
+  "Wizyta Wójta: wszyscy na chwilę są bardzo grzeczni.",
+  "Paweł macha z kanału obok Kociej Wyspy.",
+  "Koza przyjechała z Warszawy na święta: wszyscy zbierają się przy choince.",
+  "Znajdujesz starą tablicę FSO: poznajesz historię ośrodka.",
+  "Czerwona noc na Cyplu: ktoś stoi nad wodą i patrzy w zmierzch.",
+  "Narew zamarzła: można przejść po lodzie.",
+  "Zimowy obiad: zjadasz taflę lodu.",
+  "Ciężka droga do stacji Moya: przedzierasz się przez trawy.",
+  "Waldek odpala koparkę: kopiesz dwa razy głębiej.",
+  "Szopy tańczą przy ognisku.",
+  "Beethoven nie słyszy, co się dzieje, i nic sobie z tego nie robi.",
+  "Tata maluje światłem przy ognisku.",
+  "Herbata nie wyklucza kawy: bierzesz obie karty.",
+  "Odkrywasz wejście do starego składu w skarpie.",
+  "Łoś przechodzi przez działkę: wszyscy stoją w miejscu.",
+  "Zachód słońca nad Narwią: tura bez pośpiechu."
+ ],
+ "quiz": [
+  {
+   "q": "Czym była działka, zanim trafiła do Sukienników?",
+   "a": "Ośrodkiem wypoczynkowym FSO."
+  },
+  {
+   "q": "Ile domków stało kiedyś w ośrodku i ile zostało?",
+   "a": "Dziesięć, zostały trzy."
+  },
+  {
+   "q": "Kto jest Kierownikiem Ośrodka?",
+   "a": "Tata, Jan Sukiennik."
+  },
+  {
+   "q": "Jak brzmi zasada nr 1 Kierownika Ośrodka?",
+   "a": "Ośrodek daje, Ośrodek daje."
+  },
+  {
+   "q": "Kto głównie pracuje koparką?",
+   "a": "Waldek."
+  },
+  {
+   "q": "Jak ma na imię głuchy biały kot i czyj jest?",
+   "a": "Beethoven, kot Czupryńskich."
+  },
+  {
+   "q": "Co jest logo Gzowa 34?",
+   "a": "Ośmiornica."
+  },
+  {
+   "q": "Dokąd chodzi się na lody?",
+   "a": "Na stację Moya."
+  },
+  {
+   "q": "Jak nazywa się miejsce startów rakiet?",
+   "a": "GL Launch Site."
+  },
+  {
+   "q": "Co symbolizują dwa ogniwa w logo Gzowo Labs?",
+   "a": "Dwóch braci, Jurka i Rysia."
+  },
+  {
+   "q": "Która rakieta ma w nosie miejsce na AirTaga?",
+   "a": "Gzofajfus Classic Mk III."
+  },
+  {
+   "q": "Jakie hasło mają Ciszewscy i Sukiennicy?",
+   "a": "Herbata nie wyklucza kawy."
+  },
+  {
+   "q": "Od kiedy Sukiennicy mają działkę?",
+   "a": "Od czerwca 2021."
+  },
+  {
+   "q": "Co to jest zimowy obiad?",
+   "a": "Tafla lodu z Narwi."
+  },
+  {
+   "q": "Co jest napisane na starej czerwonej tablicy?",
+   "a": "Fabryka Samochodów Osobowych, Ośrodek Wędkarski w Gzowie."
+  },
+  {
+   "q": "Jakie zwierzę przyjechało do Gzowa na jedne święta?",
+   "a": "Koza, przywieziona z Warszawy."
+  },
+  {
+   "q": "Jaką rejestrację ma granatowy helikopter?",
+   "a": "SP-MMM."
+  },
+  {
+   "q": "Jak miał na imię pies Waldka, który stał pod helikopterem?",
+   "a": "Kropka."
+  }
+ ]
+}

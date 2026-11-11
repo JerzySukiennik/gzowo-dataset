@@ -49,10 +49,11 @@ def file_info(path, kind):
                 date, source = '-'.join(m.groups()), 'z pliku'
         else:
             tags = json.loads(run(['ffprobe', '-v', 'error', '-show_entries', 'format_tags', '-of', 'json', path], 20).stdout or '{}').get('format', {}).get('tags', {})
-            for k in ('com.apple.quicktime.creationdate', 'creation_time'):
-                if re.match(r'\d{4}-\d{2}-\d{2}', tags.get(k, '')):
-                    date, source = tags[k][:10], 'z pliku'
-                    break
+            shot, written = tags.get('com.apple.quicktime.creationdate', ''), tags.get('creation_time', '')
+            if re.match(r'\d{4}-\d{2}-\d{2}', shot):
+                date, source = shot[:10], 'z pliku'
+            elif re.match(r'\d{4}-\d{2}-\d{2}', written):
+                source = f'brak daty nagrania, plik zapisany {written[:10]}'
             m = re.match(r'([+-]\d+\.\d+)([+-]\d+\.\d+)', tags.get('com.apple.quicktime.location.ISO6709', ''))
             if m:
                 gps = near(float(m.group(1)), float(m.group(2)))

@@ -201,6 +201,7 @@ function fillHint(card, it) {
 
 function fillDate(card, it) {
   const input = $('[name=when]', card)
+  if (!it.date && it.dateSource && !card.dataset.dated) $('.dsrc', card).textContent = it.dateSource
   if (it.date && !input.value && !card.dataset.dated) {
     input.value = it.date
     card.dataset.dated = '1'
